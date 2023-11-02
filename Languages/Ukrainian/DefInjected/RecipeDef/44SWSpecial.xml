@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Standard manufacture -->
+
+  <MakeAmmo_44SWSpecial_FMJ.label>зробити патрон .44 S&amp;W Special x500</MakeAmmo_44SWSpecial_FMJ.label>
+  <MakeAmmo_44SWSpecial_FMJ.description>Виготовити п'ятсот патронів .44 S&amp;W Special</MakeAmmo_44SWSpecial_FMJ.description>
+  <MakeAmmo_44SWSpecial_FMJ.jobString>Робить патрони .44 S&amp;W Special</MakeAmmo_44SWSpecial_FMJ.jobString>
+
+  <MakeAmmo_44SWSpecial_AP.label>зробити патрон .44 S&amp;W Special (Б) x500</MakeAmmo_44SWSpecial_AP.label>
+  <MakeAmmo_44SWSpecial_AP.description>Виготовити п'ятсот патронів .44 S&amp;W Special (Б)</MakeAmmo_44SWSpecial_AP.description>
+  <MakeAmmo_44SWSpecial_AP.jobString>Робить патрони .44 S&amp;W Special (Б)</MakeAmmo_44SWSpecial_AP.jobString>
+
+  <MakeAmmo_44SWSpecial_HP.label>зробити патрон .44 S&amp;W Special (Е) x500</MakeAmmo_44SWSpecial_HP.label>
+  <MakeAmmo_44SWSpecial_HP.description>Виготовити п'ятсот патронів .44 S&amp;W Special (Е)</MakeAmmo_44SWSpecial_HP.description>
+  <MakeAmmo_44SWSpecial_HP.jobString>Робить патрони .44 S&amp;W Special (Е)</MakeAmmo_44SWSpecial_HP.jobString>
+
+
+</LanguageData>

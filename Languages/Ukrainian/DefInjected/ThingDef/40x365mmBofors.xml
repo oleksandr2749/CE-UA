@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_40x365mmBofors_AP.label>снаряд 40x365мм (Б)</Ammo_40x365mmBofors_AP.label>
+  <Ammo_40x365mmBofors_AP.description>Large caliber cartridge used by autocannons and anti-aircraft cannons.</Ammo_40x365mmBofors_AP.description>
+
+  <Ammo_40x365mmBofors_HE.label>снаряд 40x365мм (Фугасний)</Ammo_40x365mmBofors_HE.label>
+  <Ammo_40x365mmBofors_HE.description>Large caliber cartridge used by autocannons and anti-aircraft cannons.</Ammo_40x365mmBofors_HE.description>
+
+  <Ammo_40x365mmBofors_HE_TFuzed.label>снаряд 40x365мм (Фугасний Time Fuzed)</Ammo_40x365mmBofors_HE_TFuzed.label>
+  <Ammo_40x365mmBofors_HE_TFuzed.description>Large caliber cartridge used by autocannons and anti-aircraft cannons.</Ammo_40x365mmBofors_HE_TFuzed.description>
+
+  <Ammo_40x365mmBofors_Sabot.label>снаряд 40x365мм (Підкаліберний)</Ammo_40x365mmBofors_Sabot.label>
+  <Ammo_40x365mmBofors_Sabot.description>Large caliber cartridge used by autocannons and anti-aircraft cannons.</Ammo_40x365mmBofors_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_40x365mmBofors_AP.label>40x365mm Bofors bullet (Б)</Bullet_40x365mmBofors_AP.label>
+  <Bullet_40x365mmBofors_HE.label>40x365mm Bofors bullet (Фугасний)</Bullet_40x365mmBofors_HE.label>
+  <Bullet_40x365mmBofors_HE_TFuzed.label>40x365mm Bofors bullet (Фугасний Time-Fuzed)</Bullet_40x365mmBofors_HE_TFuzed.label>
+  <Bullet_40x365mmBofors_Sabot.label>40x365mm Bofors bullet (Підкаліберний)</Bullet_40x365mmBofors_Sabot.label>
+
+
+</LanguageData>

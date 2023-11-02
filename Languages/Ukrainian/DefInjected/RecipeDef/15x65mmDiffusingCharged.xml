@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_15x65mmDiffusingCharged.label>зробити патрон 15x65mm Diffusing Charged x200</MakeAmmo_15x65mmDiffusingCharged.label>
+  <MakeAmmo_15x65mmDiffusingCharged.description>Craft 200 15x65mm Diffusing Charged</MakeAmmo_15x65mmDiffusingCharged.description>
+  <MakeAmmo_15x65mmDiffusingCharged.jobString>Робить патрони 15x65mm Diffusing Charged</MakeAmmo_15x65mmDiffusingCharged.jobString>
+
+
+</LanguageData>

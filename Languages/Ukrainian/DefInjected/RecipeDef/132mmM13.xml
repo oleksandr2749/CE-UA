@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_132mmM13_HE.label>зробити патрон 4x 132mm M13 HE rocket</MakeAmmo_132mmM13_HE.label>
+  <MakeAmmo_132mmM13_HE.description>Craft 4x 132mm M13 HE rocket</MakeAmmo_132mmM13_HE.description>
+  <MakeAmmo_132mmM13_HE.jobString>Робить патрони 132mm M13 HE rocket</MakeAmmo_132mmM13_HE.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_86x43mmBlackout_FMJ.label>патрон 8,6х34мм</Ammo_86x43mmBlackout_FMJ.label>
+  <Ammo_86x43mmBlackout_FMJ.description>A centerfire rifle cartridge desinged to deliver high kenetic energy out of short barrels.</Ammo_86x43mmBlackout_FMJ.description>
+
+  <Ammo_86x43mmBlackout_AP.label>патрон 8,6х34мм (Б)</Ammo_86x43mmBlackout_AP.label>
+  <Ammo_86x43mmBlackout_AP.description>A centerfire rifle cartridge desinged to deliver high kenetic energy out of short barrels.</Ammo_86x43mmBlackout_AP.description>
+
+  <Ammo_86x43mmBlackout_HP.label>патрон 8,6х34мм (Е)</Ammo_86x43mmBlackout_HP.label>
+  <Ammo_86x43mmBlackout_HP.description>A centerfire rifle cartridge desinged to deliver high kenetic energy out of short barrels.</Ammo_86x43mmBlackout_HP.description>
+
+  <Ammo_86x43mmBlackout_Incendiary.label>патрон 8,6х34мм (БЗ)</Ammo_86x43mmBlackout_Incendiary.label>
+  <Ammo_86x43mmBlackout_Incendiary.description>A centerfire rifle cartridge desinged to deliver high kenetic energy out of short barrels.</Ammo_86x43mmBlackout_Incendiary.description>
+
+  <Ammo_86x43mmBlackout_HE.label>патрон 8,6х34мм (БФ)</Ammo_86x43mmBlackout_HE.label>
+  <Ammo_86x43mmBlackout_HE.description>A centerfire rifle cartridge desinged to deliver high kenetic energy out of short barrels.</Ammo_86x43mmBlackout_HE.description>
+
+  <Ammo_86x43mmBlackout_Sabot.label>патрон 8,6х34мм (Підкаліберний)</Ammo_86x43mmBlackout_Sabot.label>
+  <Ammo_86x43mmBlackout_Sabot.description>A centerfire rifle cartridge desinged to deliver high kenetic energy out of short barrels.</Ammo_86x43mmBlackout_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_86x43mmBlackout_FMJ.label>8.6mm Blackout bullet</Bullet_86x43mmBlackout_FMJ.label>
+  <Bullet_86x43mmBlackout_AP.label>8.6mm Blackout bullet (Б)</Bullet_86x43mmBlackout_AP.label>
+  <Bullet_86x43mmBlackout_HP.label>8.6mm Blackout bullet (Е)</Bullet_86x43mmBlackout_HP.label>
+  <Bullet_86x43mmBlackout_Incendiary.label>8.6mm Blackout bullet (БЗ)</Bullet_86x43mmBlackout_Incendiary.label>
+  <Bullet_86x43mmBlackout_HE.label>8.6mm Blackout bullet (БФ)</Bullet_86x43mmBlackout_HE.label>
+  <Bullet_86x43mmBlackout_Sabot.label>8.6mm Blackout bullet (Підкаліберний)</Bullet_86x43mmBlackout_Sabot.label>
+
+
+</LanguageData>

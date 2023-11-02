@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_70mmMechanoidGrenade_HE.label>гранатометний снаряд механоїдів 70мм (Фугасний)</Ammo_70mmMechanoidGrenade_HE.label>
+  <Ammo_70mmMechanoidGrenade_HE.description>Low velocity, large bore grenade fired from mechanoid grenade launchers.</Ammo_70mmMechanoidGrenade_HE.description>
+
+  <Ammo_70mmMechanoidGrenade_EMP.label>гранатометний снаряд механоїдів 70мм (ЕМІ)</Ammo_70mmMechanoidGrenade_EMP.label>
+  <Ammo_70mmMechanoidGrenade_EMP.description>Low velocity, large bore grenade fired from mechanoid grenade launchers.</Ammo_70mmMechanoidGrenade_EMP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_70mmMechanoidGrenade_HE.label>70mm mechanoid grenade (Фугасний)</Bullet_70mmMechanoidGrenade_HE.label>
+  <Bullet_70mmMechanoidGrenade_EMP.label>70mm mechanoid grenade (ЕМІ)</Bullet_70mmMechanoidGrenade_EMP.label>
+
+
+</LanguageData>

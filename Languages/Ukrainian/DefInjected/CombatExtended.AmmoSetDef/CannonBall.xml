@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- AmmoSet -->
+
+  <AmmoSet_CannonBall.label>Cannon Ball</AmmoSet_CannonBall.label>
+
+
+  <!-- Alternate AmmoSet for indirect artillery. -->
+
+  <AmmoSet_CannonBall_Mortar.label>Cannon Ball</AmmoSet_CannonBall_Mortar.label>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_600NitroExpress_FMJ.label>патрон 15,7х76мм</Ammo_600NitroExpress_FMJ.label>
+  <Ammo_600NitroExpress_FMJ.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_600NitroExpress_FMJ.description>
+
+  <Ammo_600NitroExpress_AP.label>патрон 15,7х76мм (Б)</Ammo_600NitroExpress_AP.label>
+  <Ammo_600NitroExpress_AP.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_600NitroExpress_AP.description>
+
+  <Ammo_600NitroExpress_Incendiary.label>патрон 15,7х76мм (БЗ)</Ammo_600NitroExpress_Incendiary.label>
+  <Ammo_600NitroExpress_Incendiary.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_600NitroExpress_Incendiary.description>
+
+  <Ammo_600NitroExpress_HE.label>патрон 15,7х76мм (БФ)</Ammo_600NitroExpress_HE.label>
+  <Ammo_600NitroExpress_HE.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_600NitroExpress_HE.description>
+
+  <Ammo_600NitroExpress_Sabot.label>патрон 15,7х76мм (Підкаліберний)</Ammo_600NitroExpress_Sabot.label>
+  <Ammo_600NitroExpress_Sabot.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_600NitroExpress_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_600NitroExpress_FMJ.label>.600 Nitro Express bullet</Bullet_600NitroExpress_FMJ.label>
+  <Bullet_600NitroExpress_AP.label>.600 Nitro Express bullet (Б)</Bullet_600NitroExpress_AP.label>
+  <Bullet_600NitroExpress_Incendiary.label>.600 Nitro Express bullet (БЗ)</Bullet_600NitroExpress_Incendiary.label>
+  <Bullet_600NitroExpress_HE.label>.600 Nitro Express bullet (БФ)</Bullet_600NitroExpress_HE.label>
+  <Bullet_600NitroExpress_Sabot.label>.600 Nitro Express bullet (Підкаліберний)</Bullet_600NitroExpress_Sabot.label>
+
+
+</LanguageData>

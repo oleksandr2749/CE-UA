@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_50mmRocket_HE.label>ракета 50мм (Фугасний)</Ammo_50mmRocket_HE.label>
+  <Ammo_50mmRocket_HE.description>An unguided rocket equipped with an explosive warhead and a contact fuse.</Ammo_50mmRocket_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_50mmRocket_HE.label>50mm rocket (Фугасний)</Bullet_50mmRocket_HE.label>
+
+
+</LanguageData>

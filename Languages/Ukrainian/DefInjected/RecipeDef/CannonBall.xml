@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_CannonBall_Round.label>зробити патрон round shot cannon balls x5</MakeAmmo_CannonBall_Round.label>
+  <MakeAmmo_CannonBall_Round.description>Craft 5 round shot cannon ball</MakeAmmo_CannonBall_Round.description>
+  <MakeAmmo_CannonBall_Round.jobString>Робить патрони round shot cannon ball</MakeAmmo_CannonBall_Round.jobString>
+
+  <MakeAmmo_CannonBall_Bursting.label>зробити патрон bursting shells cannon balls x5</MakeAmmo_CannonBall_Bursting.label>
+  <MakeAmmo_CannonBall_Bursting.description>Craft 5 bursting shells cannon ball</MakeAmmo_CannonBall_Bursting.description>
+  <MakeAmmo_CannonBall_Bursting.jobString>Робить патрони bursting shells cannon ball</MakeAmmo_CannonBall_Bursting.jobString>
+
+  <MakeAmmo_CannonBall_Incendiary.label>зробити патрон incendiary shells cannon balls x5</MakeAmmo_CannonBall_Incendiary.label>
+  <MakeAmmo_CannonBall_Incendiary.description>Craft 5 incendiary shells cannon ball</MakeAmmo_CannonBall_Incendiary.description>
+  <MakeAmmo_CannonBall_Incendiary.jobString>Робить патрони incendiary shells cannon ball</MakeAmmo_CannonBall_Incendiary.jobString>
+
+  <MakeAmmo_CannonBall_Grape.label>Make grape shot cannon shells x5</MakeAmmo_CannonBall_Grape.label>
+  <MakeAmmo_CannonBall_Grape.description>Craft 5 grape shot cannon shell</MakeAmmo_CannonBall_Grape.description>
+  <MakeAmmo_CannonBall_Grape.jobString>Робить патрони grape shot cannon shell</MakeAmmo_CannonBall_Grape.jobString>
+
+
+</LanguageData>

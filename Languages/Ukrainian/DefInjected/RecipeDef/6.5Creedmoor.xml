@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_65x48mmCreedmoor_FMJ.label>зробити патрон патрон 6,7х49мм x500</MakeAmmo_65x48mmCreedmoor_FMJ.label>
+  <MakeAmmo_65x48mmCreedmoor_FMJ.description>Виготовити п'ятсот патронів 6,7х49мм</MakeAmmo_65x48mmCreedmoor_FMJ.description>
+  <MakeAmmo_65x48mmCreedmoor_FMJ.jobString>Робить патронии 6,7х49мм</MakeAmmo_65x48mmCreedmoor_FMJ.jobString>
+
+  <MakeAmmo_65x48mmCreedmoor_AP.label>зробити патрон 6,7х49мм (Б) x500</MakeAmmo_65x48mmCreedmoor_AP.label>
+  <MakeAmmo_65x48mmCreedmoor_AP.description>Виготовити п'ятсот патронів 6,7х49мм (Б)</MakeAmmo_65x48mmCreedmoor_AP.description>
+  <MakeAmmo_65x48mmCreedmoor_AP.jobString>Робить патронии 6,7х49мм (Б)</MakeAmmo_65x48mmCreedmoor_AP.jobString>
+
+  <MakeAmmo_65x48mmCreedmoor_HP.label>зробити патрон 6,7х49мм (Е) x500</MakeAmmo_65x48mmCreedmoor_HP.label>
+  <MakeAmmo_65x48mmCreedmoor_HP.description>Виготовити п'ятсот патронів 6,7х49мм (Е)</MakeAmmo_65x48mmCreedmoor_HP.description>
+  <MakeAmmo_65x48mmCreedmoor_HP.jobString>Робить патронии 6,7х49мм (Е)</MakeAmmo_65x48mmCreedmoor_HP.jobString>
+
+  <MakeAmmo_65x48mmCreedmoor_Incendiary.label>зробити патрон 6,7х49мм (БЗ) x500</MakeAmmo_65x48mmCreedmoor_Incendiary.label>
+  <MakeAmmo_65x48mmCreedmoor_Incendiary.description>Виготовити п'ятсот патронів 6,7х49мм (БЗ)</MakeAmmo_65x48mmCreedmoor_Incendiary.description>
+  <MakeAmmo_65x48mmCreedmoor_Incendiary.jobString>Робить патронии 6,7х49мм (БЗ)</MakeAmmo_65x48mmCreedmoor_Incendiary.jobString>
+
+  <MakeAmmo_65x48mmCreedmoor_HE.label>зробити патрон 6,7х49мм (БФ) x500</MakeAmmo_65x48mmCreedmoor_HE.label>
+  <MakeAmmo_65x48mmCreedmoor_HE.description>Виготовити п'ятсот патронів 6,7х49мм (БФ)</MakeAmmo_65x48mmCreedmoor_HE.description>
+  <MakeAmmo_65x48mmCreedmoor_HE.jobString>Робить патронии 6,7х49мм (БФ)</MakeAmmo_65x48mmCreedmoor_HE.jobString>
+
+  <MakeAmmo_65x48mmCreedmoor_Sabot.label>зробити патрон 6,7х49мм (Підкаліберний) x500</MakeAmmo_65x48mmCreedmoor_Sabot.label>
+  <MakeAmmo_65x48mmCreedmoor_Sabot.description>Виготовити п'ятсот патронів 6,7х49мм (Підкаліберний)</MakeAmmo_65x48mmCreedmoor_Sabot.description>
+  <MakeAmmo_65x48mmCreedmoor_Sabot.jobString>Робить патронии 6,7х49мм (Підкаліберний)</MakeAmmo_65x48mmCreedmoor_Sabot.jobString>
+
+
+</LanguageData>

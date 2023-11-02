@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Flare.label>Flare</Flare.label>
+
+  <Ammo_Flare.label>сигнальна ракета</Ammo_Flare.label>
+  <Ammo_Flare.description>A flare round for illumination.</Ammo_Flare.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_Flare.label>flare</Bullet_Flare.label>
+
+
+</LanguageData>

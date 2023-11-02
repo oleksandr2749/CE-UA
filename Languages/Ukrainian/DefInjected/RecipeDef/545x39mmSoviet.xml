@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_545x39mmSoviet_FMJ.label>зробити патрон 5.45x39mm Soviet x500</MakeAmmo_545x39mmSoviet_FMJ.label>
+  <MakeAmmo_545x39mmSoviet_FMJ.description>Виготовити п'ятсот патронів 5.45x39mm Soviet</MakeAmmo_545x39mmSoviet_FMJ.description>
+  <MakeAmmo_545x39mmSoviet_FMJ.jobString>Робить патрони 5.45x39mm Soviet</MakeAmmo_545x39mmSoviet_FMJ.jobString>
+
+  <MakeAmmo_545x39mmSoviet_AP.label>зробити патрон 5.45x39mm Soviet (Б) x500</MakeAmmo_545x39mmSoviet_AP.label>
+  <MakeAmmo_545x39mmSoviet_AP.description>Виготовити п'ятсот патронів 5.45x39mm Soviet (Б)</MakeAmmo_545x39mmSoviet_AP.description>
+  <MakeAmmo_545x39mmSoviet_AP.jobString>Робить патрони 5.45x39mm Soviet (Б)</MakeAmmo_545x39mmSoviet_AP.jobString>
+
+  <MakeAmmo_545x39mmSoviet_HP.label>зробити патрон 5.45x39mm Soviet (Е) x500</MakeAmmo_545x39mmSoviet_HP.label>
+  <MakeAmmo_545x39mmSoviet_HP.description>Виготовити п'ятсот патронів 5.45x39mm Soviet (Е)</MakeAmmo_545x39mmSoviet_HP.description>
+  <MakeAmmo_545x39mmSoviet_HP.jobString>Робить патрони 5.45x39mm Soviet (Е)</MakeAmmo_545x39mmSoviet_HP.jobString>
+
+  <MakeAmmo_545x39mmSoviet_Incendiary.label>зробити патрон 5.45x39mm Soviet (БЗ) x500</MakeAmmo_545x39mmSoviet_Incendiary.label>
+  <MakeAmmo_545x39mmSoviet_Incendiary.description>Виготовити п'ятсот патронів 5.45x39mm Soviet (БЗ)</MakeAmmo_545x39mmSoviet_Incendiary.description>
+  <MakeAmmo_545x39mmSoviet_Incendiary.jobString>Робить патрони 5.45x39mm Soviet (БЗ)</MakeAmmo_545x39mmSoviet_Incendiary.jobString>
+
+  <MakeAmmo_545x39mmSoviet_HE.label>зробити патрон 5.45x39mm Soviet (БФ) x500</MakeAmmo_545x39mmSoviet_HE.label>
+  <MakeAmmo_545x39mmSoviet_HE.description>Виготовити п'ятсот патронів 5.45x39mm Soviet (БФ)</MakeAmmo_545x39mmSoviet_HE.description>
+  <MakeAmmo_545x39mmSoviet_HE.jobString>Робить патрони 5.45x39mm Soviet (БФ)</MakeAmmo_545x39mmSoviet_HE.jobString>
+
+  <MakeAmmo_545x39mmSoviet_Sabot.label>зробити патрон 5.45x39mm Soviet (Підкаліберний) x500</MakeAmmo_545x39mmSoviet_Sabot.label>
+  <MakeAmmo_545x39mmSoviet_Sabot.description>Виготовити п'ятсот патронів 5.45x39mm Soviet (Підкаліберний)</MakeAmmo_545x39mmSoviet_Sabot.description>
+  <MakeAmmo_545x39mmSoviet_Sabot.jobString>Робить патрони 5.45x39mm Soviet (Підкаліберний)</MakeAmmo_545x39mmSoviet_Sabot.jobString>
+
+
+</LanguageData>

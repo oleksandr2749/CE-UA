@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_Pilum.label>зробити патрон pila x5</MakeAmmo_Pilum.label>
+  <MakeAmmo_Pilum.description>Craft 5 pila.</MakeAmmo_Pilum.description>
+  <MakeAmmo_Pilum.jobString>Робить патрони pila.</MakeAmmo_Pilum.jobString>
+
+
+</LanguageData>

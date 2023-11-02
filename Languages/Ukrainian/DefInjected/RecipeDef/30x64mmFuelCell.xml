@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_30x64mmFuel_Incendiary.label>зробити патрон 30x64mm fuel cell (Incendiary) x50</MakeAmmo_30x64mmFuel_Incendiary.label>
+  <MakeAmmo_30x64mmFuel_Incendiary.description>Craft 50 30x64mm incendiary fuel cell</MakeAmmo_30x64mmFuel_Incendiary.description>
+  <MakeAmmo_30x64mmFuel_Incendiary.jobString>Робить патрони incendiary fuel cell</MakeAmmo_30x64mmFuel_Incendiary.jobString>
+
+  <MakeAmmo_30x64mmFuel_Thermobaric.label>зробити патрон 30x64mm fuel cell (Thermobaric) x50</MakeAmmo_30x64mmFuel_Thermobaric.label>
+  <MakeAmmo_30x64mmFuel_Thermobaric.description>Craft 50 30x64mm thermobaric fuel cell</MakeAmmo_30x64mmFuel_Thermobaric.description>
+  <MakeAmmo_30x64mmFuel_Thermobaric.jobString>Робить патрони thermobaric fuel cell</MakeAmmo_30x64mmFuel_Thermobaric.jobString>
+
+  <MakeAmmo_30x64mmFuel_Foam.label>зробити патрон 30x64mm fuel cell (Foam) x50</MakeAmmo_30x64mmFuel_Foam.label>
+  <MakeAmmo_30x64mmFuel_Foam.description>Craft 50 30x64mm foam fuel cell</MakeAmmo_30x64mmFuel_Foam.description>
+  <MakeAmmo_30x64mmFuel_Foam.jobString>Робить патрони foam fuel cell</MakeAmmo_30x64mmFuel_Foam.jobString>
+
+
+</LanguageData>

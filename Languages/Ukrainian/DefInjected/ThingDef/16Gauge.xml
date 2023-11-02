@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_16Gauge_Buck.label>патрон 16-го калібру (Buck)</Ammo_16Gauge_Buck.label>
+  <Ammo_16Gauge_Buck.description>Common shotgun caliber used for medium game hunting.</Ammo_16Gauge_Buck.description>
+
+  <Ammo_16Gauge_Slug.label>патрон 16-го калібру (Slug)</Ammo_16Gauge_Slug.label>
+  <Ammo_16Gauge_Slug.description>Common shotgun caliber used for medium game hunting.</Ammo_16Gauge_Slug.description>
+
+  <Ammo_16Gauge_Beanbag.label>патрон 16-го калібру (Bean)</Ammo_16Gauge_Beanbag.label>
+  <Ammo_16Gauge_Beanbag.description>Common shotgun caliber used for medium game hunting.</Ammo_16Gauge_Beanbag.description>
+
+  <Ammo_16Gauge_ElectroSlug.label>патрон 16-го калібру (ЕМІ)</Ammo_16Gauge_ElectroSlug.label>
+  <Ammo_16Gauge_ElectroSlug.description>Common shotgun caliber used for medium game hunting.</Ammo_16Gauge_ElectroSlug.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_16Gauge_Buck.label>buckshot pellet</Bullet_16Gauge_Buck.label>
+  <Bullet_16Gauge_Slug.label>shotgun slug</Bullet_16Gauge_Slug.label>
+  <Bullet_16Gauge_Beanbag.label>beanbag</Bullet_16Gauge_Beanbag.label>
+  <Bullet_16Gauge_ElectroSlug.label>ЕМІ slug</Bullet_16Gauge_ElectroSlug.label>
+
+
+</LanguageData>

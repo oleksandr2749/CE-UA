@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CE_Apparel_PlateHelmet.label>салад</CE_Apparel_PlateHelmet.label>
+  <CE_Apparel_PlateHelmet.description>A medieval helmet that provides full coverage of the head. Somewhat protective, but restricts the wearer's field of view which affects attack accuracy.</CE_Apparel_PlateHelmet.description>
+
+  <CE_Apparel_GasMask.label>протигаз</CE_Apparel_GasMask.label>
+  <CE_Apparel_GasMask.description>Sealed rubber mask with a filter attached. Will protect against smoke inhalation and airborne toxins.</CE_Apparel_GasMask.description>
+
+  <CE_Apparel_ImprovGasMask.label>саморобний протигаз</CE_Apparel_ImprovGasMask.label>
+  <CE_Apparel_ImprovGasMask.description>Crude gas mask fashioned from thick cloth and charcoal. Provides some limited protection against smoke and airborne toxins.</CE_Apparel_ImprovGasMask.description>
+
+  <CE_Apparel_SimpleNightVision.label>монокуляр нічного бачення</CE_Apparel_SimpleNightVision.label>
+  <CE_Apparel_SimpleNightVision.description>A simple, monocular night vision device, worn strapped to the head.</CE_Apparel_SimpleNightVision.description>
+
+  <CE_Apparel_AdvancedNightVision.label>окуляри нічного бачення</CE_Apparel_AdvancedNightVision.label>
+  <CE_Apparel_AdvancedNightVision.description>An set of advanced night vision goggles offering detailed, panoramic vision when fighting in the dark.</CE_Apparel_AdvancedNightVision.description>
+
+
+</LanguageData>

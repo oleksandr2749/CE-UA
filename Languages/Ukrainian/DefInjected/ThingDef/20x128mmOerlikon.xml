@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_20x128mmOerlikon_AP.label>патрон 20x128мм (Б)</Ammo_20x128mmOerlikon_AP.label>
+  <Ammo_20x128mmOerlikon_AP.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x128mmOerlikon_AP.description>
+
+  <Ammo_20x128mmOerlikon_Incendiary.label>патрон 20x128мм (БЗ)</Ammo_20x128mmOerlikon_Incendiary.label>
+  <Ammo_20x128mmOerlikon_Incendiary.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x128mmOerlikon_Incendiary.description>
+
+  <Ammo_20x128mmOerlikon_HE.label>патрон 20x128мм (БФ)</Ammo_20x128mmOerlikon_HE.label>
+  <Ammo_20x128mmOerlikon_HE.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x128mmOerlikon_HE.description>
+
+  <Ammo_20x128mmOerlikon_Sabot.label>патрон 20x128мм (Підкаліберний)</Ammo_20x128mmOerlikon_Sabot.label>
+  <Ammo_20x128mmOerlikon_Sabot.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x128mmOerlikon_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_20x128mmOerlikon_AP.label>20x128mm Oerlikon bullet (Б)</Bullet_20x128mmOerlikon_AP.label>
+  <Bullet_20x128mmOerlikon_Incendiary.label>20mm Oerlikon bullet (БЗ)</Bullet_20x128mmOerlikon_Incendiary.label>
+  <Bullet_20x128mmOerlikon_HE.label>20mm Oerlikon bullet (БФ)</Bullet_20x128mmOerlikon_HE.label>
+  <Bullet_20x128mmOerlikon_Sabot.label>20x128mm Oerlikon bullet (Підкаліберний)</Bullet_20x128mmOerlikon_Sabot.label>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_10x18mmCharged.label>зробити патрон 10x18mm Charged x500</MakeAmmo_10x18mmCharged.label>
+  <MakeAmmo_10x18mmCharged.description>Виготовити п'ятсот патронів 10x18mm Charged</MakeAmmo_10x18mmCharged.description>
+  <MakeAmmo_10x18mmCharged.jobString>Робить патрони 10x18mm Charged</MakeAmmo_10x18mmCharged.jobString>
+
+  <MakeAmmo_10x18mmCharged_AP.label>зробити патрон 10x18mm Charged (Conc.) x500</MakeAmmo_10x18mmCharged_AP.label>
+  <MakeAmmo_10x18mmCharged_AP.description>Виготовити п'ятсот патронів 10x18mm Charged (Conc.)</MakeAmmo_10x18mmCharged_AP.description>
+  <MakeAmmo_10x18mmCharged_AP.jobString>Робить патрони 10x18mm Charged (Conc.)</MakeAmmo_10x18mmCharged_AP.jobString>
+
+  <MakeAmmo_10x18mmCharged_Ion.label>зробити патрон 10x18mm Charged (Ion) x500</MakeAmmo_10x18mmCharged_Ion.label>
+  <MakeAmmo_10x18mmCharged_Ion.description>Виготовити п'ятсот патронів 10x18mm Charged (Ion)</MakeAmmo_10x18mmCharged_Ion.description>
+  <MakeAmmo_10x18mmCharged_Ion.jobString>Робить патрони 10x18mm Charged (Ion)</MakeAmmo_10x18mmCharged_Ion.jobString>
+
+
+</LanguageData>

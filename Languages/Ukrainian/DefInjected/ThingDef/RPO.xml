@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Projectiles -->
+
+  <Bullet_RPO_A_Grenade.label>снаряд РПВ-A "Джміль"</Bullet_RPO_A_Grenade.label>
+  <Bullet_RPO_Z_Grenade.label>снаряд РПВ-З "Джміль"</Bullet_RPO_Z_Grenade.label>
+  <Bullet_RPO_D_Grenade.label>снаряд РПВ-Д "Джміль"</Bullet_RPO_D_Grenade.label>
+
+
+</LanguageData>

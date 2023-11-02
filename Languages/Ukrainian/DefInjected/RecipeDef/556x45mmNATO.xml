@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_556x45mmNATO_FMJ.label>зробити патрон 5.56x45mm NATO x500</MakeAmmo_556x45mmNATO_FMJ.label>
+  <MakeAmmo_556x45mmNATO_FMJ.description>Виготовити п'ятсот патронів 5.56x45mm NATO</MakeAmmo_556x45mmNATO_FMJ.description>
+  <MakeAmmo_556x45mmNATO_FMJ.jobString>Робить патрони 5.56x45mm NATO</MakeAmmo_556x45mmNATO_FMJ.jobString>
+
+  <MakeAmmo_556x45mmNATO_AP.label>зробити патрон 5.56x45mm NATO (Б) x500</MakeAmmo_556x45mmNATO_AP.label>
+  <MakeAmmo_556x45mmNATO_AP.description>Виготовити п'ятсот патронів 5.56x45mm NATO (Б)</MakeAmmo_556x45mmNATO_AP.description>
+  <MakeAmmo_556x45mmNATO_AP.jobString>Робить патрони 5.56x45mm NATO (Б)</MakeAmmo_556x45mmNATO_AP.jobString>
+
+  <MakeAmmo_556x45mmNATO_HP.label>зробити патрон 5.56x45mm NATO (Е) x500</MakeAmmo_556x45mmNATO_HP.label>
+  <MakeAmmo_556x45mmNATO_HP.description>Виготовити п'ятсот патронів 5.56x45mm NATO (Е)</MakeAmmo_556x45mmNATO_HP.description>
+  <MakeAmmo_556x45mmNATO_HP.jobString>Робить патрони 5.56x45mm NATO (Е)</MakeAmmo_556x45mmNATO_HP.jobString>
+
+  <MakeAmmo_556x45mmNATO_Incendiary.label>зробити патрон 5.56x45mm NATO (БЗ) x500</MakeAmmo_556x45mmNATO_Incendiary.label>
+  <MakeAmmo_556x45mmNATO_Incendiary.description>Виготовити п'ятсот патронів 5.56x45mm NATO (БЗ)</MakeAmmo_556x45mmNATO_Incendiary.description>
+  <MakeAmmo_556x45mmNATO_Incendiary.jobString>Робить патрони 5.56x45mm NATO (БЗ)</MakeAmmo_556x45mmNATO_Incendiary.jobString>
+
+  <MakeAmmo_556x45mmNATO_HE.label>зробити патрон 5.56x45mm NATO (БФ) x500</MakeAmmo_556x45mmNATO_HE.label>
+  <MakeAmmo_556x45mmNATO_HE.description>Виготовити п'ятсот патронів 5.56x45mm NATO (БФ)</MakeAmmo_556x45mmNATO_HE.description>
+  <MakeAmmo_556x45mmNATO_HE.jobString>Робить патрони 5.56x45mm NATO (БФ)</MakeAmmo_556x45mmNATO_HE.jobString>
+
+  <MakeAmmo_556x45mmNATO_Sabot.label>зробити патрон 5.56x45mm NATO (Підкаліберний) x500</MakeAmmo_556x45mmNATO_Sabot.label>
+  <MakeAmmo_556x45mmNATO_Sabot.description>Виготовити п'ятсот патронів 5.56x45mm NATO (Підкаліберний)</MakeAmmo_556x45mmNATO_Sabot.description>
+  <MakeAmmo_556x45mmNATO_Sabot.jobString>Робить патрони 5.56x45mm NATO (Підкаліберний)</MakeAmmo_556x45mmNATO_Sabot.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_57x307mmR_AP.label>патрон 57x307мм (Б)</Ammo_57x307mmR_AP.label>
+  <Ammo_57x307mmR_AP.description>Large caliber shell used by naval artillery guns.</Ammo_57x307mmR_AP.description>
+
+  <Ammo_57x307mmR_HE.label>патрон 57x307мм (Фугасний)</Ammo_57x307mmR_HE.label>
+  <Ammo_57x307mmR_HE.description>Large caliber shell used by naval artillery guns.</Ammo_57x307mmR_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_57x307mmR_AP.label>57x307mmR bullet (Б)</Bullet_57x307mmR_AP.label>
+  <Bullet_57x307mmR_HE.label>57x307mmR bullet (Фугасний)</Bullet_57x307mmR_HE.label>
+
+
+</LanguageData>

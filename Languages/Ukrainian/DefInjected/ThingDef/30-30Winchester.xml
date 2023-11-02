@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_3030Winchester_FMJ.label>патрон 7,8х51,8мм</Ammo_3030Winchester_FMJ.label>
+  <Ammo_3030Winchester_FMJ.description>Among the most popular centerfire cartridges used in lever-action rifles and large bore rifles, its efficacy as a hunting round made it widely used.</Ammo_3030Winchester_FMJ.description>
+
+  <Ammo_3030Winchester_AP.label>патрон 7,8х51,8мм (Б)</Ammo_3030Winchester_AP.label>
+  <Ammo_3030Winchester_AP.description>Among the most popular centerfire cartridges used in lever-action rifles and large bore rifles, its efficacy as a hunting round made it widely used.</Ammo_3030Winchester_AP.description>
+
+  <Ammo_3030Winchester_HP.label>патрон 7,8х51,8мм (Е)</Ammo_3030Winchester_HP.label>
+  <Ammo_3030Winchester_HP.description>Among the most popular centerfire cartridges used in lever-action rifles and large bore rifles, its efficacy as a hunting round made it widely used.</Ammo_3030Winchester_HP.description>
+
+  <Ammo_3030Winchester_Incendiary.label>патрон 7,8х51,8мм (БЗ)</Ammo_3030Winchester_Incendiary.label>
+  <Ammo_3030Winchester_Incendiary.description>Among the most popular centerfire cartridges used in lever-action rifles and large bore rifles, its efficacy as a hunting round made it widely used.</Ammo_3030Winchester_Incendiary.description>
+
+  <Ammo_3030Winchester_HE.label>патрон 7,8х51,8мм (БФ)</Ammo_3030Winchester_HE.label>
+  <Ammo_3030Winchester_HE.description>Among the most popular centerfire cartridges used in lever-action rifles and large bore rifles, its efficacy as a hunting round made it widely used.</Ammo_3030Winchester_HE.description>
+
+  <Ammo_3030Winchester_Sabot.label>патрон 7,8х51,8мм (Підкаліберний)</Ammo_3030Winchester_Sabot.label>
+  <Ammo_3030Winchester_Sabot.description>Among the most popular centerfire cartridges used in lever-action rifles and large bore rifles, its efficacy as a hunting round made it widely used.</Ammo_3030Winchester_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_3030Winchester_FMJ.label>.30-30 Winchester cartridge</Bullet_3030Winchester_FMJ.label>
+  <Bullet_3030Winchester_AP.label>.30-30 Winchester cartridge (Б)</Bullet_3030Winchester_AP.label>
+  <Bullet_3030Winchester_HP.label>.30-30 Winchester cartridge (Е)</Bullet_3030Winchester_HP.label>
+  <Bullet_3030Winchester_Incendiary.label>.30-30 bullet (БЗ)</Bullet_3030Winchester_Incendiary.label>
+  <Bullet_3030Winchester_HE.label>.30-30 bullet (БФ)</Bullet_3030Winchester_HE.label>
+  <Bullet_3030Winchester_Sabot.label>.30-30 bullet (Підкаліберний)</Bullet_3030Winchester_Sabot.label>
+
+
+</LanguageData>

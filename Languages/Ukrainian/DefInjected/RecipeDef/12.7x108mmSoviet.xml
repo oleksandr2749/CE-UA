@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_127x108mm_FMJ.label>зробити патрон 12.7x108mm x200</MakeAmmo_127x108mm_FMJ.label>
+  <MakeAmmo_127x108mm_FMJ.description>Craft 200 12.7x108mm</MakeAmmo_127x108mm_FMJ.description>
+  <MakeAmmo_127x108mm_FMJ.jobString>Робить патрони 12.7x108mm</MakeAmmo_127x108mm_FMJ.jobString>
+
+  <MakeAmmo_127x108mm_AP.label>зробити патрон 12.7x108mm (Б) x200</MakeAmmo_127x108mm_AP.label>
+  <MakeAmmo_127x108mm_AP.description>Craft 200 12.7x108mm (Б)</MakeAmmo_127x108mm_AP.description>
+  <MakeAmmo_127x108mm_AP.jobString>Робить патрони 12.7x108mm (Б)</MakeAmmo_127x108mm_AP.jobString>
+
+  <MakeAmmo_127x108mm_Incendiary.label>зробити патрон 12.7x108mm (БЗ) x200</MakeAmmo_127x108mm_Incendiary.label>
+  <MakeAmmo_127x108mm_Incendiary.description>Craft 200 12.7x108mm (БЗ)</MakeAmmo_127x108mm_Incendiary.description>
+  <MakeAmmo_127x108mm_Incendiary.jobString>Робить патрони 12.7x108mm (БЗ)</MakeAmmo_127x108mm_Incendiary.jobString>
+
+  <MakeAmmo_127x108mm_HE.label>зробити патрон 12.7x108mm (БФ) x200</MakeAmmo_127x108mm_HE.label>
+  <MakeAmmo_127x108mm_HE.description>Craft 200 12.7x108mm (БФ)</MakeAmmo_127x108mm_HE.description>
+  <MakeAmmo_127x108mm_HE.jobString>Робить патрони 12.7x108mm (БФ)</MakeAmmo_127x108mm_HE.jobString>
+
+  <MakeAmmo_127x108mm_Sabot.label>зробити патрон 12.7x108mm (Підкаліберний) x200</MakeAmmo_127x108mm_Sabot.label>
+  <MakeAmmo_127x108mm_Sabot.description>Craft 200 12.7x108mm (Підкаліберний)</MakeAmmo_127x108mm_Sabot.description>
+  <MakeAmmo_127x108mm_Sabot.jobString>Робить патрони 12.7x108mm (Підкаліберний)</MakeAmmo_127x108mm_Sabot.jobString>
+
+
+</LanguageData>

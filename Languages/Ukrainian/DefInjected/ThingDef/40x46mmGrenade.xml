@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_40x46mmGrenade_HE.label>гранатометний снаряд 40x46мм (Фугасний)</Ammo_40x46mmGrenade_HE.label>
+  <Ammo_40x46mmGrenade_HE.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_HE.description>
+
+  <Ammo_40x46mmGrenade_HE_TFuzed.label>гранатометний снаряд 40x46мм (Фугасний Time-Fuzed)</Ammo_40x46mmGrenade_HE_TFuzed.label>
+  <Ammo_40x46mmGrenade_HE_TFuzed.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_HE_TFuzed.description>
+
+  <Ammo_40x46mmGrenade_HEDP.label>гранатометний снаряд 40x46мм (БФ)</Ammo_40x46mmGrenade_HEDP.label>
+  <Ammo_40x46mmGrenade_HEDP.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_HEDP.description>
+
+  <Ammo_40x46mmGrenade_EMP.label>гранатометний снаряд 40x46мм (ЕМІ)</Ammo_40x46mmGrenade_EMP.label>
+  <Ammo_40x46mmGrenade_EMP.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_EMP.description>
+
+  <Ammo_40x46mmGrenade_Smoke.label>гранатометний снаряд 40x46мм (Димовий)</Ammo_40x46mmGrenade_Smoke.label>
+  <Ammo_40x46mmGrenade_Smoke.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_Smoke.description>
+
+  <Ammo_40x46mmGrenade_Tox.label>гранатометний снаряд 40x46мм (Токсичний)</Ammo_40x46mmGrenade_Tox.label>
+  <Ammo_40x46mmGrenade_Tox.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_Tox.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_40x46mmGrenade_HE.label>40x46mm grenade (Фугасний)</Bullet_40x46mmGrenade_HE.label>
+  <Bullet_40x46mmGrenade_HE_TFuzed.label>40x46mm grenade (Фугасний Time-Fuzed)</Bullet_40x46mmGrenade_HE_TFuzed.label>
+  <Bullet_40x46mmGrenade_HEDP.label>40x46mm grenade (БФ)</Bullet_40x46mmGrenade_HEDP.label>
+  <Bullet_40x46mmGrenade_EMP.label>40x46mm grenade (ЕМІ)</Bullet_40x46mmGrenade_EMP.label>
+  <Bullet_40x46mmGrenade_Smoke.label>40x46mm grenade (Димовий)</Bullet_40x46mmGrenade_Smoke.label>
+  <Bullet_40x46mmGrenade_Tox.label>40x46mm grenade (Токсичний)</Bullet_40x46mmGrenade_Tox.label>
+
+
+</LanguageData>

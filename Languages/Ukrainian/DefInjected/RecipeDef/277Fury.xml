@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_277Fury_FMJ.label>зробити патрон .277 Fury x500</MakeAmmo_277Fury_FMJ.label>
+  <MakeAmmo_277Fury_FMJ.description>Виготовити п'ятсот патронів .277 Fury</MakeAmmo_277Fury_FMJ.description>
+  <MakeAmmo_277Fury_FMJ.jobString>Робить патрони .277 Fury</MakeAmmo_277Fury_FMJ.jobString>
+
+  <MakeAmmo_277Fury_AP.label>зробити патрон .277 Fury (Б) x500</MakeAmmo_277Fury_AP.label>
+  <MakeAmmo_277Fury_AP.description>Виготовити п'ятсот патронів .277 Fury (Б)</MakeAmmo_277Fury_AP.description>
+  <MakeAmmo_277Fury_AP.jobString>Робить патрони .277 Fury (Б)</MakeAmmo_277Fury_AP.jobString>
+
+  <MakeAmmo_277Fury_HP.label>зробити патрон .277 Fury (Е) x500</MakeAmmo_277Fury_HP.label>
+  <MakeAmmo_277Fury_HP.description>Виготовити п'ятсот патронів .277 Fury (Е)</MakeAmmo_277Fury_HP.description>
+  <MakeAmmo_277Fury_HP.jobString>Робить патрони .277 Fury (Е)</MakeAmmo_277Fury_HP.jobString>
+
+  <MakeAmmo_277Fury_Incendiary.label>зробити патрон .277 Fury (БЗ) x500</MakeAmmo_277Fury_Incendiary.label>
+  <MakeAmmo_277Fury_Incendiary.description>Виготовити п'ятсот патронів .277 Fury (БЗ)</MakeAmmo_277Fury_Incendiary.description>
+  <MakeAmmo_277Fury_Incendiary.jobString>Робить патрони .277 Fury (БЗ)</MakeAmmo_277Fury_Incendiary.jobString>
+
+  <MakeAmmo_277Fury_HE.label>зробити патрон .277 Fury (БФ) x500</MakeAmmo_277Fury_HE.label>
+  <MakeAmmo_277Fury_HE.description>Виготовити п'ятсот патронів .277 Fury (БФ)</MakeAmmo_277Fury_HE.description>
+  <MakeAmmo_277Fury_HE.jobString>Робить патрони .277 Fury (БФ)</MakeAmmo_277Fury_HE.jobString>
+
+  <MakeAmmo_277Fury_Sabot.label>зробити патрон .277 Fury (Підкаліберний) x500</MakeAmmo_277Fury_Sabot.label>
+  <MakeAmmo_277Fury_Sabot.description>Виготовити п'ятсот патронів .277 Fury (Підкаліберний)</MakeAmmo_277Fury_Sabot.description>
+  <MakeAmmo_277Fury_Sabot.jobString>Робить патрони .277 Fury (Підкаліберний)</MakeAmmo_277Fury_Sabot.jobString>
+
+
+</LanguageData>

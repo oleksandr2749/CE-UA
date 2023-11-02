@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_LaserChargePack.label>зробити патрон laser charge pack x500</MakeAmmo_LaserChargePack.label>
+  <MakeAmmo_LaserChargePack.description>Виготовити п'ятсот патронів laser charge pack.</MakeAmmo_LaserChargePack.description>
+  <MakeAmmo_LaserChargePack.jobString>Робить патрони laser charge pack.</MakeAmmo_LaserChargePack.jobString>
+
+
+</LanguageData>

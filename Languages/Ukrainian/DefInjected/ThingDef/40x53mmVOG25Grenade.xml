@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_40x53mmVOG25Grenade_HE.label>гранатометний снаряд 40x53мм ВОГ25 (Фугасний)</Ammo_40x53mmVOG25Grenade_HE.label>
+  <Ammo_40x53mmVOG25Grenade_HE.description>Low velocity caseless grenade fired from handheld grenade launchers.</Ammo_40x53mmVOG25Grenade_HE.description>
+
+  <Ammo_40x53mmVOG25Grenade_HE_TFuzed.label>гранатометний снаряд 40x53мм ВОГ25 (Фугасний Time-Fuzed)</Ammo_40x53mmVOG25Grenade_HE_TFuzed.label>
+  <Ammo_40x53mmVOG25Grenade_HE_TFuzed.description>Low velocity caseless grenade fired from handheld grenade launchers.</Ammo_40x53mmVOG25Grenade_HE_TFuzed.description>
+
+  <Ammo_40x53mmVOG25Grenade_EMP.label>гранатометний снаряд 40x53мм ВОГ25 (ЕМІ)</Ammo_40x53mmVOG25Grenade_EMP.label>
+  <Ammo_40x53mmVOG25Grenade_EMP.description>Low velocity caseless grenade fired from handheld grenade launchers.</Ammo_40x53mmVOG25Grenade_EMP.description>
+
+  <Ammo_40x53mmVOG25Grenade_Smoke.label>гранатометний снаряд 40x53мм ВОГ25 (Димовий)</Ammo_40x53mmVOG25Grenade_Smoke.label>
+  <Ammo_40x53mmVOG25Grenade_Smoke.description>Low velocity caseless grenade fired from handheld grenade launchers.</Ammo_40x53mmVOG25Grenade_Smoke.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_40x53mmVOG25Grenade_HE.label>40x536mm VOG-25 grenade (Фугасний)</Bullet_40x53mmVOG25Grenade_HE.label>
+  <Bullet_40x53mmVOG25Grenade_HE_TFuzed.label>40x53mm VOG-25 grenade (Фугасний Time-Fuzed)</Bullet_40x53mmVOG25Grenade_HE_TFuzed.label>
+  <Bullet_40x53mmVOG25Grenade_EMP.label>40x53mm VOG-25 grenade (ЕМІ)</Bullet_40x53mmVOG25Grenade_EMP.label>
+  <Bullet_40x53mmVOG25Grenade_Smoke.label>40x53mm VOG-25 grenade (Димовий)</Bullet_40x53mmVOG25Grenade_Smoke.label>
+
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_35x32mmSRGrenade_HE.label>зробити патрон 35x32mmSR HE grenades x100</MakeAmmo_35x32mmSRGrenade_HE.label>
+  <MakeAmmo_35x32mmSRGrenade_HE.description>Craft 100 35x32mmSR HE grenade</MakeAmmo_35x32mmSRGrenade_HE.description>
+  <MakeAmmo_35x32mmSRGrenade_HE.jobString>Робить патрони 35x32mmSR HE grenade</MakeAmmo_35x32mmSRGrenade_HE.jobString>
+
+  <MakeAmmo_35x32mmSRGrenade_HEDP.label>зробити патрон 35x32mmSR HEDP grenades x100</MakeAmmo_35x32mmSRGrenade_HEDP.label>
+  <MakeAmmo_35x32mmSRGrenade_HEDP.description>Craft 100 35x32mmSR HEDP grenade</MakeAmmo_35x32mmSRGrenade_HEDP.description>
+  <MakeAmmo_35x32mmSRGrenade_HEDP.jobString>Робить патрони 35x32mmSR HEDP grenade</MakeAmmo_35x32mmSRGrenade_HEDP.jobString>
+
+  <MakeAmmo_35x32mmSRGrenade_EMP.label>зробити патрон 35x32mmSR EMP grenades x100</MakeAmmo_35x32mmSRGrenade_EMP.label>
+  <MakeAmmo_35x32mmSRGrenade_EMP.description>Craft 100 35x32mmSR EMP grenade</MakeAmmo_35x32mmSRGrenade_EMP.description>
+  <MakeAmmo_35x32mmSRGrenade_EMP.jobString>Робить патрони 35x32mmSR EMP grenade</MakeAmmo_35x32mmSRGrenade_EMP.jobString>
+
+  <MakeAmmo_35x32mmSRGrenade_Smoke.label>зробити патрон 35x32mmSR smoke grenades x100</MakeAmmo_35x32mmSRGrenade_Smoke.label>
+  <MakeAmmo_35x32mmSRGrenade_Smoke.description>Craft 100 35x32mmSR smoke grenade</MakeAmmo_35x32mmSRGrenade_Smoke.description>
+  <MakeAmmo_35x32mmSRGrenade_Smoke.jobString>Робить патрони 35x32mmSR smoke grenade</MakeAmmo_35x32mmSRGrenade_Smoke.jobString>
+
+
+</LanguageData>

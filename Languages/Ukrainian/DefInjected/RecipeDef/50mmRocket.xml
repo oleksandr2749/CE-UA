@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_50mmRocket_HE.label>зробити патрон 50mm HE rockets x10</MakeAmmo_50mmRocket_HE.label>
+  <MakeAmmo_50mmRocket_HE.description>Craft 10 50mm HE rocket</MakeAmmo_50mmRocket_HE.description>
+  <MakeAmmo_50mmRocket_HE.jobString>Робить патрони 50mm HE rocket</MakeAmmo_50mmRocket_HE.jobString>
+
+
+</LanguageData>

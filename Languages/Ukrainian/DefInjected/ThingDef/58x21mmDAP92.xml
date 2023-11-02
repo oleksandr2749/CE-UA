@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_58x21mmDAP92_FMJ.label>патрон 6х21мм</Ammo_58x21mmDAP92_FMJ.label>
+  <Ammo_58x21mmDAP92_FMJ.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_58x21mmDAP92_FMJ.description>
+
+  <Ammo_58x21mmDAP92_AP.label>патрон 6х21мм (Б)</Ammo_58x21mmDAP92_AP.label>
+  <Ammo_58x21mmDAP92_AP.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_58x21mmDAP92_AP.description>
+
+  <Ammo_58x21mmDAP92_HP.label>патрон 6х21мм (Е)</Ammo_58x21mmDAP92_HP.label>
+  <Ammo_58x21mmDAP92_HP.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_58x21mmDAP92_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_58x21mmDAP92_FMJ.label>5.8mm DAP92 bullet</Bullet_58x21mmDAP92_FMJ.label>
+  <Bullet_58x21mmDAP92_AP.label>5.8mm DAP92 bullet (Б)</Bullet_58x21mmDAP92_AP.label>
+  <Bullet_58x21mmDAP92_HP.label>5.8mm DAP92 bullet (Е)</Bullet_58x21mmDAP92_HP.label>
+
+
+</LanguageData>

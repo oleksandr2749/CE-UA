@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_22LR_FMJ.label>зробити патрон .22 LR x500</MakeAmmo_22LR_FMJ.label>
+  <MakeAmmo_22LR_FMJ.description>Виготовити п'ятсот патронів .22 LR</MakeAmmo_22LR_FMJ.description>
+  <MakeAmmo_22LR_FMJ.jobString>Робить патрони .22 LR</MakeAmmo_22LR_FMJ.jobString>
+
+  <MakeAmmo_22LR_AP.label>зробити патрон .22 LR (Б) x500</MakeAmmo_22LR_AP.label>
+  <MakeAmmo_22LR_AP.description>Виготовити п'ятсот патронів .22 LR (Б)</MakeAmmo_22LR_AP.description>
+  <MakeAmmo_22LR_AP.jobString>Робить патрони .22 LR (Б)</MakeAmmo_22LR_AP.jobString>
+
+  <MakeAmmo_22LR_HP.label>зробити патрон .22 LR (Е) x500</MakeAmmo_22LR_HP.label>
+  <MakeAmmo_22LR_HP.description>Виготовити п'ятсот патронів .22 LR (Е)</MakeAmmo_22LR_HP.description>
+  <MakeAmmo_22LR_HP.jobString>Робить патрони .22 LR (Е)</MakeAmmo_22LR_HP.jobString>
+
+
+</LanguageData>

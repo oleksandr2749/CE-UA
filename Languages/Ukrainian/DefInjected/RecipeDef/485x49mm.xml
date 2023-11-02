@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_485x49mm_FMJ.label>зробити патрон 4.85x49mm Cartridge x500</MakeAmmo_485x49mm_FMJ.label>
+  <MakeAmmo_485x49mm_FMJ.description>Виготовити п'ятсот патронів 4.85x49mm Cartridge</MakeAmmo_485x49mm_FMJ.description>
+  <MakeAmmo_485x49mm_FMJ.jobString>Робить патрони 4.85x49mm Cartridge</MakeAmmo_485x49mm_FMJ.jobString>
+
+  <MakeAmmo_485x49mm_AP.label>зробити патрон 4.85x49mm Cartridge (Б) x500</MakeAmmo_485x49mm_AP.label>
+  <MakeAmmo_485x49mm_AP.description>Виготовити п'ятсот патронів 4.85x49mm Cartridge (Б)</MakeAmmo_485x49mm_AP.description>
+  <MakeAmmo_485x49mm_AP.jobString>Робить патрони 4.85x49mm Cartridge (Б)</MakeAmmo_485x49mm_AP.jobString>
+
+  <MakeAmmo_485x49mm_HP.label>зробити патрон 4.85x49mm Cartridge (Е) x500</MakeAmmo_485x49mm_HP.label>
+  <MakeAmmo_485x49mm_HP.description>Виготовити п'ятсот патронів 4.85x49mm Cartridge (Е)</MakeAmmo_485x49mm_HP.description>
+  <MakeAmmo_485x49mm_HP.jobString>Робить патрони 4.85x49mm Cartridge (Е)</MakeAmmo_485x49mm_HP.jobString>
+
+  <MakeAmmo_485x49mm_Incendiary.label>зробити патрон 4.85x49mm (БЗ) x500</MakeAmmo_485x49mm_Incendiary.label>
+  <MakeAmmo_485x49mm_Incendiary.description>Виготовити п'ятсот патронів 4.85x49mm (БЗ)</MakeAmmo_485x49mm_Incendiary.description>
+  <MakeAmmo_485x49mm_Incendiary.jobString>Робить патрони 4.85x49mm (БЗ)</MakeAmmo_485x49mm_Incendiary.jobString>
+
+  <MakeAmmo_485x49mm_HE.label>зробити патрон 4.85x49mm (БФ) x500</MakeAmmo_485x49mm_HE.label>
+  <MakeAmmo_485x49mm_HE.description>Виготовити п'ятсот патронів 4.85x49mm (БФ)</MakeAmmo_485x49mm_HE.description>
+  <MakeAmmo_485x49mm_HE.jobString>Робить патрони 4.85x49mm (БФ)</MakeAmmo_485x49mm_HE.jobString>
+
+  <MakeAmmo_485x49mm_Sabot.label>зробити патрон 4.85x49mm (Підкаліберний) x500</MakeAmmo_485x49mm_Sabot.label>
+  <MakeAmmo_485x49mm_Sabot.description>Виготовити п'ятсот патронів 4.85x49mm (Підкаліберний)</MakeAmmo_485x49mm_Sabot.description>
+  <MakeAmmo_485x49mm_Sabot.jobString>Робить патрони 4.85x49mm (Підкаліберний)</MakeAmmo_485x49mm_Sabot.jobString>
+
+
+</LanguageData>

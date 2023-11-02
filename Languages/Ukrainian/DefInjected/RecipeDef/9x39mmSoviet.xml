@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_9x39mmSoviet_FMJ.label>зробити патрон 9x39мм x500</MakeAmmo_9x39mmSoviet_FMJ.label>
+  <MakeAmmo_9x39mmSoviet_FMJ.description>Виготовити п'ятсот патронів 9x39мм</MakeAmmo_9x39mmSoviet_FMJ.description>
+  <MakeAmmo_9x39mmSoviet_FMJ.jobString>Робить патрони 9x39мм</MakeAmmo_9x39mmSoviet_FMJ.jobString>
+
+  <MakeAmmo_9x39mmSoviet_AP.label>зробити патрон 9x39мм (Б) x500</MakeAmmo_9x39mmSoviet_AP.label>
+  <MakeAmmo_9x39mmSoviet_AP.description>Виготовити п'ятсот патронів 9x39мм (Б)</MakeAmmo_9x39mmSoviet_AP.description>
+  <MakeAmmo_9x39mmSoviet_AP.jobString>Робить патрони 9x39мм (Б)</MakeAmmo_9x39mmSoviet_AP.jobString>
+
+  <MakeAmmo_9x39mmSoviet_HP.label>зробити патрон 9x39мм (Е) x500</MakeAmmo_9x39mmSoviet_HP.label>
+  <MakeAmmo_9x39mmSoviet_HP.description>Виготовити п'ятсот патронів 9x39мм (Е)</MakeAmmo_9x39mmSoviet_HP.description>
+  <MakeAmmo_9x39mmSoviet_HP.jobString>Робить патрони 9x39мм (Е)</MakeAmmo_9x39mmSoviet_HP.jobString>
+
+  <MakeAmmo_9x39mmSoviet_Incendiary.label>зробити патрон 9x39мм (БЗ) x500</MakeAmmo_9x39mmSoviet_Incendiary.label>
+  <MakeAmmo_9x39mmSoviet_Incendiary.description>Виготовити п'ятсот патронів 9x39мм (БЗ)</MakeAmmo_9x39mmSoviet_Incendiary.description>
+  <MakeAmmo_9x39mmSoviet_Incendiary.jobString>Робить патрони 9x39мм (БЗ)</MakeAmmo_9x39mmSoviet_Incendiary.jobString>
+
+  <MakeAmmo_9x39mmSoviet_HE.label>зробити патрон 9x39мм (БФ) x500</MakeAmmo_9x39mmSoviet_HE.label>
+  <MakeAmmo_9x39mmSoviet_HE.description>Виготовити п'ятсот патронів 9x39мм (БФ)</MakeAmmo_9x39mmSoviet_HE.description>
+  <MakeAmmo_9x39mmSoviet_HE.jobString>Робить патрони 9x39мм (БФ)</MakeAmmo_9x39mmSoviet_HE.jobString>
+
+  <MakeAmmo_9x39mmSoviet_Sabot.label>зробити патрон 9x39мм (Підкаліберний) x500</MakeAmmo_9x39mmSoviet_Sabot.label>
+  <MakeAmmo_9x39mmSoviet_Sabot.description>Виготовити п'ятсот патронів 9x39мм (Підкаліберний)</MakeAmmo_9x39mmSoviet_Sabot.description>
+  <MakeAmmo_9x39mmSoviet_Sabot.jobString>Робить патрони 9x39мм (Підкаліберний)</MakeAmmo_9x39mmSoviet_Sabot.jobString>
+
+
+</LanguageData>

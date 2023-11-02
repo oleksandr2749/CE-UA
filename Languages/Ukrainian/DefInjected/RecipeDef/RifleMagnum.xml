@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_RifleMagnum_FMJ.label>зробити патрон magnum rifle x200</MakeAmmo_RifleMagnum_FMJ.label>
+  <MakeAmmo_RifleMagnum_FMJ.description>Craft 200 magnum rifle</MakeAmmo_RifleMagnum_FMJ.description>
+  <MakeAmmo_RifleMagnum_FMJ.jobString>Робить патрони magnum rifle</MakeAmmo_RifleMagnum_FMJ.jobString>
+
+  <MakeAmmo_RifleMagnum_AP.label>зробити патрон magnum rifle (Б) x200</MakeAmmo_RifleMagnum_AP.label>
+  <MakeAmmo_RifleMagnum_AP.description>Craft 200 magnum rifle (Б)</MakeAmmo_RifleMagnum_AP.description>
+  <MakeAmmo_RifleMagnum_AP.jobString>Робить патрони magnum rifle (Б)</MakeAmmo_RifleMagnum_AP.jobString>
+
+  <MakeAmmo_RifleMagnum_Incendiary.label>зробити патрон magnum rifle (БЗ) x200</MakeAmmo_RifleMagnum_Incendiary.label>
+  <MakeAmmo_RifleMagnum_Incendiary.description>Craft 200 magnum rifle (БЗ)</MakeAmmo_RifleMagnum_Incendiary.description>
+  <MakeAmmo_RifleMagnum_Incendiary.jobString>Робить патрони magnum rifle (БЗ)</MakeAmmo_RifleMagnum_Incendiary.jobString>
+
+  <MakeAmmo_RifleMagnum_HE.label>зробити патрон magnum rifle (HE) x200</MakeAmmo_RifleMagnum_HE.label>
+  <MakeAmmo_RifleMagnum_HE.description>Craft 200 magnum rifle (HE)</MakeAmmo_RifleMagnum_HE.description>
+  <MakeAmmo_RifleMagnum_HE.jobString>Робить патрони magnum rifle (HE)</MakeAmmo_RifleMagnum_HE.jobString>
+
+  <MakeAmmo_RifleMagnum_Sabot.label>зробити патрон magnum rifle (Підкаліберний) x200</MakeAmmo_RifleMagnum_Sabot.label>
+  <MakeAmmo_RifleMagnum_Sabot.description>Craft 200 magnum rifle (Підкаліберний)</MakeAmmo_RifleMagnum_Sabot.description>
+  <MakeAmmo_RifleMagnum_Sabot.jobString>Робить патрони magnum rifle (Підкаліберний)</MakeAmmo_RifleMagnum_Sabot.jobString>
+
+
+</LanguageData>

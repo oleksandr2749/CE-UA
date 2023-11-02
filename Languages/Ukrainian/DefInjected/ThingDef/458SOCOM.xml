@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_458SOCOM_FMJ.label>патрон 11,5х40мм</Ammo_458SOCOM_FMJ.label>
+  <Ammo_458SOCOM_FMJ.description>Rifle cartridge designed to bring the energy of a full power bullet into intermediate-caliber semi-automatic rifles.</Ammo_458SOCOM_FMJ.description>
+
+  <Ammo_458SOCOM_AP.label>патрон 11,5х40мм (Б)</Ammo_458SOCOM_AP.label>
+  <Ammo_458SOCOM_AP.description>Rifle cartridge designed to bring the energy of a full power bullet into intermediate-caliber semi-automatic rifles.</Ammo_458SOCOM_AP.description>
+
+  <Ammo_458SOCOM_HP.label>патрон 11,5х40мм (Е)</Ammo_458SOCOM_HP.label>
+  <Ammo_458SOCOM_HP.description>Rifle cartridge designed to bring the energy of a full power bullet into intermediate-caliber semi-automatic rifles.</Ammo_458SOCOM_HP.description>
+
+  <Ammo_458SOCOM_Incendiary.label>патрон 11,5х40мм (БЗ)</Ammo_458SOCOM_Incendiary.label>
+  <Ammo_458SOCOM_Incendiary.description>Rifle cartridge designed to bring the energy of a full power bullet into intermediate-caliber semi-automatic rifles.</Ammo_458SOCOM_Incendiary.description>
+
+  <Ammo_458SOCOM_HE.label>патрон 11,5х40мм (БФ)</Ammo_458SOCOM_HE.label>
+  <Ammo_458SOCOM_HE.description>Rifle cartridge designed to bring the energy of a full power bullet into intermediate-caliber semi-automatic rifles.</Ammo_458SOCOM_HE.description>
+
+  <Ammo_458SOCOM_Sabot.label>патрон 11,5х40мм (Підкаліберний)</Ammo_458SOCOM_Sabot.label>
+  <Ammo_458SOCOM_Sabot.description>Rifle cartridge designed to bring the energy of a full power bullet into intermediate-caliber semi-automatic rifles.</Ammo_458SOCOM_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_458SOCOM_FMJ.label>.458 SOCOM bullet</Bullet_458SOCOM_FMJ.label>
+  <Bullet_458SOCOM_AP.label>.458 SOCOM bullet (Б)</Bullet_458SOCOM_AP.label>
+  <Bullet_458SOCOM_HP.label>.458 SOCOM bullet (Е)</Bullet_458SOCOM_HP.label>
+  <Bullet_458SOCOM_Incendiary.label>.458 SOCOM bullet (БЗ)</Bullet_458SOCOM_Incendiary.label>
+  <Bullet_458SOCOM_HE.label>.458 SOCOM bullet (БФ)</Bullet_458SOCOM_HE.label>
+  <Bullet_458SOCOM_Sabot.label>.458 SOCOM bullet (Підкаліберний)</Bullet_458SOCOM_Sabot.label>
+
+
+</LanguageData>

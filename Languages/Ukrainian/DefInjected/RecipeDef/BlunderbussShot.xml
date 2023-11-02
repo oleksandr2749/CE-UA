@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_BlunderbussShot.label>зробити патрон blunderbuss shot x100</MakeAmmo_BlunderbussShot.label>
+  <MakeAmmo_BlunderbussShot.description>Craft 100 blunderbuss shot</MakeAmmo_BlunderbussShot.description>
+  <MakeAmmo_BlunderbussShot.jobString>Робить патрони blunderbuss shot</MakeAmmo_BlunderbussShot.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mech Charged -->
+
+  <Ammo_MechCharged.label>енергопатрон механоїда</Ammo_MechCharged.label>
+  <Ammo_MechCharged.description>Charged shot ammo used by mechanoid weaponry.</Ammo_MechCharged.description>
+
+
+  <!-- Mech Shell -->
+
+  <Ammo_MechShell.label>Mech Shell</Ammo_MechShell.label>
+  <Ammo_MechShell.description>Large shell used by mechanoid cannons and heavy weapons.</Ammo_MechShell.description>
+
+
+</LanguageData>

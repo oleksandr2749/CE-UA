@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_545x39mmSoviet_FMJ.label>патрон 5,60х40мм</Ammo_545x39mmSoviet_FMJ.label>
+  <Ammo_545x39mmSoviet_FMJ.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_545x39mmSoviet_FMJ.description>
+
+  <Ammo_545x39mmSoviet_AP.label>патрон 5,60х40мм (Б)</Ammo_545x39mmSoviet_AP.label>
+  <Ammo_545x39mmSoviet_AP.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_545x39mmSoviet_AP.description>
+
+  <Ammo_545x39mmSoviet_HP.label>патрон 5,60х40мм (Е)</Ammo_545x39mmSoviet_HP.label>
+  <Ammo_545x39mmSoviet_HP.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_545x39mmSoviet_HP.description>
+
+  <Ammo_545x39mmSoviet_Incendiary.label>патрон 5,60х40мм (БЗ)</Ammo_545x39mmSoviet_Incendiary.label>
+  <Ammo_545x39mmSoviet_Incendiary.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_545x39mmSoviet_Incendiary.description>
+
+  <Ammo_545x39mmSoviet_HE.label>патрон 5,60х40мм (БФ)</Ammo_545x39mmSoviet_HE.label>
+  <Ammo_545x39mmSoviet_HE.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_545x39mmSoviet_HE.description>
+
+  <Ammo_545x39mmSoviet_Sabot.label>патрон 5,60х40мм (Підкаліберний)</Ammo_545x39mmSoviet_Sabot.label>
+  <Ammo_545x39mmSoviet_Sabot.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_545x39mmSoviet_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_545x39mmSoviet_FMJ.label>5.45mm Soviet bullet</Bullet_545x39mmSoviet_FMJ.label>
+  <Bullet_545x39mmSoviet_AP.label>5.45mm Soviet bullet (Б)</Bullet_545x39mmSoviet_AP.label>
+  <Bullet_545x39mmSoviet_HP.label>5.45mm Soviet bullet (Е)</Bullet_545x39mmSoviet_HP.label>
+  <Bullet_545x39mmSoviet_Incendiary.label>5.45mm Soviet bullet (БЗ)</Bullet_545x39mmSoviet_Incendiary.label>
+  <Bullet_545x39mmSoviet_HE.label>5.45mm Soviet bullet (БФ)</Bullet_545x39mmSoviet_HE.label>
+  <Bullet_545x39mmSoviet_Sabot.label>5.45mm Soviet bullet (Підкаліберний)</Bullet_545x39mmSoviet_Sabot.label>
+
+
+  <!-- Short barrel -->
+
+  <Bullet_545x39mmSoviet_FMJ_SB.label>5.45mm Soviet bullet</Bullet_545x39mmSoviet_FMJ_SB.label>
+  <Bullet_545x39mmSoviet_AP_SB.label>5.45mm Soviet bullet (Б)</Bullet_545x39mmSoviet_AP_SB.label>
+  <Bullet_545x39mmSoviet_HP_SB.label>5.45mm Soviet bullet (Е)</Bullet_545x39mmSoviet_HP_SB.label>
+  <Bullet_545x39mmSoviet_Incendiary_SB.label>5.45mm Soviet bullet (БЗ)</Bullet_545x39mmSoviet_Incendiary_SB.label>
+  <Bullet_545x39mmSoviet_HE_SB.label>5.45mm Soviet bullet (БФ)</Bullet_545x39mmSoviet_HE_SB.label>
+  <Bullet_545x39mmSoviet_Sabot_SB.label>5.45mm Soviet bullet (Підкаліберний)</Bullet_545x39mmSoviet_Sabot_SB.label>
+
+
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_277Fury_FMJ.label>патрон 7х51мм</Ammo_277Fury_FMJ.label>
+  <Ammo_277Fury_FMJ.description>A centerfire rimless bottlenecked rifle cartridge with a hybrid three-piece design to support high chamber pressures. Used in various rifles and machine guns</Ammo_277Fury_FMJ.description>
+
+  <Ammo_277Fury_AP.label>патрон 7х51мм (Б)</Ammo_277Fury_AP.label>
+  <Ammo_277Fury_AP.description>A centerfire rimless bottlenecked rifle cartridge with a hybrid three-piece design to support high chamber pressures. Used in various rifles and machine guns</Ammo_277Fury_AP.description>
+
+  <Ammo_277Fury_HP.label>патрон 7х51мм (Е)</Ammo_277Fury_HP.label>
+  <Ammo_277Fury_HP.description>A centerfire rimless bottlenecked rifle cartridge with a hybrid three-piece design to support high chamber pressures. Used in various rifles and machine guns</Ammo_277Fury_HP.description>
+
+  <Ammo_277Fury_Incendiary.label>патрон 7х51мм (БЗ)</Ammo_277Fury_Incendiary.label>
+  <Ammo_277Fury_Incendiary.description>A centerfire rimless bottlenecked rifle cartridge with a hybrid three-piece design to support high chamber pressures. Used in various rifles and machine guns</Ammo_277Fury_Incendiary.description>
+
+  <Ammo_277Fury_HE.label>патрон 7х51мм (БФ)</Ammo_277Fury_HE.label>
+  <Ammo_277Fury_HE.description>A centerfire rimless bottlenecked rifle cartridge with a hybrid three-piece design to support high chamber pressures. Used in various rifles and machine guns</Ammo_277Fury_HE.description>
+
+  <Ammo_277Fury_Sabot.label>патрон 7х51мм (Підкаліберний)</Ammo_277Fury_Sabot.label>
+  <Ammo_277Fury_Sabot.description>A centerfire rimless bottlenecked rifle cartridge with a hybrid three-piece design to support high chamber pressures. Used in various rifles and machine guns</Ammo_277Fury_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_277Fury_FMJ.label>.277 Fury bullet</Bullet_277Fury_FMJ.label>
+  <Bullet_277Fury_AP.label>.277 Fury bullet (Б)</Bullet_277Fury_AP.label>
+  <Bullet_277Fury_HP.label>.277 Fury bullet (Е)</Bullet_277Fury_HP.label>
+  <Bullet_277Fury_Incendiary.label>.277 Fury bullet (БЗ)</Bullet_277Fury_Incendiary.label>
+  <Bullet_277Fury_HE.label>.277 Fury bullet (БФ)</Bullet_277Fury_HE.label>
+  <Bullet_277Fury_Sabot.label>.277 Fury bullet (Підкаліберний)</Bullet_277Fury_Sabot.label>
+
+
+</LanguageData>

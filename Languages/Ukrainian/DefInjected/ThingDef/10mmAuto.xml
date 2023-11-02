@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_10mmAuto_FMJ.label>патрон 10х25мм</Ammo_10mmAuto_FMJ.label>
+  <Ammo_10mmAuto_FMJ.description>A large and powerful cartridge designed for automatic pistols.</Ammo_10mmAuto_FMJ.description>
+
+  <Ammo_10mmAuto_AP.label>патрон 10х25мм (Б)</Ammo_10mmAuto_AP.label>
+  <Ammo_10mmAuto_AP.description>A large and powerful cartridge designed for automatic pistols.</Ammo_10mmAuto_AP.description>
+
+  <Ammo_10mmAuto_HP.label>патрон 10х25мм (Е)</Ammo_10mmAuto_HP.label>
+  <Ammo_10mmAuto_HP.description>A large and powerful cartridge designed for automatic pistols.</Ammo_10mmAuto_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_10mmAuto_FMJ.label>10mm Auto bullet</Bullet_10mmAuto_FMJ.label>
+  <Bullet_10mmAuto_AP.label>10mm Auto bullet (Б)</Bullet_10mmAuto_AP.label>
+  <Bullet_10mmAuto_HP.label>10mm Auto bullet (Е)</Bullet_10mmAuto_HP.label>
+
+
+</LanguageData>

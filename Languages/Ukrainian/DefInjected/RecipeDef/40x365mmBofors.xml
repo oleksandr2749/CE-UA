@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_40x365mmBofors_AP.label>зробити патрон 40x365mm Bofors (Б) x25</MakeAmmo_40x365mmBofors_AP.label>
+  <MakeAmmo_40x365mmBofors_AP.description>Craft 25 40x365mm Bofors (Б)</MakeAmmo_40x365mmBofors_AP.description>
+  <MakeAmmo_40x365mmBofors_AP.jobString>Робить патрони 40x365mm Bofors (Б)</MakeAmmo_40x365mmBofors_AP.jobString>
+
+  <MakeAmmo_40x365mmBofors_HE.label>зробити патрон 40x365mm Bofors (HE) x25</MakeAmmo_40x365mmBofors_HE.label>
+  <MakeAmmo_40x365mmBofors_HE.description>Craft 25 40x365mm Bofors (HE)</MakeAmmo_40x365mmBofors_HE.description>
+  <MakeAmmo_40x365mmBofors_HE.jobString>Робить патрони 40x365mm Bofors (HE)</MakeAmmo_40x365mmBofors_HE.jobString>
+
+  <MakeAmmo_40x365mmBofors_HE_TFuzed.label>зробити патрон 40x365mm Bofors Time-Fuzed x25</MakeAmmo_40x365mmBofors_HE_TFuzed.label>
+  <MakeAmmo_40x365mmBofors_HE_TFuzed.description>Craft 25 40x365mm Bofors Time-Fuzed</MakeAmmo_40x365mmBofors_HE_TFuzed.description>
+  <MakeAmmo_40x365mmBofors_HE_TFuzed.jobString>Робить патрони 40x365mm Bofors Time-Fuzed</MakeAmmo_40x365mmBofors_HE_TFuzed.jobString>
+
+  <MakeAmmo_40x365mmBofors_Sabot.label>зробити патрон 40x365mm Bofors (Підкаліберний) x25</MakeAmmo_40x365mmBofors_Sabot.label>
+  <MakeAmmo_40x365mmBofors_Sabot.description>Craft 25 40x365mm Bofors (Підкаліберний)</MakeAmmo_40x365mmBofors_Sabot.description>
+  <MakeAmmo_40x365mmBofors_Sabot.jobString>Робить патрони 40x365mm Bofors (Підкаліберний)</MakeAmmo_40x365mmBofors_Sabot.jobString>
+
+
+</LanguageData>

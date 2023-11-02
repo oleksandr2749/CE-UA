@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- AmmoSet -->
+
+  <AmmoSet_ChargedPistol.label>charged pistol</AmmoSet_ChargedPistol.label>
+  <AmmoSet_ChargedRifle.label>charged rifle</AmmoSet_ChargedRifle.label>
+  <AmmoSet_ChargedHeavy.label>heavy charged</AmmoSet_ChargedHeavy.label>
+  <AmmoSet_ChargedShotgun.label>charged shotgun</AmmoSet_ChargedShotgun.label>
+
+
+</LanguageData>

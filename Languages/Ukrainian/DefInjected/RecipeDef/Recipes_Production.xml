@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_FSXDrugLab.label>Synthesize 7 FSX</Make_FSXDrugLab.label>
+  <Make_FSXDrugLab.description>Synthesize 7 FSX from chemfuel using chemistry equipment.</Make_FSXDrugLab.description>
+  <Make_FSXDrugLab.jobString>Synthesizing FSX</Make_FSXDrugLab.jobString>
+
+  <Make_FSXRefinery.label>Synthesize 8 FSX</Make_FSXRefinery.label>
+  <Make_FSXRefinery.description>Use the refinery to synthesize 8 FSX from chemfuel.</Make_FSXRefinery.description>
+  <Make_FSXRefinery.jobString>Synthesizing FSX</Make_FSXRefinery.jobString>
+
+  <ReclaimMechAmmo.label>reclaim materials from mechanoid ammo</ReclaimMechAmmo.label>
+  <ReclaimMechAmmo.description>Use heat and strong electromagnets to break down mechanoid ammo into useful resource</ReclaimMechAmmo.description>
+  <ReclaimMechAmmo.jobString>Smelting mechanoid ammo.</ReclaimMechAmmo.jobString>
+
+  <RecycleMechAmmo.label>recycle materials from mechanoid ammo</RecycleMechAmmo.label>
+  <RecycleMechAmmo.description>Use advanced fabrication tools to recycle mechanoid ammo into useful resource</RecycleMechAmmo.description>
+  <RecycleMechAmmo.jobString>Recycling mechanoid ammo.</RecycleMechAmmo.jobString>
+
+  <RecycleMechExplosives.label>recycle materials from mechanoid explosive ammo</RecycleMechExplosives.label>
+  <RecycleMechExplosives.description>Use advanced fabrication tools meticulously to recycle explosive mechanoid ammo into useful resource</RecycleMechExplosives.description>
+  <RecycleMechExplosives.jobString>Recycling mechanoid explosive ammo.</RecycleMechExplosives.jobString>
+
+
+</LanguageData>

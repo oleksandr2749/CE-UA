@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_44Magnum_FMJ.label>зробити патрон .44 Magnum x500</MakeAmmo_44Magnum_FMJ.label>
+  <MakeAmmo_44Magnum_FMJ.description>Виготовити п'ятсот патронів .44 Magnum</MakeAmmo_44Magnum_FMJ.description>
+  <MakeAmmo_44Magnum_FMJ.jobString>Робить патрони .44 Magnum</MakeAmmo_44Magnum_FMJ.jobString>
+
+  <MakeAmmo_44Magnum_AP.label>зробити патрон .44 Magnum (Б) x500</MakeAmmo_44Magnum_AP.label>
+  <MakeAmmo_44Magnum_AP.description>Виготовити п'ятсот патронів .44 Magnum (Б)</MakeAmmo_44Magnum_AP.description>
+  <MakeAmmo_44Magnum_AP.jobString>Робить патрони .44 Magnum (Б)</MakeAmmo_44Magnum_AP.jobString>
+
+  <MakeAmmo_44Magnum_HP.label>зробити патрон .44 Magnum (Е) x500</MakeAmmo_44Magnum_HP.label>
+  <MakeAmmo_44Magnum_HP.description>Виготовити п'ятсот патронів .44 Magnum (Е)</MakeAmmo_44Magnum_HP.description>
+  <MakeAmmo_44Magnum_HP.jobString>Робить патрони .44 Magnum (Е)</MakeAmmo_44Magnum_HP.jobString>
+
+
+</LanguageData>

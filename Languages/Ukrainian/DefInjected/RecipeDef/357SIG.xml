@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_357SIG_FMJ.label>зробити патрон .357 SIG x500</MakeAmmo_357SIG_FMJ.label>
+  <MakeAmmo_357SIG_FMJ.description>Виготовити п'ятсот патронів .357 SIG</MakeAmmo_357SIG_FMJ.description>
+  <MakeAmmo_357SIG_FMJ.jobString>Робить патрони .357 SIG</MakeAmmo_357SIG_FMJ.jobString>
+
+  <MakeAmmo_357SIG_AP.label>зробити патрон .357 SIG (Б) x500</MakeAmmo_357SIG_AP.label>
+  <MakeAmmo_357SIG_AP.description>Виготовити п'ятсот патронів .357 SIG (Б)</MakeAmmo_357SIG_AP.description>
+  <MakeAmmo_357SIG_AP.jobString>Робить патрони .357 SIG (Б)</MakeAmmo_357SIG_AP.jobString>
+
+  <MakeAmmo_357SIG_HP.label>зробити патрон .357 SIG (Е) x500</MakeAmmo_357SIG_HP.label>
+  <MakeAmmo_357SIG_HP.description>Виготовити п'ятсот патронів .357 SIG (Е)</MakeAmmo_357SIG_HP.description>
+  <MakeAmmo_357SIG_HP.jobString>Робить патрони .357 SIG (Е)</MakeAmmo_357SIG_HP.jobString>
+
+
+</LanguageData>

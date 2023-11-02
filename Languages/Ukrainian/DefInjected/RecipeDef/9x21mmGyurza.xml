@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_9x21mmGyurza_FMJ.label>зробити патрон 9x21мм x500</MakeAmmo_9x21mmGyurza_FMJ.label>
+  <MakeAmmo_9x21mmGyurza_FMJ.description>Виготовити п'ятсот патронів 9x21мм</MakeAmmo_9x21mmGyurza_FMJ.description>
+  <MakeAmmo_9x21mmGyurza_FMJ.jobString>Робить патрони 9x21мм</MakeAmmo_9x21mmGyurza_FMJ.jobString>
+
+  <MakeAmmo_9x21mmGyurza_AP.label>зробити патрон 9x21мм (Б) x500</MakeAmmo_9x21mmGyurza_AP.label>
+  <MakeAmmo_9x21mmGyurza_AP.description>Виготовити п'ятсот патронів 9x21мм (Б)</MakeAmmo_9x21mmGyurza_AP.description>
+  <MakeAmmo_9x21mmGyurza_AP.jobString>Робить патрони 9x21мм (Б)</MakeAmmo_9x21mmGyurza_AP.jobString>
+
+  <MakeAmmo_9x21mmGyurza_HP.label>зробити патрон 9x21мм (Е) x500</MakeAmmo_9x21mmGyurza_HP.label>
+  <MakeAmmo_9x21mmGyurza_HP.description>Виготовити п'ятсот патронів 9x21мм (Е)</MakeAmmo_9x21mmGyurza_HP.description>
+  <MakeAmmo_9x21mmGyurza_HP.jobString>Робить патрони 9x21мм (Е)</MakeAmmo_9x21mmGyurza_HP.jobString>
+
+
+</LanguageData>

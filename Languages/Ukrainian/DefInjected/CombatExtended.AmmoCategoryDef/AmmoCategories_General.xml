@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FullMetalJacket.label>цільнометалева оболонка</FullMetalJacket.label>
+  <FullMetalJacket.labelShort>ЦМО</FullMetalJacket.labelShort>
+  <FullMetalJacket.description>The soft lead core is encased in a harder metal coating, combining a medium amount of stopping power and armor penetration.</FullMetalJacket.description>
+
+  <ArmorPiercing.label>бронебійний</ArmorPiercing.label>
+  <ArmorPiercing.labelShort>Б</ArmorPiercing.labelShort>
+  <ArmorPiercing.description>Features a hardened steel penetrator core for increased armor penetration.</ArmorPiercing.description>
+
+  <HollowPoint.label>експансивний</HollowPoint.label>
+  <HollowPoint.labelShort>Е</HollowPoint.labelShort>
+  <HollowPoint.description>A hollowed out tip causes the bullet to expand on impact, increasing tissue damage at the cost of armor penetration.</HollowPoint.description>
+
+  <Sabot.label>бронебійно-підкаліберний</Sabot.label>
+  <Sabot.labelShort>П</Sabot.labelShort>
+  <Sabot.description>Uses a discarding sabot to fire an undersized projectile at higher muzzle velocities, greatly improving armor penetration.</Sabot.description>
+
+  <IncendiaryAP.label>бронебійно-запальний</IncendiaryAP.label>
+  <IncendiaryAP.labelShort>БЗ</IncendiaryAP.labelShort>
+  <IncendiaryAP.description>Filled with an incendiary compound that ignites on impact, doing additional damage and increasing armor penetration.</IncendiaryAP.description>
+
+  <ExplosiveAP.label>бронебійно-фугасний</ExplosiveAP.label>
+  <ExplosiveAP.labelShort>БФ</ExplosiveAP.labelShort>
+  <ExplosiveAP.description>Filled with high-explosives that detonate on impact for additional damage.</ExplosiveAP.description>
+
+  <TranqNonLethal.label>транквілізатор</TranqNonLethal.label>
+  <TranqNonLethal.description>Special round designed for non-lethal engagements of targets. Filled with fast-acting sedatives and tipped with a hypodermic needle.</TranqNonLethal.description>
+
+  <RubberBullet.label>гумова куля</RubberBullet.label>
+  <RubberBullet.description>Special round designed for non-lethal engagements of targets, intended to inflict painful but non-fatal injuries.</RubberBullet.description>
+
+  <Taser.label>електрошокер</Taser.label>
+  <Taser.description>Special round designed for non-lethal engagements of targets, delivering an incapacitating electrical current.</Taser.description>
+
+  <Flare.label>освітлювальний</Flare.label>
+  <Flare.description>Special round based around a brightly-burning incendiary element, used for signaling and illumination.</Flare.description>
+
+  <Demolition.label>руйнівний</Demolition.label>
+  <Demolition.description>Special round based around a low explosive element, used to destroy structures and fortifications.</Demolition.description>
+
+
+</LanguageData>

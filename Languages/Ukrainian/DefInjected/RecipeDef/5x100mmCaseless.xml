@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_5x100mmCaseless_Sabot.label>зробити безгільзовий патрон 5x100мм (Підкаліберний) x500</MakeAmmo_5x100mmCaseless_Sabot.label>
+  <MakeAmmo_5x100mmCaseless_Sabot.description>Виготовити п'ятсот безгільзових патронів 5x100мм (Підкаліберний)</MakeAmmo_5x100mmCaseless_Sabot.description>
+  <MakeAmmo_5x100mmCaseless_Sabot.jobString>Робить безгільзові патрони 5x100мм (Підкаліберний)</MakeAmmo_5x100mmCaseless_Sabot.jobString>
+
+
+</LanguageData>

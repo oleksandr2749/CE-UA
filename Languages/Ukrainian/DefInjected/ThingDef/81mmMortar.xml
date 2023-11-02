@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Shell_Toxic.label>снаряд 81мм (Toxic)</Shell_Toxic.label>
+  <Shell_Toxic.description>Low-velocity shell designed to be fired from a mortar.</Shell_Toxic.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_81mmMortarShell_HE.label>81mm mortar shell (Фугасний)</Bullet_81mmMortarShell_HE.label>
+  <Bullet_81mmMortarShell_Incendiary.label>81mm mortar shell (Запальний)</Bullet_81mmMortarShell_Incendiary.label>
+  <Bullet_81mmMortarShell_EMP.label>81mm mortar shell (ЕМІ)</Bullet_81mmMortarShell_EMP.label>
+  <Bullet_81mmMortarShell_Firefoam.label>81mm mortar shell (Foam)</Bullet_81mmMortarShell_Firefoam.label>
+  <Bullet_81mmMortarShell_Smoke.label>81mm mortar shell (Димовий)</Bullet_81mmMortarShell_Smoke.label>
+  <Bullet_81mmMortarShell_Antigrain.label>81mm mortar shell (Anti)</Bullet_81mmMortarShell_Antigrain.label>
+  <Bullet_81mmMortarShell_Tox.label>81mm mortar shell (Toxic)</Bullet_81mmMortarShell_Tox.label>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_57x483mmBofors_HE.label>зробити патрон 57x483mm Bofors (HE) x25</MakeAmmo_57x483mmBofors_HE.label>
+  <MakeAmmo_57x483mmBofors_HE.description>Craft 25 57x483mm Bofors (HE)</MakeAmmo_57x483mmBofors_HE.description>
+  <MakeAmmo_57x483mmBofors_HE.jobString>Робить патрони 57x483mm Bofors (HE)</MakeAmmo_57x483mmBofors_HE.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_20x139mm_AP.label>патрон 20x139мм (Б)</Ammo_20x139mm_AP.label>
+  <Ammo_20x139mm_AP.description>A high caliber cartridge used by autocannons.</Ammo_20x139mm_AP.description>
+
+  <Ammo_20x139mm_Incendiary.label>патрон 20x139мм (БЗ)</Ammo_20x139mm_Incendiary.label>
+  <Ammo_20x139mm_Incendiary.description>A high caliber cartridge used by autocannons.</Ammo_20x139mm_Incendiary.description>
+
+  <Ammo_20x139mm_HE.label>патрон 20x139мм (БФ)</Ammo_20x139mm_HE.label>
+  <Ammo_20x139mm_HE.description>A high caliber cartridge used by autocannons.</Ammo_20x139mm_HE.description>
+
+  <Ammo_20x139mm_Sabot.label>патрон 20x139мм (Підкаліберний)</Ammo_20x139mm_Sabot.label>
+  <Ammo_20x139mm_Sabot.description>A high caliber cartridge used by autocannons.</Ammo_20x139mm_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_20x139mm_AP.label>20x139mm bullet (Б)</Bullet_20x139mm_AP.label>
+  <Bullet_20x139mm_Incendiary.label>20x139mm bullet (БЗ)</Bullet_20x139mm_Incendiary.label>
+  <Bullet_20x139mm_HE.label>20x139mm bullet (БФ)</Bullet_20x139mm_HE.label>
+  <Bullet_20x139mm_Sabot.label>20x139mm bullet (Підкаліберний)</Bullet_20x139mm_Sabot.label>
+
+
+</LanguageData>

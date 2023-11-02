@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Blaster Turret -->
+
+  <Turret_Blaster.label>бластерна енерготурель</Turret_Blaster.label>
+  <Turret_Blaster.description>Automatic turret equipped with a charge blaster.</Turret_Blaster.description>
+  <Turret_Blaster_Blueprint.label>charge blaster auto-turret (blueprint)</Turret_Blaster_Blueprint.label>
+  <Turret_Blaster_Blueprint_Install.label>charge blaster auto-turret (blueprint)</Turret_Blaster_Blueprint_Install.label>
+  <Turret_Blaster_Frame.label>charge blaster auto-turret (building)</Turret_Blaster_Frame.label>
+  <Turret_Blaster_Frame.description>Automatic turret equipped with a charge blaster.</Turret_Blaster_Frame.description>
+
+
+  <!-- Heavy Turret -->
+
+  <Turret_Heavy.label>важка турель</Turret_Heavy.label>
+  <Turret_Heavy.description>Plated automatic turret equiped with a high caliber machine gun. Very resistant to damage.</Turret_Heavy.description>
+  <Turret_Heavy_Blueprint.label>heavy auto-turret (blueprint)</Turret_Heavy_Blueprint.label>
+  <Turret_Heavy_Blueprint_Install.label>heavy auto-turret (blueprint)</Turret_Heavy_Blueprint_Install.label>
+  <Turret_Heavy_Frame.label>heavy auto-turret (building)</Turret_Heavy_Frame.label>
+  <Turret_Heavy_Frame.description>Plated automatic turret equiped with a high caliber machine gun. Very resistant to damage.</Turret_Heavy_Frame.description>
+
+
+  <!-- Medium Turret -->
+
+  <Turret_Medium.label>середня турель</Turret_Medium.label>
+  <Turret_Medium.description>Automatic turret equiped with a full powered cartridge machine gun. Fairly resistant to damage.</Turret_Medium.description>
+  <Turret_Medium_Blueprint.label>medium auto-turret (blueprint)</Turret_Medium_Blueprint.label>
+  <Turret_Medium_Blueprint_Install.label>medium auto-turret (blueprint)</Turret_Medium_Blueprint_Install.label>
+  <Turret_Medium_Frame.label>medium auto-turret (building)</Turret_Medium_Frame.label>
+  <Turret_Medium_Frame.description>Automatic turret equiped with a full powered cartridge machine gun. Fairly resistant to damage.</Turret_Medium_Frame.description>
+
+
+  <!-- KPV -->
+
+  <Turret_KPV.label>КПВ</Turret_KPV.label>
+  <Turret_KPV.description>KPV heavy machine gun mounted on a tripod.</Turret_KPV.description>
+  <Turret_KPV_Blueprint.label>KPV machine gun (blueprint)</Turret_KPV_Blueprint.label>
+  <Turret_KPV_Blueprint_Install.label>KPV machine gun (blueprint)</Turret_KPV_Blueprint_Install.label>
+  <Turret_KPV_Frame.label>KPV machine gun (building)</Turret_KPV_Frame.label>
+  <Turret_KPV_Frame.description>KPV heavy machine gun mounted on a tripod.</Turret_KPV_Frame.description>
+
+
+  <!-- M240B -->
+
+  <Turret_M240B.label>M240B</Turret_M240B.label>
+  <Turret_M240B.description>M240B medium machine gun mounted on a tripod.</Turret_M240B.description>
+  <Turret_M240B_Blueprint.label>M240B (blueprint)</Turret_M240B_Blueprint.label>
+  <Turret_M240B_Blueprint_Install.label>M240B (blueprint)</Turret_M240B_Blueprint_Install.label>
+  <Turret_M240B_Frame.label>M240B (building)</Turret_M240B_Frame.label>
+  <Turret_M240B_Frame.description>M240B medium machine gun mounted on a tripod.</Turret_M240B_Frame.description>
+
+
+  <!-- AGS-30 -->
+
+  <Turret_AGSThirty.label>АГС-30</Turret_AGSThirty.label>
+  <Turret_AGSThirty.description>Lightweight automatic grenade launcher mounted on a tripod.</Turret_AGSThirty.description>
+  <Turret_AGSThirty_Blueprint.label>AGS-30 (blueprint)</Turret_AGSThirty_Blueprint.label>
+  <Turret_AGSThirty_Blueprint_Install.label>AGS-30 (blueprint)</Turret_AGSThirty_Blueprint_Install.label>
+  <Turret_AGSThirty_Frame.label>AGS-30 (building)</Turret_AGSThirty_Frame.label>
+  <Turret_AGSThirty_Frame.description>Lightweight automatic grenade launcher mounted on a tripod.</Turret_AGSThirty_Frame.description>
+
+
+  <!-- Flak cannon -->
+
+  <Turret_Flak.label>90мм зенітна турель</Turret_Flak.label>
+  <Turret_Flak.description>Old school anti-aircraft cannon. Ineffective against modern aviation but still popular on rimworlds for use against entrenched enemies and vehicles.</Turret_Flak.description>
+  <Turret_Flak_Blueprint.label>90mm flak turret (blueprint)</Turret_Flak_Blueprint.label>
+  <Turret_Flak_Blueprint_Install.label>90mm flak turret (blueprint)</Turret_Flak_Blueprint_Install.label>
+  <Turret_Flak_Frame.label>90mm flak turret (building)</Turret_Flak_Frame.label>
+  <Turret_Flak_Frame.description>Old school anti-aircraft cannon. Ineffective against modern aviation but still popular on rimworlds for use against entrenched enemies and vehicles.</Turret_Flak_Frame.description>
+
+
+</LanguageData>

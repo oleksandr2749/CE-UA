@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- M72 LAW -->
+
+  <MakeDisposableRocketLauncher.label>зробити патрон disposable rocket launcher x5</MakeDisposableRocketLauncher.label>
+  <MakeDisposableRocketLauncher.description>Craft 5 disposable rocket launcher</MakeDisposableRocketLauncher.description>
+  <MakeDisposableRocketLauncher.jobString>Робить патрони disposable rocket launcher</MakeDisposableRocketLauncher.jobString>
+
+  <MakeDisposableRocketLauncher_x1.label>зробити патрон disposable rocket launcher x1</MakeDisposableRocketLauncher_x1.label>
+  <MakeDisposableRocketLauncher_x1.description>Craft one disposable rocket launcher.</MakeDisposableRocketLauncher_x1.description>
+  <MakeDisposableRocketLauncher_x1.jobString>Робить патрони disposable rocket launcher.</MakeDisposableRocketLauncher_x1.jobString>
+
+
+</LanguageData>

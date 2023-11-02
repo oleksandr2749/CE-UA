@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_Autocannon_AP.label>зробити патрон autocannon shell (Б) x200</MakeAmmo_Autocannon_AP.label>
+  <MakeAmmo_Autocannon_AP.description>Craft 200 autocannon shell (Б).</MakeAmmo_Autocannon_AP.description>
+  <MakeAmmo_Autocannon_AP.jobString>Робить патрони autocannon shell (Б).</MakeAmmo_Autocannon_AP.jobString>
+
+  <MakeAmmo_Autocannon_Incendiary.label>зробити патрон autocannon shell (БЗ) x200</MakeAmmo_Autocannon_Incendiary.label>
+  <MakeAmmo_Autocannon_Incendiary.description>Craft 200 autocannon shell (БЗ).</MakeAmmo_Autocannon_Incendiary.description>
+  <MakeAmmo_Autocannon_Incendiary.jobString>Робить патрони autocannon shell (БЗ).</MakeAmmo_Autocannon_Incendiary.jobString>
+
+  <MakeAmmo_Autocannon_HE.label>зробити патрон autocannon shell (HE) x200</MakeAmmo_Autocannon_HE.label>
+  <MakeAmmo_Autocannon_HE.description>Craft 200 autocannon shell (HE).</MakeAmmo_Autocannon_HE.description>
+  <MakeAmmo_Autocannon_HE.jobString>Робить патрони autocannon shell (HE).</MakeAmmo_Autocannon_HE.jobString>
+
+  <MakeAmmo_Autocannon_Sabot.label>зробити патрон autocannon shell (Підкаліберний) x200</MakeAmmo_Autocannon_Sabot.label>
+  <MakeAmmo_Autocannon_Sabot.description>Craft 200 autocannon shell (Підкаліберний).</MakeAmmo_Autocannon_Sabot.description>
+  <MakeAmmo_Autocannon_Sabot.jobString>Робить патрони autocannon shell (Підкаліберний).</MakeAmmo_Autocannon_Sabot.jobString>
+
+
+</LanguageData>

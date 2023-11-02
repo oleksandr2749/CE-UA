@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_105x607mmRCannonShell_HEAT.label>снаряд 105x607мм (Кумулятивний)</Ammo_105x607mmRCannonShell_HEAT.label>
+  <Ammo_105x607mmRCannonShell_HEAT.description>High-caliber recoilless rifle shells, typically used by large recoilless rifles.</Ammo_105x607mmRCannonShell_HEAT.description>
+
+  <Ammo_105x607mmRCannonShell_HE.label>снаряд 105x607мм (Фугасний)</Ammo_105x607mmRCannonShell_HE.label>
+  <Ammo_105x607mmRCannonShell_HE.description>High-caliber recoilless rifle shells, typically used by large recoilless rifles.</Ammo_105x607mmRCannonShell_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_105x607mmRCannonShell_HEAT.label>105x607mmR shell (Кумулятивний)</Bullet_105x607mmRCannonShell_HEAT.label>
+  <Bullet_105x607mmRCannonShell_HE.label>105x607mmR shell (Фугасний)</Bullet_105x607mmRCannonShell_HE.label>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_152x169mm_Sabot.label>патрон 15x169мм (Підкаліберний)</Ammo_152x169mm_Sabot.label>
+  <Ammo_152x169mm_Sabot.description>Prototype smoothbore cartridge designed for anti-material use.</Ammo_152x169mm_Sabot.description>
+
+
+  <!-- Projectile -->
+
+  <Bullet_152x169mm_Sabot.label>15.2x169mm bullet (Підкаліберний)</Bullet_152x169mm_Sabot.label>
+
+
+</LanguageData>

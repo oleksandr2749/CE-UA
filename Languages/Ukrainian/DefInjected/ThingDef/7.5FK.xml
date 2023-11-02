@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_75FK_FMJ.label>патрон 7,5x27мм</Ammo_75FK_FMJ.label>
+  <Ammo_75FK_FMJ.description>A high-velocity bottlenecked handgun cartridge capable of penetrating lightly armored targets.</Ammo_75FK_FMJ.description>
+
+  <Ammo_75FK_AP.label>патрон 7,5x27мм (Б)</Ammo_75FK_AP.label>
+  <Ammo_75FK_AP.description>A high-velocity bottlenecked handgun cartridge capable of penetrating lightly armored targets.</Ammo_75FK_AP.description>
+
+  <Ammo_75FK_HP.label>патрон 7,5x27мм (Б)</Ammo_75FK_HP.label>
+  <Ammo_75FK_HP.description>A high-velocity bottlenecked handgun cartridge capable of penetrating lightly armored targets.</Ammo_75FK_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_75FK_FMJ.label>7.5 FK bullet</Bullet_75FK_FMJ.label>
+  <Bullet_75FK_AP.label>7.5 FK bullet (Б)</Bullet_75FK_AP.label>
+  <Bullet_75FK_HP.label>7.5 FK bullet (Е)</Bullet_75FK_HP.label>
+
+
+</LanguageData>

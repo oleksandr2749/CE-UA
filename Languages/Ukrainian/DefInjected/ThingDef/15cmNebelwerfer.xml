@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_15cmNebelwerfer_HE.label>ракета 15см Nebelwerfer (Фугасний)</Ammo_15cmNebelwerfer_HE.label>
+  <Ammo_15cmNebelwerfer_HE.description>15cm heavy rocket typically used in multi-barrel rocket artillery launchers.</Ammo_15cmNebelwerfer_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_15cmNebelwerfer_HE.label>15cm Nebelwerfer Rocket (Фугасний)</Bullet_15cmNebelwerfer_HE.label>
+
+
+</LanguageData>

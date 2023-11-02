@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_SPG9Rocket_HEAT.label>реактивна граната СПГ9 (Кумулятивний)</Ammo_SPG9Rocket_HEAT.label>
+  <Ammo_SPG9Rocket_HEAT.description>Tube launched rocket-propelled grenade used by SPG-9 recoilless launcher and the BMP-1's 2A28 Grom cannon. After being fired, a rocket motor kicks in to propel the grenade further.</Ammo_SPG9Rocket_HEAT.description>
+
+  <Ammo_SPG9Rocket_Thermobaric.label>реактивна граната СПГ9 (Термобаричний)</Ammo_SPG9Rocket_Thermobaric.label>
+  <Ammo_SPG9Rocket_Thermobaric.description>Tube launched rocket-propelled grenade used by SPG-9 recoilless launcher and the BMP-1's 2A28 Grom cannon. After being fired, a rocket motor kicks in to propel the grenade further.</Ammo_SPG9Rocket_Thermobaric.description>
+
+  <Ammo_SPG9Rocket_Frag.label>реактивна граната СПГ9 (Фугасний)</Ammo_SPG9Rocket_Frag.label>
+  <Ammo_SPG9Rocket_Frag.description>Tube launched rocket-propelled grenade used by SPG-9 recoilless launcher and the BMP-1's 2A28 Grom cannon. After being fired, a rocket motor kicks in to propel the grenade further.</Ammo_SPG9Rocket_Frag.description>
+
+  <Ammo_SPG9Rocket_EMP.label>реактивна граната СПГ9 (ЕМІ)</Ammo_SPG9Rocket_EMP.label>
+  <Ammo_SPG9Rocket_EMP.description>Tube launched rocket-propelled grenade used by SPG-9 recoilless launcher and the BMP-1's 2A28 Grom cannon. After being fired, a rocket motor kicks in to propel the grenade further.</Ammo_SPG9Rocket_EMP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_SPG9Rocket_HEAT.label>SPG-9 Rocket (Кумулятивний)</Bullet_SPG9Rocket_HEAT.label>
+  <Bullet_SPG9Rocket_Thermobaric.label>SPG-9 Rocket (Thermobaric)</Bullet_SPG9Rocket_Thermobaric.label>
+  <Bullet_SPG9Rocket_Frag.label>SPG-9 Rocket (Фугасний)</Bullet_SPG9Rocket_Frag.label>
+  <Bullet_SPG9Rocket_EMP.label>SPG-9 Rocket (ЕМІ)</Bullet_SPG9Rocket_EMP.label>
+
+
+</LanguageData>

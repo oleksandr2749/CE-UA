@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_38SW_FMJ.label>патрон 9х19,5мм</Ammo_38SW_FMJ.label>
+  <Ammo_38SW_FMJ.description>Low caliber handgun cartridge used mostly in revolvers.</Ammo_38SW_FMJ.description>
+
+  <Ammo_38SW_AP.label>патрон 9х19,5мм (Б)</Ammo_38SW_AP.label>
+  <Ammo_38SW_AP.description>Low caliber handgun cartridge used mostly in revolvers.</Ammo_38SW_AP.description>
+
+  <Ammo_38SW_HP.label>патрон 9х19,5мм (Е)</Ammo_38SW_HP.label>
+  <Ammo_38SW_HP.description>Low caliber handgun cartridge used mostly in revolvers.</Ammo_38SW_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_38SW_FMJ.label>.38 S&amp;W bullet</Bullet_38SW_FMJ.label>
+  <Bullet_38SW_AP.label>.38 S&amp;W bullet (Б)</Bullet_38SW_AP.label>
+  <Bullet_38SW_HP.label>.38 S&amp;W bullet (Е)</Bullet_38SW_HP.label>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Category -->
+
+  <AmmoPistolCharged.label>Charged Pistol Ammo</AmmoPistolCharged.label>
+  <AmmoRifleCharged.label>Charged Rifle Ammo</AmmoRifleCharged.label>
+  <AmmoHeavyCharged.label>Heavy Charged Ammo</AmmoHeavyCharged.label>
+  <AmmoShotgunCharged.label>Charged Shotgun Ammo</AmmoShotgunCharged.label>
+
+
+</LanguageData>

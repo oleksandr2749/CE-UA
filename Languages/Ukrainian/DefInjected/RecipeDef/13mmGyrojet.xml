@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_13mmGyrojet_FMJ.label>зробити патрон 13mm Gyrojet  rocket x500</MakeAmmo_13mmGyrojet_FMJ.label>
+  <MakeAmmo_13mmGyrojet_FMJ.description>Виготовити п'ятсот патронів 13mm Gyrojet  rocket</MakeAmmo_13mmGyrojet_FMJ.description>
+  <MakeAmmo_13mmGyrojet_FMJ.jobString>Робить патрони 13mm Gyrojet  rocket</MakeAmmo_13mmGyrojet_FMJ.jobString>
+
+  <MakeAmmo_13mmGyrojet_AP.label>зробити патрон 13mm Gyrojet (Б) rocket x500</MakeAmmo_13mmGyrojet_AP.label>
+  <MakeAmmo_13mmGyrojet_AP.description>Виготовити п'ятсот патронів 13mm Gyrojet (Б) rocket</MakeAmmo_13mmGyrojet_AP.description>
+  <MakeAmmo_13mmGyrojet_AP.jobString>Робить патрони 13mm Gyrojet (Б) rocket</MakeAmmo_13mmGyrojet_AP.jobString>
+
+  <MakeAmmo_13mmGyrojet_HP.label>зробити патрон 13mm Gyrojet (Е) rocket x500</MakeAmmo_13mmGyrojet_HP.label>
+  <MakeAmmo_13mmGyrojet_HP.description>Виготовити п'ятсот патронів 13mm Gyrojet (Е) rocket</MakeAmmo_13mmGyrojet_HP.description>
+  <MakeAmmo_13mmGyrojet_HP.jobString>Робить патрони 13mm Gyrojet (Е) rocket</MakeAmmo_13mmGyrojet_HP.jobString>
+
+
+</LanguageData>

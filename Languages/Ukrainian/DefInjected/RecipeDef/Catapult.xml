@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_Catapult_Boulder.label>cut stone chunk into boulder</MakeAmmo_Catapult_Boulder.label>
+  <MakeAmmo_Catapult_Boulder.description>Cuts a stone chunk down to size to be thrown by a siege engine.</MakeAmmo_Catapult_Boulder.description>
+  <MakeAmmo_Catapult_Boulder.jobString>Cutting stone blocks from chunk.</MakeAmmo_Catapult_Boulder.jobString>
+
+
+</LanguageData>

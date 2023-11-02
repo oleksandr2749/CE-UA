@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_30Carbine_FMJ.label>зробити патрон .30 Carbine x500</MakeAmmo_30Carbine_FMJ.label>
+  <MakeAmmo_30Carbine_FMJ.description>Виготовити п'ятсот патронів .30 Carbine</MakeAmmo_30Carbine_FMJ.description>
+  <MakeAmmo_30Carbine_FMJ.jobString>Робить патрони .30 Carbine</MakeAmmo_30Carbine_FMJ.jobString>
+
+  <MakeAmmo_30Carbine_AP.label>зробити патрон .30 Carbine (Б) x500</MakeAmmo_30Carbine_AP.label>
+  <MakeAmmo_30Carbine_AP.description>Виготовити п'ятсот патронів .30 Carbine (Б)</MakeAmmo_30Carbine_AP.description>
+  <MakeAmmo_30Carbine_AP.jobString>Робить патрони .30 Carbine (Б)</MakeAmmo_30Carbine_AP.jobString>
+
+  <MakeAmmo_30Carbine_HP.label>зробити патрон .30 Carbine (Е) x500</MakeAmmo_30Carbine_HP.label>
+  <MakeAmmo_30Carbine_HP.description>Виготовити п'ятсот патронів .30 Carbine (Е)</MakeAmmo_30Carbine_HP.description>
+  <MakeAmmo_30Carbine_HP.jobString>Робить патрони .30 Carbine (Е)</MakeAmmo_30Carbine_HP.jobString>
+
+  <MakeAmmo_30Carbine_Incendiary.label>зробити патрон .30 Carbine (БЗ) x500</MakeAmmo_30Carbine_Incendiary.label>
+  <MakeAmmo_30Carbine_Incendiary.description>Виготовити п'ятсот патронів .30 Carbine (БЗ)</MakeAmmo_30Carbine_Incendiary.description>
+  <MakeAmmo_30Carbine_Incendiary.jobString>Робить патрони .30 Carbine (БЗ)</MakeAmmo_30Carbine_Incendiary.jobString>
+
+  <MakeAmmo_30Carbine_HE.label>зробити патрон .30 Carbine (БФ) x500</MakeAmmo_30Carbine_HE.label>
+  <MakeAmmo_30Carbine_HE.description>Виготовити п'ятсот патронів .30 Carbine (БФ)</MakeAmmo_30Carbine_HE.description>
+  <MakeAmmo_30Carbine_HE.jobString>Робить патрони .30 Carbine (БФ)</MakeAmmo_30Carbine_HE.jobString>
+
+  <MakeAmmo_30Carbine_Sabot.label>зробити патрон .30 Carbine (Підкаліберний) x500</MakeAmmo_30Carbine_Sabot.label>
+  <MakeAmmo_30Carbine_Sabot.description>Виготовити п'ятсот патронів .30 Carbine (Підкаліберний)</MakeAmmo_30Carbine_Sabot.description>
+  <MakeAmmo_30Carbine_Sabot.jobString>Робить патрони .30 Carbine (Підкаліберний)</MakeAmmo_30Carbine_Sabot.jobString>
+
+
+</LanguageData>

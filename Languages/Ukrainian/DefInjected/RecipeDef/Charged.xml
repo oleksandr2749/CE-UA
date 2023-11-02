@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Charged Pistol -->
+
+  <MakeAmmo_PistolCharged.label>зробити патрон Charged pistol x500</MakeAmmo_PistolCharged.label>
+  <MakeAmmo_PistolCharged.description>Виготовити п'ятсот патронів Charged pistol</MakeAmmo_PistolCharged.description>
+  <MakeAmmo_PistolCharged.jobString>Робить патрони Charged pistol</MakeAmmo_PistolCharged.jobString>
+
+  <MakeAmmo_PistolCharged_AP.label>зробити патрон Charged pistol (Conc.) x500</MakeAmmo_PistolCharged_AP.label>
+  <MakeAmmo_PistolCharged_AP.description>Виготовити п'ятсот патронів Charged pistol (Conc.)</MakeAmmo_PistolCharged_AP.description>
+  <MakeAmmo_PistolCharged_AP.jobString>Робить патрони Charged pistol (Conc.)</MakeAmmo_PistolCharged_AP.jobString>
+
+  <MakeAmmo_PistolCharged_Ion.label>зробити патрон Charged pistol (Ion) x500</MakeAmmo_PistolCharged_Ion.label>
+  <MakeAmmo_PistolCharged_Ion.description>Виготовити п'ятсот патронів Charged pistol (Ion)</MakeAmmo_PistolCharged_Ion.description>
+  <MakeAmmo_PistolCharged_Ion.jobString>Робить патрони Charged pistol (Ion)</MakeAmmo_PistolCharged_Ion.jobString>
+
+
+  <!-- Charged Rifle -->
+
+  <MakeAmmo_RifleCharged.label>зробити патрон Charged rifle x500</MakeAmmo_RifleCharged.label>
+  <MakeAmmo_RifleCharged.description>Виготовити п'ятсот патронів Charged rifle</MakeAmmo_RifleCharged.description>
+  <MakeAmmo_RifleCharged.jobString>Робить патрони Charged rifle</MakeAmmo_RifleCharged.jobString>
+
+  <MakeAmmo_RifleCharged_AP.label>зробити патрон Charged rifle (Conc.) x500</MakeAmmo_RifleCharged_AP.label>
+  <MakeAmmo_RifleCharged_AP.description>Виготовити п'ятсот патронів Charged rifle (Conc.)</MakeAmmo_RifleCharged_AP.description>
+  <MakeAmmo_RifleCharged_AP.jobString>Робить патрони Charged rifle (Conc.)</MakeAmmo_RifleCharged_AP.jobString>
+
+  <MakeAmmo_RifleCharged_Ion.label>зробити патрон Charged rifle (Ion) x500</MakeAmmo_RifleCharged_Ion.label>
+  <MakeAmmo_RifleCharged_Ion.description>Виготовити п'ятсот патронів Charged rifle (Ion)</MakeAmmo_RifleCharged_Ion.description>
+  <MakeAmmo_RifleCharged_Ion.jobString>Робить патрони Charged rifle (Ion)</MakeAmmo_RifleCharged_Ion.jobString>
+
+
+  <!-- Heavy Charged -->
+
+  <MakeAmmo_HeavyCharged.label>зробити патрон heavy Charged x500</MakeAmmo_HeavyCharged.label>
+  <MakeAmmo_HeavyCharged.description>Виготовити п'ятсот патронів heavy Charged</MakeAmmo_HeavyCharged.description>
+  <MakeAmmo_HeavyCharged.jobString>Робить патрони heavy Charged</MakeAmmo_HeavyCharged.jobString>
+
+  <MakeAmmo_HeavyCharged_AP.label>зробити патрон heavy Charged (Conc.) x500</MakeAmmo_HeavyCharged_AP.label>
+  <MakeAmmo_HeavyCharged_AP.description>Виготовити п'ятсот патронів heavy Charged (Conc.)</MakeAmmo_HeavyCharged_AP.description>
+  <MakeAmmo_HeavyCharged_AP.jobString>Робить патрони heavy Charged (Conc.)</MakeAmmo_HeavyCharged_AP.jobString>
+
+  <MakeAmmo_HeavyCharged_Ion.label>зробити патрон heavy Charged (Ion) x500</MakeAmmo_HeavyCharged_Ion.label>
+  <MakeAmmo_HeavyCharged_Ion.description>Виготовити п'ятсот патронів heavy Charged (Ion)</MakeAmmo_HeavyCharged_Ion.description>
+  <MakeAmmo_HeavyCharged_Ion.jobString>Робить патрони heavy Charged (Ion)</MakeAmmo_HeavyCharged_Ion.jobString>
+
+
+  <!-- Charged Shotgun -->
+
+  <MakeAmmo_ShotgunCharged.label>зробити патрон Charged shotgun shell x200</MakeAmmo_ShotgunCharged.label>
+  <MakeAmmo_ShotgunCharged.description>Craft 200 Charged shotgun shell</MakeAmmo_ShotgunCharged.description>
+  <MakeAmmo_ShotgunCharged.jobString>Робить патрони Charged shotgun shell</MakeAmmo_ShotgunCharged.jobString>
+
+  <MakeAmmo_ShotgunCharged_Slug.label>зробити патрон Charged shotgun (Slug) shell x200</MakeAmmo_ShotgunCharged_Slug.label>
+  <MakeAmmo_ShotgunCharged_Slug.description>Craft 200 Charged shotgun (Slug) shell</MakeAmmo_ShotgunCharged_Slug.description>
+  <MakeAmmo_ShotgunCharged_Slug.jobString>Робить патрони Charged shotgun (Slug) shell</MakeAmmo_ShotgunCharged_Slug.jobString>
+
+  <MakeAmmo_ShotgunCharged_Ion.label>зробити патрон Charged shotgun (Ion Shot) shell x200</MakeAmmo_ShotgunCharged_Ion.label>
+  <MakeAmmo_ShotgunCharged_Ion.description>Craft 200 Charged shotgun (Ion Shot) shell</MakeAmmo_ShotgunCharged_Ion.description>
+  <MakeAmmo_ShotgunCharged_Ion.jobString>Робить патрони Charged shotgun (Ion Shot) shell</MakeAmmo_ShotgunCharged_Ion.jobString>
+
+
+</LanguageData>

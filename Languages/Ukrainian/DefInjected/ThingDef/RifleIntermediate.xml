@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_RifleIntermediate_FMJ.label>проміжний гвинтівковий патрон</Ammo_RifleIntermediate_FMJ.label>
+  <Ammo_RifleIntermediate_FMJ.description>Intermediate power rifle ammunition, used mainly by assault rifles.</Ammo_RifleIntermediate_FMJ.description>
+
+  <Ammo_RifleIntermediate_AP.label>проміжний гвинтівковий патрон (Б)</Ammo_RifleIntermediate_AP.label>
+  <Ammo_RifleIntermediate_AP.description>Intermediate power rifle ammunition, used mainly by assault rifles.</Ammo_RifleIntermediate_AP.description>
+
+  <Ammo_RifleIntermediate_HP.label>проміжний гвинтівковий патрон (Е)</Ammo_RifleIntermediate_HP.label>
+  <Ammo_RifleIntermediate_HP.description>Intermediate power rifle ammunition, used mainly by assault rifles.</Ammo_RifleIntermediate_HP.description>
+
+  <Ammo_RifleIntermediate_Incendiary.label>проміжний гвинтівковий патрон (БЗ)</Ammo_RifleIntermediate_Incendiary.label>
+  <Ammo_RifleIntermediate_Incendiary.description>Intermediate power rifle ammunition, used mainly by assault rifles.</Ammo_RifleIntermediate_Incendiary.description>
+
+  <Ammo_RifleIntermediate_HE.label>проміжний гвинтівковий патрон (Фугасний)</Ammo_RifleIntermediate_HE.label>
+  <Ammo_RifleIntermediate_HE.description>Intermediate power rifle ammunition, used mainly by assault rifles.</Ammo_RifleIntermediate_HE.description>
+
+  <Ammo_RifleIntermediate_Sabot.label>проміжний гвинтівковий патрон (Підкаліберний)</Ammo_RifleIntermediate_Sabot.label>
+  <Ammo_RifleIntermediate_Sabot.description>Intermediate power rifle ammunition, used mainly by assault rifles.</Ammo_RifleIntermediate_Sabot.description>
+
+
+</LanguageData>

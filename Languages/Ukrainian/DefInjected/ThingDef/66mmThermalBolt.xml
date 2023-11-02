@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_66mmThermalBolt_Incendiary.label>термоболт 66мм (Запальний)</Ammo_66mmThermalBolt_Incendiary.label>
+  <Ammo_66mmThermalBolt_Incendiary.description>Mechanoid-built medium-velocity thermal bolt designed to be fired from a mortar.</Ammo_66mmThermalBolt_Incendiary.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_66mmThermalBolt_Incendiary.label>66mm thermal bolt (Запальний)</Bullet_66mmThermalBolt_Incendiary.label>
+
+
+</LanguageData>

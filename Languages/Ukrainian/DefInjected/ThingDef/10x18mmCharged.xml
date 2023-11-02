@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_10x18mmCharged.label>енергопатрон 10x18мм</Ammo_10x18mmCharged.label>
+  <Ammo_10x18mmCharged.description>Charged shot ammo used by low velocity, high power charge weapons.</Ammo_10x18mmCharged.description>
+
+  <Ammo_10x18mmCharged_AP.label>енергопатрон 10x18мм (Conc.)</Ammo_10x18mmCharged_AP.label>
+  <Ammo_10x18mmCharged_AP.description>Charged shot ammo used by low velocity, high power charge weapons.</Ammo_10x18mmCharged_AP.description>
+
+  <Ammo_10x18mmCharged_Ion.label>енергопатрон 10x18мм (Ion)</Ammo_10x18mmCharged_Ion.label>
+  <Ammo_10x18mmCharged_Ion.description>Charged shot ammo used by low velocity, high power charge weapons.</Ammo_10x18mmCharged_Ion.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_10x18mmCharged.label>10x18mm Charged bullet</Bullet_10x18mmCharged.label>
+  <Bullet_10x18mmCharged_AP.label>10x18mm Charged bullet (Conc.)</Bullet_10x18mmCharged_AP.label>
+  <Bullet_10x18mmCharged_Ion.label>10x18mm Charged bullet (Ion)</Bullet_10x18mmCharged_Ion.label>
+
+
+</LanguageData>

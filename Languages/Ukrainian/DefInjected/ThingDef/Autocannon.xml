@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_Autocannon_AP.label>autocannon shell (Б)</Ammo_Autocannon_AP.label>
+  <Ammo_Autocannon_AP.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_Autocannon_AP.description>
+
+  <Ammo_Autocannon_Incendiary.label>autocannon shell (БЗ)</Ammo_Autocannon_Incendiary.label>
+  <Ammo_Autocannon_Incendiary.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_Autocannon_Incendiary.description>
+
+  <Ammo_Autocannon_HE.label>autocannon shell (Фугасний)</Ammo_Autocannon_HE.label>
+  <Ammo_Autocannon_HE.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_Autocannon_HE.description>
+
+  <Ammo_Autocannon_Sabot.label>autocannon shell (Підкаліберний)</Ammo_Autocannon_Sabot.label>
+  <Ammo_Autocannon_Sabot.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_Autocannon_Sabot.description>
+
+
+</LanguageData>

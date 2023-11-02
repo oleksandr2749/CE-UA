@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_40x47mmGrenade_HE.label>гранатометний снаряд 40x47мм (Фугасний)</Ammo_40x47mmGrenade_HE.label>
+  <Ammo_40x47mmGrenade_HE.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x47mmGrenade_HE.description>
+
+  <Ammo_40x47mmGrenade_EMP.label>гранатометний снаряд 40x47мм (ЕМІ)</Ammo_40x47mmGrenade_EMP.label>
+  <Ammo_40x47mmGrenade_EMP.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x47mmGrenade_EMP.description>
+
+  <Ammo_40x47mmGrenade_Smoke.label>гранатометний снаряд 40x47мм (Димовий)</Ammo_40x47mmGrenade_Smoke.label>
+  <Ammo_40x47mmGrenade_Smoke.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x47mmGrenade_Smoke.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_40x47mmGrenade_HE.label>40x47mm grenade (Фугасний)</Bullet_40x47mmGrenade_HE.label>
+  <Bullet_40x47mmGrenade_EMP.label>40x47mm grenade (ЕМІ)</Bullet_40x47mmGrenade_EMP.label>
+  <Bullet_40x47mmGrenade_Smoke.label>40x47mm grenade (Димовий)</Bullet_40x47mmGrenade_Smoke.label>
+
+
+</LanguageData>

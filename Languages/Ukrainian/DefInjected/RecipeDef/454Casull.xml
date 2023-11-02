@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_454Casull_FMJ.label>зробити патрон .454 Casull x500</MakeAmmo_454Casull_FMJ.label>
+  <MakeAmmo_454Casull_FMJ.description>Виготовити п'ятсот патронів .454 Casull</MakeAmmo_454Casull_FMJ.description>
+  <MakeAmmo_454Casull_FMJ.jobString>Робить патрони .454 Casull</MakeAmmo_454Casull_FMJ.jobString>
+
+  <MakeAmmo_454Casull_AP.label>зробити патрон .454 Casull (Б) x500</MakeAmmo_454Casull_AP.label>
+  <MakeAmmo_454Casull_AP.description>Виготовити п'ятсот патронів .454 Casull (Б)</MakeAmmo_454Casull_AP.description>
+  <MakeAmmo_454Casull_AP.jobString>Робить патрони .454 Casull (Б)</MakeAmmo_454Casull_AP.jobString>
+
+  <MakeAmmo_454Casull_HP.label>зробити патрон .454 Casull (Е) x500</MakeAmmo_454Casull_HP.label>
+  <MakeAmmo_454Casull_HP.description>Виготовити п'ятсот патронів .454 Casull (Е)</MakeAmmo_454Casull_HP.description>
+  <MakeAmmo_454Casull_HP.jobString>Робить патрони .454 Casull (Е)</MakeAmmo_454Casull_HP.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_57x483mmBofors_HE.label>снаряд 57x483мм (Фугасний)</Ammo_57x483mmBofors_HE.label>
+  <Ammo_57x483mmBofors_HE.description>Large caliber cartridge used by naval artillery cannons.</Ammo_57x483mmBofors_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_57x483mmBofors_HE.label>57x483mm Bofors bullet (Фугасний)</Bullet_57x483mmBofors_HE.label>
+
+
+</LanguageData>

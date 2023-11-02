@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_37x223mmR_AP.label>патрон 37x223мм (Б)</Ammo_37x223mmR_AP.label>
+  <Ammo_37x223mmR_AP.description>Medium caliber cannon shell used by light, quick-firing anti-tank guns.</Ammo_37x223mmR_AP.description>
+
+  <Ammo_37x223mmR_HE.label>патрон 37x223мм (Фугасний)</Ammo_37x223mmR_HE.label>
+  <Ammo_37x223mmR_HE.description>Medium caliber cannon shell used by light, quick-firing anti-tank guns.</Ammo_37x223mmR_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_37x223mmR_AP.label>37x223mmR shell (Б)</Bullet_37x223mmR_AP.label>
+  <Bullet_37x223mmR_HE.label>37x223mmR shell (Фугасний)</Bullet_37x223mmR_HE.label>
+
+
+</LanguageData>

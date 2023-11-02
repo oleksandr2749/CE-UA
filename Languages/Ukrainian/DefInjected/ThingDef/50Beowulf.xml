@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_50Beowulf_FMJ.label>патрон 12,5х42мм</Ammo_50Beowulf_FMJ.label>
+  <Ammo_50Beowulf_FMJ.description>A powerful cartridge with heavy bullets designed to bring high stopping power to intermediate semi-automatic rifles.</Ammo_50Beowulf_FMJ.description>
+
+  <Ammo_50Beowulf_AP.label>патрон 12,5х42мм (Б)</Ammo_50Beowulf_AP.label>
+  <Ammo_50Beowulf_AP.description>A powerful cartridge with heavy bullets designed to bring high stopping power to intermediate semi-automatic rifles.</Ammo_50Beowulf_AP.description>
+
+  <Ammo_50Beowulf_HP.label>патрон 12,5х42мм (Е)</Ammo_50Beowulf_HP.label>
+  <Ammo_50Beowulf_HP.description>A powerful cartridge with heavy bullets designed to bring high stopping power to intermediate semi-automatic rifles.</Ammo_50Beowulf_HP.description>
+
+  <Ammo_50Beowulf_Incendiary.label>патрон 12,5х42мм (БЗ)</Ammo_50Beowulf_Incendiary.label>
+  <Ammo_50Beowulf_Incendiary.description>A powerful cartridge with heavy bullets designed to bring high stopping power to intermediate semi-automatic rifles.</Ammo_50Beowulf_Incendiary.description>
+
+  <Ammo_50Beowulf_HE.label>патрон 12,5х42мм (БФ)</Ammo_50Beowulf_HE.label>
+  <Ammo_50Beowulf_HE.description>A powerful cartridge with heavy bullets designed to bring high stopping power to intermediate semi-automatic rifles.</Ammo_50Beowulf_HE.description>
+
+  <Ammo_50Beowulf_Sabot.label>патрон 12,5х42мм (Підкаліберний)</Ammo_50Beowulf_Sabot.label>
+  <Ammo_50Beowulf_Sabot.description>A powerful cartridge with heavy bullets designed to bring high stopping power to intermediate semi-automatic rifles.</Ammo_50Beowulf_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_50Beowulf_FMJ.label>.50 Beowulf bullet</Bullet_50Beowulf_FMJ.label>
+  <Bullet_50Beowulf_AP.label>.50 Beowulf bullet (Б)</Bullet_50Beowulf_AP.label>
+  <Bullet_50Beowulf_HP.label>.50 Beowulf bullet (Е)</Bullet_50Beowulf_HP.label>
+  <Bullet_50Beowulf_Incendiary.label>.50 Beowulf bullet (БЗ)</Bullet_50Beowulf_Incendiary.label>
+  <Bullet_50Beowulf_HE.label>.50 Beowulf bullet (БФ)</Bullet_50Beowulf_HE.label>
+  <Bullet_50Beowulf_Sabot.label>.50 Beowulf bullet (Підкаліберний)</Bullet_50Beowulf_Sabot.label>
+
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_22WMR_FMJ.label>патрон 5,7х27мм</Ammo_22WMR_FMJ.label>
+  <Ammo_22WMR_FMJ.description>Common rimfire cartridge with noticebly more power than most other .22 rimfire rounds.</Ammo_22WMR_FMJ.description>
+
+  <Ammo_22WMR_AP.label>патрон 5,7х27мм (Б)</Ammo_22WMR_AP.label>
+  <Ammo_22WMR_AP.description>Common rimfire cartridge with noticebly more power than most other .22 rimfire rounds.</Ammo_22WMR_AP.description>
+
+  <Ammo_22WMR_HP.label>патрон 5,7х27мм (Е)</Ammo_22WMR_HP.label>
+  <Ammo_22WMR_HP.description>Common rimfire cartridge with noticebly more power than most other .22 rimfire rounds.</Ammo_22WMR_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_22WMR_FMJ.label>.22 WMR bullet</Bullet_22WMR_FMJ.label>
+  <Bullet_22WMR_AP.label>.22 WMR bullet (Б)</Bullet_22WMR_AP.label>
+  <Bullet_22WMR_HP.label>.22 WMR bullet (Е)</Bullet_22WMR_HP.label>
+
+
+</LanguageData>

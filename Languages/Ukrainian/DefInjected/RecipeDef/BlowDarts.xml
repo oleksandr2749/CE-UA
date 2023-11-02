@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_Dart_Venom.label>зробити патрон venom darts x10</MakeAmmo_Dart_Venom.label>
+  <MakeAmmo_Dart_Venom.description>Craft 10 venom darts for use with blowgun</MakeAmmo_Dart_Venom.description>
+  <MakeAmmo_Dart_Venom.jobString>Робить патрони venom dart</MakeAmmo_Dart_Venom.jobString>
+
+
+</LanguageData>

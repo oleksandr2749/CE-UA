@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_55Boys_FMJ.label>патрон 14х98мм</Ammo_55Boys_FMJ.label>
+  <Ammo_55Boys_FMJ.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_55Boys_FMJ.description>
+
+  <Ammo_55Boys_AP.label>патрон 14х98мм (Б)</Ammo_55Boys_AP.label>
+  <Ammo_55Boys_AP.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_55Boys_AP.description>
+
+  <Ammo_55Boys_Incendiary.label>патрон 14х98мм (БЗ)</Ammo_55Boys_Incendiary.label>
+  <Ammo_55Boys_Incendiary.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_55Boys_Incendiary.description>
+
+  <Ammo_55Boys_HE.label>патрон 14х98мм (БФ)</Ammo_55Boys_HE.label>
+  <Ammo_55Boys_HE.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_55Boys_HE.description>
+
+  <Ammo_55Boys_Sabot.label>патрон 14х98мм (Підкаліберний)</Ammo_55Boys_Sabot.label>
+  <Ammo_55Boys_Sabot.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_55Boys_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_55Boys_FMJ.label>.55 Boys bullet</Bullet_55Boys_FMJ.label>
+  <Bullet_55Boys_AP.label>.55 Boys bullet (Б)</Bullet_55Boys_AP.label>
+  <Bullet_55Boys_Incendiary.label>.55 Boys bullet (БЗ)</Bullet_55Boys_Incendiary.label>
+  <Bullet_55Boys_HE.label>.55 Boys bullet (БФ)</Bullet_55Boys_HE.label>
+  <Bullet_55Boys_Sabot.label>.55 Boys bullet (Підкаліберний)</Bullet_55Boys_Sabot.label>
+
+
+</LanguageData>

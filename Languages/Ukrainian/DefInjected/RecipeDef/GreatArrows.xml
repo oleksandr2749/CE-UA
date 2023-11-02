@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_GreatArrow_Stone.label>зробити патрон stone great arrows x10</MakeAmmo_GreatArrow_Stone.label>
+  <MakeAmmo_GreatArrow_Stone.description>Craft 10 stone great arrow</MakeAmmo_GreatArrow_Stone.description>
+  <MakeAmmo_GreatArrow_Stone.jobString>Робить патрони stone great arrow</MakeAmmo_GreatArrow_Stone.jobString>
+
+  <MakeAmmo_GreatArrow_Steel.label>зробити патрон steel great arrows x10</MakeAmmo_GreatArrow_Steel.label>
+  <MakeAmmo_GreatArrow_Steel.description>Craft 10 steel great arrow</MakeAmmo_GreatArrow_Steel.description>
+  <MakeAmmo_GreatArrow_Steel.jobString>Робить патрони steel great arrow</MakeAmmo_GreatArrow_Steel.jobString>
+
+  <MakeAmmo_GreatArrow_Plasteel.label>зробити патрон plasteel great arrows x10</MakeAmmo_GreatArrow_Plasteel.label>
+  <MakeAmmo_GreatArrow_Plasteel.description>Craft 10 plasteel great arrow</MakeAmmo_GreatArrow_Plasteel.description>
+  <MakeAmmo_GreatArrow_Plasteel.jobString>Робить патрони plasteel great arrow</MakeAmmo_GreatArrow_Plasteel.jobString>
+
+  <MakeAmmo_GreatArrow_Venom.label>зробити патрон venom great arrows x10</MakeAmmo_GreatArrow_Venom.label>
+  <MakeAmmo_GreatArrow_Venom.description>Craft 10 venom great arrow</MakeAmmo_GreatArrow_Venom.description>
+  <MakeAmmo_GreatArrow_Venom.jobString>Робить патрони venom great arrow</MakeAmmo_GreatArrow_Venom.jobString>
+
+  <MakeAmmo_GreatArrow_Flame.label>зробити патрон flame great arrows x10</MakeAmmo_GreatArrow_Flame.label>
+  <MakeAmmo_GreatArrow_Flame.description>Craft 10 flame great arrow</MakeAmmo_GreatArrow_Flame.description>
+  <MakeAmmo_GreatArrow_Flame.jobString>Робить патрони flame great arrow</MakeAmmo_GreatArrow_Flame.jobString>
+
+
+</LanguageData>

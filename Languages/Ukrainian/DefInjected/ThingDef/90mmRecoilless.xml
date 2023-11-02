@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_90mmRCR_HEAT.label>реактивний снаряд 90мм М67 (Кумулятивний)</Ammo_90mmRCR_HEAT.label>
+  <Ammo_90mmRCR_HEAT.description>Rocket-propelled ammunition desinged for use with the M67 recoilless rifle</Ammo_90mmRCR_HEAT.description>
+
+  <Ammo_90mmRCR_CAN.label>реактивний снаряд 90мм М67 (CAN)</Ammo_90mmRCR_CAN.label>
+  <Ammo_90mmRCR_CAN.description>Rocket-propelled ammunition desinged for use with the M67 recoilless rifle</Ammo_90mmRCR_CAN.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_90mmRCR_HEAT.label>90mm recoilless rocket (Кумулятивний)</Bullet_90mmRCR_HEAT.label>
+  <Bullet_90mmRCR_CAN.label>Flechette</Bullet_90mmRCR_CAN.label>
+
+
+</LanguageData>

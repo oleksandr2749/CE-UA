@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_762x385mmRCannonShell_HEAT.label>снаряд 76x385мм (Кумулятивний)</Ammo_762x385mmRCannonShell_HEAT.label>
+  <Ammo_762x385mmRCannonShell_HEAT.description>Light cannon shell used in field guns.</Ammo_762x385mmRCannonShell_HEAT.description>
+
+  <Ammo_762x385mmRCannonShell_HE.label>снаряд 76x385мм (Фугасний)</Ammo_762x385mmRCannonShell_HE.label>
+  <Ammo_762x385mmRCannonShell_HE.description>Light cannon shell used in field guns.</Ammo_762x385mmRCannonShell_HE.description>
+
+  <Ammo_762x385mmRCannonShell_EMP.label>снаряд 76x385мм (ЕМІ)</Ammo_762x385mmRCannonShell_EMP.label>
+  <Ammo_762x385mmRCannonShell_EMP.description>Light cannon shell used in field guns.</Ammo_762x385mmRCannonShell_EMP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_762x385mmRCannonShell_HEAT.label>76.2x385mmR Cannon shell (Кумулятивний)</Bullet_762x385mmRCannonShell_HEAT.label>
+  <Bullet_762x385mmRCannonShell_HE.label>76.2x385mmR Cannon shell (Фугасний)</Bullet_762x385mmRCannonShell_HE.label>
+  <Bullet_762x385mmRCannonShell_EMP.label>76.2x385mmR Cannon shell (ЕМІ)</Bullet_762x385mmRCannonShell_EMP.label>
+
+
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_44Magnum_FMJ.label>патрон 11х33мм</Ammo_44Magnum_FMJ.label>
+  <Ammo_44Magnum_FMJ.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_44Magnum_FMJ.description>
+
+  <Ammo_44Magnum_AP.label>патрон 11х33мм (Б)</Ammo_44Magnum_AP.label>
+  <Ammo_44Magnum_AP.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_44Magnum_AP.description>
+
+  <Ammo_44Magnum_HP.label>патрон 11х33мм (Е)</Ammo_44Magnum_HP.label>
+  <Ammo_44Magnum_HP.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_44Magnum_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_44Magnum_FMJ.label>.44 Magnum bullet</Bullet_44Magnum_FMJ.label>
+  <Bullet_44Magnum_AP.label>.44 Magnum bullet (Б)</Bullet_44Magnum_AP.label>
+  <Bullet_44Magnum_HP.label>.44 Magnum bullet (Е)</Bullet_44Magnum_HP.label>
+
+
+  <!-- High velocity -->
+
+  <Bullet_44Magnum_HV_FMJ.label>.44 Magnum bullet</Bullet_44Magnum_HV_FMJ.label>
+  <Bullet_44Magnum_HV_AP.label>.44 Magnum bullet (Б)</Bullet_44Magnum_HV_AP.label>
+  <Bullet_44Magnum_HV_HP.label>.44 Magnum bullet (Е)</Bullet_44Magnum_HV_HP.label>
+
+
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_155mmHowitzerShell_HE.label>снаряд 155мм (Фугасний)</Ammo_155mmHowitzerShell_HE.label>
+  <Ammo_155mmHowitzerShell_HE.description>Large cannon shell used by howitzers.</Ammo_155mmHowitzerShell_HE.description>
+
+  <Ammo_155mmHowitzerShell_Incendiary.label>снаряд 155мм (Запальний)</Ammo_155mmHowitzerShell_Incendiary.label>
+  <Ammo_155mmHowitzerShell_Incendiary.description>Large cannon shell used by howitzers.</Ammo_155mmHowitzerShell_Incendiary.description>
+
+  <Ammo_155mmHowitzerShell_EMP.label>снаряд 155мм (ЕМІ)</Ammo_155mmHowitzerShell_EMP.label>
+  <Ammo_155mmHowitzerShell_EMP.description>Large cannon shell used by howitzers.</Ammo_155mmHowitzerShell_EMP.description>
+
+  <Ammo_155mmHowitzerShell_Smoke.label>снаряд 155мм (Димовий)</Ammo_155mmHowitzerShell_Smoke.label>
+  <Ammo_155mmHowitzerShell_Smoke.description>Large cannon shell used by howitzers.</Ammo_155mmHowitzerShell_Smoke.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_155mmHowitzerShell_HE.label>155mm Howitzer shell (Фугасний)</Bullet_155mmHowitzerShell_HE.label>
+  <Bullet_155mmHowitzerShell_Incendiary.label>155mm Howitzer shell (Запальний)</Bullet_155mmHowitzerShell_Incendiary.label>
+  <Bullet_155mmHowitzerShell_EMP.label>155mm Howitzer shell (ЕМІ)</Bullet_155mmHowitzerShell_EMP.label>
+  <Bullet_155mmHowitzerShell_Smoke.label>155mm Howitzer shell (Димовий)</Bullet_155mmHowitzerShell_Smoke.label>
+
+
+  <!-- direct fire -->
+
+  <Bullet_155mmHowitzerShell_HE_directfire.label>155mm Howitzer shell (Фугасний)</Bullet_155mmHowitzerShell_HE_directfire.label>
+  <Bullet_155mmHowitzerShell_Incendiary_directfire.label>155mm Howitzer shell (Запальний)</Bullet_155mmHowitzerShell_Incendiary_directfire.label>
+  <Bullet_155mmHowitzerShell_EMP_directfire.label>155mm Howitzer shell (ЕМІ)</Bullet_155mmHowitzerShell_EMP_directfire.label>
+  <Bullet_155mmHowitzerShell_Smoke_directfire.label>155mm Howitzer shell (Димовий)</Bullet_155mmHowitzerShell_Smoke_directfire.label>
+
+
+</LanguageData>

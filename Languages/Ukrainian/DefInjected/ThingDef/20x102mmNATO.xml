@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_20x102mmNATO_AP.label>патрон 20x102мм НАТО (Б)</Ammo_20x102mmNATO_AP.label>
+  <Ammo_20x102mmNATO_AP.description>Large caliber cartridge used by autocannons.</Ammo_20x102mmNATO_AP.description>
+
+  <Ammo_20x102mmNATO_Incendiary.label>патрон 20x102мм НАТО (БЗ)</Ammo_20x102mmNATO_Incendiary.label>
+  <Ammo_20x102mmNATO_Incendiary.description>Large caliber cartridge used by autocannons.</Ammo_20x102mmNATO_Incendiary.description>
+
+  <Ammo_20x102mmNATO_HE.label>патрон 20x102мм (БФ)</Ammo_20x102mmNATO_HE.label>
+  <Ammo_20x102mmNATO_HE.description>Large caliber cartridge used by autocannons.</Ammo_20x102mmNATO_HE.description>
+
+  <Ammo_20x102mmNATO_Sabot.label>2патрон 20x102мм (Підкаліберний)</Ammo_20x102mmNATO_Sabot.label>
+  <Ammo_20x102mmNATO_Sabot.description>Large caliber cartridge used by autocannons.</Ammo_20x102mmNATO_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_20x102mmNATO_AP.label>20x102mm NATO bullet (Б)</Bullet_20x102mmNATO_AP.label>
+  <Bullet_20x102mmNATO_Incendiary.label>20x102mm NATO bullet (БЗ)</Bullet_20x102mmNATO_Incendiary.label>
+  <Bullet_20x102mmNATO_HE.label>20x102mm NATO bullet (БФ)</Bullet_20x102mmNATO_HE.label>
+  <Bullet_20x102mmNATO_Sabot.label>20x102mm NATO bullet (Підкаліберний)</Bullet_20x102mmNATO_Sabot.label>
+
+
+</LanguageData>

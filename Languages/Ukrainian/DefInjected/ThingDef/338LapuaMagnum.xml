@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_338Lapua_FMJ.label>патрон 8,6х69мм</Ammo_338Lapua_FMJ.label>
+  <Ammo_338Lapua_FMJ.description>The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles.</Ammo_338Lapua_FMJ.description>
+
+  <Ammo_338Lapua_AP.label>патрон 8,6х69мм (Б)</Ammo_338Lapua_AP.label>
+  <Ammo_338Lapua_AP.description>The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles.</Ammo_338Lapua_AP.description>
+
+  <Ammo_338Lapua_Incendiary.label>патрон 8,6х69мм (БЗ)</Ammo_338Lapua_Incendiary.label>
+  <Ammo_338Lapua_Incendiary.description>The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles.</Ammo_338Lapua_Incendiary.description>
+
+  <Ammo_338Lapua_HE.label>патрон 8,6х69мм (БФ)</Ammo_338Lapua_HE.label>
+  <Ammo_338Lapua_HE.description>The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles.</Ammo_338Lapua_HE.description>
+
+  <Ammo_338Lapua_Sabot.label>патрон 8,6х69мм (Підкаліберний)</Ammo_338Lapua_Sabot.label>
+  <Ammo_338Lapua_Sabot.description>The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles.</Ammo_338Lapua_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_338Lapua_FMJ.label>.338 Lapua Magnum bullet</Bullet_338Lapua_FMJ.label>
+  <Bullet_338Lapua_AP.label>.338 Lapua Magnum bullet (Б)</Bullet_338Lapua_AP.label>
+  <Bullet_338Lapua_Incendiary.label>.338 Lapua Magnum bullet (БЗ)</Bullet_338Lapua_Incendiary.label>
+  <Bullet_338Lapua_HE.label>.338 Lapua Magnum bullet (БФ)</Bullet_338Lapua_HE.label>
+  <Bullet_338Lapua_Sabot.label>.338 Lapua Magnum bullet (Підкаліберний)</Bullet_338Lapua_Sabot.label>
+
+
+</LanguageData>

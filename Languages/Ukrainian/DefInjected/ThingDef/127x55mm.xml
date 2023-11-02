@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_127x55mm_FMJ.label>патрон 13x55мм</Ammo_127x55mm_FMJ.label>
+  <Ammo_127x55mm_FMJ.description>High caliber subsonic assault rifle cartridge designed for suppressed fire.</Ammo_127x55mm_FMJ.description>
+
+  <Ammo_127x55mm_AP.label>патрон 13x55мм (Б)</Ammo_127x55mm_AP.label>
+  <Ammo_127x55mm_AP.description>High caliber subsonic assault rifle cartridge designed for suppressed fire.</Ammo_127x55mm_AP.description>
+
+  <Ammo_127x55mm_HP.label>патрон 13x55мм (Е)</Ammo_127x55mm_HP.label>
+  <Ammo_127x55mm_HP.description>High caliber subsonic assault rifle cartridge designed for suppressed fire.</Ammo_127x55mm_HP.description>
+
+  <Ammo_127x55mm_Incendiary.label>патрон 13x55мм (БЗ)</Ammo_127x55mm_Incendiary.label>
+  <Ammo_127x55mm_Incendiary.description>High caliber subsonic assault rifle cartridge designed for suppressed fire.</Ammo_127x55mm_Incendiary.description>
+
+  <Ammo_127x55mm_HE.label>патрон 13x55мм (БФ)</Ammo_127x55mm_HE.label>
+  <Ammo_127x55mm_HE.description>High caliber subsonic assault rifle cartridge designed for suppressed fire.</Ammo_127x55mm_HE.description>
+
+  <Ammo_127x55mm_Sabot.label>патрон 13x55мм (Підкаліберний)</Ammo_127x55mm_Sabot.label>
+  <Ammo_127x55mm_Sabot.description>High caliber subsonic assault rifle cartridge designed for suppressed fire.</Ammo_127x55mm_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_127x55mm_FMJ.label>12.7mm bullet</Bullet_127x55mm_FMJ.label>
+  <Bullet_127x55mm_AP.label>12.7mm bullet (Б)</Bullet_127x55mm_AP.label>
+  <Bullet_127x55mm_HP.label>12.7mm bullet (Е)</Bullet_127x55mm_HP.label>
+  <Bullet_127x55mm_Incendiary.label>12.7mm bullet (БЗ)</Bullet_127x55mm_Incendiary.label>
+  <Bullet_127x55mm_HE.label>12.7mm bullet (БФ)</Bullet_127x55mm_HE.label>
+  <Bullet_127x55mm_Sabot.label>12.7mm bullet (Підкаліберний)</Bullet_127x55mm_Sabot.label>
+
+
+</LanguageData>

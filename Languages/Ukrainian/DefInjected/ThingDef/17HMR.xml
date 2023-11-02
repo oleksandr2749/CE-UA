@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_17HMR_FMJ.label>патрон 4,5х27мм</Ammo_17HMR_FMJ.label>
+  <Ammo_17HMR_FMJ.description>A necked down .22 Magnum rifle cartridge using a .17 caliber bullet, known for its high speed.</Ammo_17HMR_FMJ.description>
+
+  <Ammo_17HMR_AP.label>патрон 4,5х27мм (Б)</Ammo_17HMR_AP.label>
+  <Ammo_17HMR_AP.description>A necked down .22 Magnum rifle cartridge using a .17 caliber bullet, known for its high speed.</Ammo_17HMR_AP.description>
+
+  <Ammo_17HMR_HP.label>патрон 4,5х27мм (Е)</Ammo_17HMR_HP.label>
+  <Ammo_17HMR_HP.description>A necked down .22 Magnum rifle cartridge using a .17 caliber bullet, known for its high speed.</Ammo_17HMR_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_17HMR_FMJ.label>.17 HMR bullet</Bullet_17HMR_FMJ.label>
+  <Bullet_17HMR_AP.label>.17 HMR bullet (Б)</Bullet_17HMR_AP.label>
+  <Bullet_17HMR_HP.label>.17 HMR bullet (Е)</Bullet_17HMR_HP.label>
+
+
+</LanguageData>

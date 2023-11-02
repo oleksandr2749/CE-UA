@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_LauncherGrenade_HE.label>launcher grenade (Фугасний)</Ammo_LauncherGrenade_HE.label>
+  <Ammo_LauncherGrenade_HE.description>Low velocity grenade fired from various grenade launchers</Ammo_LauncherGrenade_HE.description>
+
+  <Ammo_LauncherGrenade_HEDP.label>launcher grenade (БФ)</Ammo_LauncherGrenade_HEDP.label>
+  <Ammo_LauncherGrenade_HEDP.description>Low velocity grenade fired from various grenade launchers</Ammo_LauncherGrenade_HEDP.description>
+
+  <Ammo_LauncherGrenade_EMP.label>launcher grenade (ЕМІ)</Ammo_LauncherGrenade_EMP.label>
+  <Ammo_LauncherGrenade_EMP.description>Low velocity grenade fired from various grenade launchers</Ammo_LauncherGrenade_EMP.description>
+
+  <Ammo_LauncherGrenade_Smoke.label>launcher grenade (Димовий)</Ammo_LauncherGrenade_Smoke.label>
+  <Ammo_LauncherGrenade_Smoke.description>Low velocity grenade fired from various grenade launchers</Ammo_LauncherGrenade_Smoke.description>
+
+
+</LanguageData>

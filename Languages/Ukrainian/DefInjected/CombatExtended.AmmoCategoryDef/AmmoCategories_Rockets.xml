@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RocketHEAT.label>фугасний протитанковий</RocketHEAT.label>
+  <RocketHEAT.labelShort>ФПТ</RocketHEAT.labelShort>
+  <RocketHEAT.description>Shaped charge warhead. Detonates on impact, creating a super-heated stream of molten metal that punches through enemy armor.</RocketHEAT.description>
+
+  <RocketThermobaric.label>термобаричний</RocketThermobaric.label>
+  <RocketThermobaric.description>Disperses and subsequently ignites a fuel-air explosive mix, creating a powerful explosion and potentially igniting flammable objects.</RocketThermobaric.description>
+
+  <RocketFrag.label>осколковий</RocketFrag.label>
+  <RocketFrag.labelShort>осколковий</RocketFrag.labelShort>
+  <RocketFrag.description>Designed to explode into a cloud of deadly shrapnel, shredding soft targets in a large area.</RocketFrag.description>
+
+  <RocketHE.label>фугасний</RocketHE.label>
+  <RocketHE.labelShort>Ф</RocketHE.labelShort>
+  <RocketHE.description>Designed to explode, damaging targets in a large area.</RocketHE.description>
+
+
+</LanguageData>

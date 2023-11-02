@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_BlunderbussShot.label>мешкетна куля</Ammo_BlunderbussShot.label>
+  <Ammo_BlunderbussShot.description>A paper cartridge sealed with wax containing several round projectiles and black powder, fired by early, smoothbore blunderbusses.</Ammo_BlunderbussShot.description>
+
+
+  <!-- Projectile -->
+
+  <Bullet_BlunderbussShot.label>blunderbuss pellet</Bullet_BlunderbussShot.label>
+
+
+</LanguageData>

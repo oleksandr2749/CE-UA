@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_3030Winchester_FMJ.label>зробити патрон .30-30 Winchester x400</MakeAmmo_3030Winchester_FMJ.label>
+  <MakeAmmo_3030Winchester_FMJ.description>Виготовити п'ятсот патронів .30-30 Winchester</MakeAmmo_3030Winchester_FMJ.description>
+  <MakeAmmo_3030Winchester_FMJ.jobString>Робить патрони .30-30 Winchester</MakeAmmo_3030Winchester_FMJ.jobString>
+
+  <MakeAmmo_3030Winchester_AP.label>зробити патрон .30-30 Winchester (Б) x500</MakeAmmo_3030Winchester_AP.label>
+  <MakeAmmo_3030Winchester_AP.description>Виготовити п'ятсот патронів .30-30 Winchester (Б)</MakeAmmo_3030Winchester_AP.description>
+  <MakeAmmo_3030Winchester_AP.jobString>Робить патрони .30-30 Winchester (Б)</MakeAmmo_3030Winchester_AP.jobString>
+
+  <MakeAmmo_3030Winchester_HP.label>зробити патрон .30-30 Winchester (Е) x500</MakeAmmo_3030Winchester_HP.label>
+  <MakeAmmo_3030Winchester_HP.description>Виготовити п'ятсот патронів .30-30 Winchester (Е)</MakeAmmo_3030Winchester_HP.description>
+  <MakeAmmo_3030Winchester_HP.jobString>Робить патрони .30-30 Winchester (Е)</MakeAmmo_3030Winchester_HP.jobString>
+
+  <MakeAmmo_3030Winchester_Incendiary.label>зробити патрон .30-30 Winchester (БЗ) x500</MakeAmmo_3030Winchester_Incendiary.label>
+  <MakeAmmo_3030Winchester_Incendiary.description>Виготовити п'ятсот патронів .30-30 Winchester (БЗ)</MakeAmmo_3030Winchester_Incendiary.description>
+  <MakeAmmo_3030Winchester_Incendiary.jobString>Робить патрони .30-30 Winchester (БЗ)</MakeAmmo_3030Winchester_Incendiary.jobString>
+
+  <MakeAmmo_3030Winchester_HE.label>зробити патрон .30-30 Winchester (БФ) x500</MakeAmmo_3030Winchester_HE.label>
+  <MakeAmmo_3030Winchester_HE.description>Виготовити п'ятсот патронів .30-30 Winchester (БФ)</MakeAmmo_3030Winchester_HE.description>
+  <MakeAmmo_3030Winchester_HE.jobString>Робить патрони .30-30 Winchester (БФ)</MakeAmmo_3030Winchester_HE.jobString>
+
+  <MakeAmmo_3030Winchester_Sabot.label>зробити патрон .30-30 Winchester (Підкаліберний) x500</MakeAmmo_3030Winchester_Sabot.label>
+  <MakeAmmo_3030Winchester_Sabot.description>Виготовити п'ятсот патронів .30-30 Winchester (Підкаліберний)</MakeAmmo_3030Winchester_Sabot.description>
+  <MakeAmmo_3030Winchester_Sabot.jobString>Робить патрони .30-30 Winchester (Підкаліберний)</MakeAmmo_3030Winchester_Sabot.jobString>
+
+
+</LanguageData>

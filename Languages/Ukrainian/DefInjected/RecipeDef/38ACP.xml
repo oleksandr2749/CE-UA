@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_38ACP_FMJ.label>зробити патрон .38 ACP x500</MakeAmmo_38ACP_FMJ.label>
+  <MakeAmmo_38ACP_FMJ.description>Виготовити п'ятсот патронів .38 ACP</MakeAmmo_38ACP_FMJ.description>
+  <MakeAmmo_38ACP_FMJ.jobString>Робить патрони .38 ACP</MakeAmmo_38ACP_FMJ.jobString>
+
+  <MakeAmmo_38ACP_AP.label>зробити патрон .38 ACP (Б) x500</MakeAmmo_38ACP_AP.label>
+  <MakeAmmo_38ACP_AP.description>Виготовити п'ятсот патронів .38 ACP (Б)</MakeAmmo_38ACP_AP.description>
+  <MakeAmmo_38ACP_AP.jobString>Робить патрони .38 ACP (Б)</MakeAmmo_38ACP_AP.jobString>
+
+  <MakeAmmo_38ACP_HP.label>зробити патрон .38 ACP (Е) x500</MakeAmmo_38ACP_HP.label>
+  <MakeAmmo_38ACP_HP.description>Виготовити п'ятсот патронів .38 ACP (Е)</MakeAmmo_38ACP_HP.description>
+  <MakeAmmo_38ACP_HP.jobString>Робить патрони .38 ACP (Е)</MakeAmmo_38ACP_HP.jobString>
+
+
+</LanguageData>

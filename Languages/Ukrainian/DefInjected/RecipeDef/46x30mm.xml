@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_46x30mm_FMJ.label>зробити патрон 4.6x30mm x500</MakeAmmo_46x30mm_FMJ.label>
+  <MakeAmmo_46x30mm_FMJ.description>Виготовити п'ятсот патронів 4.6x30mm</MakeAmmo_46x30mm_FMJ.description>
+  <MakeAmmo_46x30mm_FMJ.jobString>Робить патрони 4.6x30mm</MakeAmmo_46x30mm_FMJ.jobString>
+
+  <MakeAmmo_46x30mm_AP.label>зробити патрон 4.6x30mm (Б) x500</MakeAmmo_46x30mm_AP.label>
+  <MakeAmmo_46x30mm_AP.description>Виготовити п'ятсот патронів 4.6x30mm (Б)</MakeAmmo_46x30mm_AP.description>
+  <MakeAmmo_46x30mm_AP.jobString>Робить патрони 4.6x30mm (Б)</MakeAmmo_46x30mm_AP.jobString>
+
+  <MakeAmmo_46x30mm_HP.label>зробити патрон 4.6x30mm (Е) x500</MakeAmmo_46x30mm_HP.label>
+  <MakeAmmo_46x30mm_HP.description>Виготовити п'ятсот патронів 4.6x30mm (Е)</MakeAmmo_46x30mm_HP.description>
+  <MakeAmmo_46x30mm_HP.jobString>Робить патрони 4.6x30mm (Е)</MakeAmmo_46x30mm_HP.jobString>
+
+
+</LanguageData>

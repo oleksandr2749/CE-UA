@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_41Rimfire_FMJ.label>зробити патрон .41 Rimfire x500</MakeAmmo_41Rimfire_FMJ.label>
+  <MakeAmmo_41Rimfire_FMJ.description>Виготовити п'ятсот патронів .41 Rimfire</MakeAmmo_41Rimfire_FMJ.description>
+  <MakeAmmo_41Rimfire_FMJ.jobString>Робить патрони .41 Rimfire</MakeAmmo_41Rimfire_FMJ.jobString>
+
+  <MakeAmmo_41Rimfire_AP.label>зробити патрон .41 Rimfire (Б) x500</MakeAmmo_41Rimfire_AP.label>
+  <MakeAmmo_41Rimfire_AP.description>Виготовити п'ятсот патронів .41 Rimfire (Б)</MakeAmmo_41Rimfire_AP.description>
+  <MakeAmmo_41Rimfire_AP.jobString>Робить патрони .41 Rimfire (Б)</MakeAmmo_41Rimfire_AP.jobString>
+
+  <MakeAmmo_41Rimfire_HP.label>зробити патрон .41 Rimfire (Е) x500</MakeAmmo_41Rimfire_HP.label>
+  <MakeAmmo_41Rimfire_HP.description>Виготовити п'ятсот патронів .41 Rimfire (Е)</MakeAmmo_41Rimfire_HP.description>
+  <MakeAmmo_41Rimfire_HP.jobString>Робить патрони .41 Rimfire (Е)</MakeAmmo_41Rimfire_HP.jobString>
+
+
+</LanguageData>

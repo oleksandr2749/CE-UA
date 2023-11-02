@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_950JDJ_FMJ.label>патрон 24х70мм</Ammo_950JDJ_FMJ.label>
+  <Ammo_950JDJ_FMJ.description>A ridiculously large and powerful caliber sporting cartridge.</Ammo_950JDJ_FMJ.description>
+
+  <Ammo_950JDJ_AP.label>патрон 24х70мм (Б)</Ammo_950JDJ_AP.label>
+  <Ammo_950JDJ_AP.description>A ridiculously large and powerful caliber sporting cartridge.</Ammo_950JDJ_AP.description>
+
+  <Ammo_50JDJ_Incendiary.label>патрон 24х70мм (БЗ)</Ammo_50JDJ_Incendiary.label>
+  <Ammo_50JDJ_Incendiary.description>A ridiculously large and powerful caliber sporting cartridge.</Ammo_50JDJ_Incendiary.description>
+
+  <Ammo_50JDJ_HE.label>патрон 24х70мм (БФ)</Ammo_50JDJ_HE.label>
+  <Ammo_50JDJ_HE.description>A ridiculously large and powerful caliber sporting cartridge.</Ammo_50JDJ_HE.description>
+
+  <Ammo_50JDJ_Sabot.label>патрон 24х70мм (Підкаліберний)</Ammo_50JDJ_Sabot.label>
+  <Ammo_50JDJ_Sabot.description>A ridiculously large and powerful caliber sporting cartridge.</Ammo_50JDJ_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_950JDJ_FMJ.label>.950 JDJ bullet</Bullet_950JDJ_FMJ.label>
+  <Bullet_950JDJ_AP.label>.950 JDJ bullet (Б)</Bullet_950JDJ_AP.label>
+  <Bullet_50JDJ_Incendiary.label>.950 JDJ bullet (БЗ)</Bullet_50JDJ_Incendiary.label>
+  <Bullet_50JDJ_HE.label>.950 JDJ bullet (БФ)</Bullet_50JDJ_HE.label>
+  <Bullet_50JDJ_Sabot.label>.950 JDJ bullet (Підкаліберний)</Bullet_50JDJ_Sabot.label>
+
+
+</LanguageData>

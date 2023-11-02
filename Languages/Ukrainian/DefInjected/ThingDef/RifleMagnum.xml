@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_RifleMagnum_FMJ.label>гвинтівковий патрон магнум</Ammo_RifleMagnum_FMJ.label>
+  <Ammo_RifleMagnum_FMJ.description>High power rifle ammunition, used mainly by long range sniper rifles.</Ammo_RifleMagnum_FMJ.description>
+
+  <Ammo_RifleMagnum_AP.label>гвинтівковий патрон магнум (Б)</Ammo_RifleMagnum_AP.label>
+  <Ammo_RifleMagnum_AP.description>High power rifle ammunition, used mainly by long range sniper rifles.</Ammo_RifleMagnum_AP.description>
+
+  <Ammo_RifleMagnum_Incendiary.label>гвинтівковий патрон магнум (БЗ)</Ammo_RifleMagnum_Incendiary.label>
+  <Ammo_RifleMagnum_Incendiary.description>High power rifle ammunition, used mainly by long range sniper rifles.</Ammo_RifleMagnum_Incendiary.description>
+
+  <Ammo_RifleMagnum_HE.label>гвинтівковий патрон магнум (Фугасний)</Ammo_RifleMagnum_HE.label>
+  <Ammo_RifleMagnum_HE.description>High power rifle ammunition, used mainly by long range sniper rifles.</Ammo_RifleMagnum_HE.description>
+
+  <Ammo_RifleMagnum_Sabot.label>гвинтівковий патрон магнум (Підкаліберний)</Ammo_RifleMagnum_Sabot.label>
+  <Ammo_RifleMagnum_Sabot.description>High power rifle ammunition, used mainly by long range sniper rifles.</Ammo_RifleMagnum_Sabot.description>
+
+
+</LanguageData>

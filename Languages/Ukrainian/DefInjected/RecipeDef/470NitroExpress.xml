@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_470NitroExpress_FMJ.label>зробити патрон .470 Nitro Express x200</MakeAmmo_470NitroExpress_FMJ.label>
+  <MakeAmmo_470NitroExpress_FMJ.description>Craft 200 .470 Nitro Express</MakeAmmo_470NitroExpress_FMJ.description>
+  <MakeAmmo_470NitroExpress_FMJ.jobString>Робить патрони .470 Nitro Express</MakeAmmo_470NitroExpress_FMJ.jobString>
+
+  <MakeAmmo_470NitroExpress_AP.label>зробити патрон .470 Nitro Express (Б) x200</MakeAmmo_470NitroExpress_AP.label>
+  <MakeAmmo_470NitroExpress_AP.description>Craft 200 .470 Nitro Express (Б)</MakeAmmo_470NitroExpress_AP.description>
+  <MakeAmmo_470NitroExpress_AP.jobString>Робить патрони .470 Nitro Express (Б)</MakeAmmo_470NitroExpress_AP.jobString>
+
+  <MakeAmmo_470NitroExpress_Incendiary.label>зробити патрон .470 Nitro Express (БЗ) x200</MakeAmmo_470NitroExpress_Incendiary.label>
+  <MakeAmmo_470NitroExpress_Incendiary.description>Craft 200 .470 Nitro Express (БЗ)</MakeAmmo_470NitroExpress_Incendiary.description>
+  <MakeAmmo_470NitroExpress_Incendiary.jobString>Робить патрони .470 Nitro Express (БЗ)</MakeAmmo_470NitroExpress_Incendiary.jobString>
+
+  <MakeAmmo_470NitroExpress_HE.label>зробити патрон .470 Nitro Express (БФ) x200</MakeAmmo_470NitroExpress_HE.label>
+  <MakeAmmo_470NitroExpress_HE.description>Craft 200 .470 Nitro Express (БФ)</MakeAmmo_470NitroExpress_HE.description>
+  <MakeAmmo_470NitroExpress_HE.jobString>Робить патрони .470 Nitro Express (БФ)</MakeAmmo_470NitroExpress_HE.jobString>
+
+  <MakeAmmo_470NitroExpress_Sabot.label>зробити патрон .470 Nitro Express (Підкаліберний) x200</MakeAmmo_470NitroExpress_Sabot.label>
+  <MakeAmmo_470NitroExpress_Sabot.description>Craft 200 .470 Nitro Express (Підкаліберний)</MakeAmmo_470NitroExpress_Sabot.description>
+  <MakeAmmo_470NitroExpress_Sabot.jobString>Робить патрони .470 Nitro Express (Підкаліберний)</MakeAmmo_470NitroExpress_Sabot.jobString>
+
+
+</LanguageData>

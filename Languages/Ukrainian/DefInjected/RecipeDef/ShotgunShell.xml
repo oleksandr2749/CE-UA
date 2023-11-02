@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_Shotgun_Buck.label>зробити патрон shotgun (Buck) shell x200</MakeAmmo_Shotgun_Buck.label>
+  <MakeAmmo_Shotgun_Buck.description>Craft 200 shotgun (Buck) shell</MakeAmmo_Shotgun_Buck.description>
+  <MakeAmmo_Shotgun_Buck.jobString>Робить патрони shotgun (Buck) shell</MakeAmmo_Shotgun_Buck.jobString>
+
+  <MakeAmmo_Shotgun_Slug.label>зробити патрон shotgun (Slug) shell x200</MakeAmmo_Shotgun_Slug.label>
+  <MakeAmmo_Shotgun_Slug.description>Craft 200 shotgun (Slug) shell</MakeAmmo_Shotgun_Slug.description>
+  <MakeAmmo_Shotgun_Slug.jobString>Робить патрони shotgun (Slug) shell</MakeAmmo_Shotgun_Slug.jobString>
+
+  <MakeAmmo_Shotgun_Beanbag.label>зробити патрон shotgun (Beanbag) shell x200</MakeAmmo_Shotgun_Beanbag.label>
+  <MakeAmmo_Shotgun_Beanbag.description>Craft 200 shotgun (Beanbag) shell</MakeAmmo_Shotgun_Beanbag.description>
+  <MakeAmmo_Shotgun_Beanbag.jobString>Робить патрони shotgun (Beanbag) shell</MakeAmmo_Shotgun_Beanbag.jobString>
+
+  <MakeAmmo_Shotgun_ElectroSlug.label>зробити патрон shotgun (EMP) shell x200</MakeAmmo_Shotgun_ElectroSlug.label>
+  <MakeAmmo_Shotgun_ElectroSlug.description>Craft 200 shotgun (EMP) shell</MakeAmmo_Shotgun_ElectroSlug.description>
+  <MakeAmmo_Shotgun_ElectroSlug.jobString>Робить патрони shotgun (EMP) shell</MakeAmmo_Shotgun_ElectroSlug.jobString>
+
+
+</LanguageData>

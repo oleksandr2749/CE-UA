@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_44-40Winchester_FMJ.label>патрон 10,5х33мм</Ammo_44-40Winchester_FMJ.label>
+  <Ammo_44-40Winchester_FMJ.description>Ancient mid-late 19th century bullet traditionally loaded with 40 grains of blackpowder, typically used in repeating arms.</Ammo_44-40Winchester_FMJ.description>
+
+  <Ammo_44-40Winchester_AP.label>патрон 10,5х33мм (Б)</Ammo_44-40Winchester_AP.label>
+  <Ammo_44-40Winchester_AP.description>Ancient mid-late 19th century bullet traditionally loaded with 40 grains of blackpowder, typically used in repeating arms.</Ammo_44-40Winchester_AP.description>
+
+  <Ammo_44-40Winchester_HP.label>патрон 10,5х33мм (Е)</Ammo_44-40Winchester_HP.label>
+  <Ammo_44-40Winchester_HP.description>Ancient mid-late 19th century bullet traditionally loaded with 40 grains of blackpowder, typically used in repeating arms.</Ammo_44-40Winchester_HP.description>
+
+  <Ammo_44-40Winchester_Incendiary.label>патрон 10,5х33мм (БЗ)</Ammo_44-40Winchester_Incendiary.label>
+  <Ammo_44-40Winchester_Incendiary.description>Ancient mid-late 19th century bullet traditionally loaded with 40 grains of blackpowder, typically used in repeating arms.</Ammo_44-40Winchester_Incendiary.description>
+
+  <Ammo_44-40Winchester_HE.label>патрон 10,5х33мм (БФ)</Ammo_44-40Winchester_HE.label>
+  <Ammo_44-40Winchester_HE.description>Ancient mid-late 19th century bullet traditionally loaded with 40 grains of blackpowder, typically used in repeating arms.</Ammo_44-40Winchester_HE.description>
+
+  <Ammo_44-40Winchester_Sabot.label>патрон 10,5х33мм (Підкаліберний)</Ammo_44-40Winchester_Sabot.label>
+  <Ammo_44-40Winchester_Sabot.description>Ancient mid-late 19th century bullet traditionally loaded with 40 grains of blackpowder, typically used in repeating arms.</Ammo_44-40Winchester_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_44-40Winchester_FMJ.label>.44-40 Winchester bullet</Bullet_44-40Winchester_FMJ.label>
+  <Bullet_44-40Winchester_AP.label>.44-40 Winchester bullet (Б)</Bullet_44-40Winchester_AP.label>
+  <Bullet_44-40Winchester_HP.label>.44-40 Winchester bullet (Е)</Bullet_44-40Winchester_HP.label>
+  <Bullet_44-40Winchester_Incendiary.label>.44-40 Winchester bullet (БЗ)</Bullet_44-40Winchester_Incendiary.label>
+  <Bullet_44-40Winchester_HE.label>.44-40 Winchester bullet (БФ)</Bullet_44-40Winchester_HE.label>
+  <Bullet_44-40Winchester_Sabot.label>.44-40 Winchester bullet (Підкаліберний)</Bullet_44-40Winchester_Sabot.label>
+
+
+</LanguageData>

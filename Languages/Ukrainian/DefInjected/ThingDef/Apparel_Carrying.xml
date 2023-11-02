@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CE_Apparel_TacVest.label>тактичний жилет</CE_Apparel_TacVest.label>
+  <CE_Apparel_TacVest.description>A loadbearing vest with a number of pouches to store magazines and other equipment.\n\nSpeeds up reloading but is quite bulky to wear.</CE_Apparel_TacVest.description>
+
+  <CE_Apparel_Backpack.label>рюкзак</CE_Apparel_Backpack.label>
+  <CE_Apparel_Backpack.description>A comfortable and spacious backpack for storing all kinds of items.</CE_Apparel_Backpack.description>
+
+  <CE_Apparel_KidBackpack.label>дитячий рюкзак</CE_Apparel_KidBackpack.label>
+  <CE_Apparel_KidBackpack.description>A small backpack sized for a child.</CE_Apparel_KidBackpack.description>
+
+  <CE_Apparel_TribalBackpack.label>племінний рюкзак</CE_Apparel_TribalBackpack.label>
+  <CE_Apparel_TribalBackpack.description>Primitive backpack made from animal furs, useful for storing items when travelling.</CE_Apparel_TribalBackpack.description>
+
+  <CE_Apparel_RadioPack.label>радіосумка</CE_Apparel_RadioPack.label>
+  <CE_Apparel_RadioPack.description>A long range radio pack, allowing a spotter to call in accurate, long range fire support from afar. Works in conjunction with binoculars.</CE_Apparel_RadioPack.description>
+
+  <CE_Apparel_ExoFrame.label>екзоскелет</CE_Apparel_ExoFrame.label>
+  <CE_Apparel_ExoFrame.description>A powered exoframe with articulated joints, commonly used in industrial settings by workers handling heavy parts.\n\nIncreases lifting capacity, but is quite bulky to wear.</CE_Apparel_ExoFrame.description>
+
+
+</LanguageData>

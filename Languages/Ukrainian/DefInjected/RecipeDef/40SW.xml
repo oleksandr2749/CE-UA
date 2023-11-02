@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_40SW_FMJ.label>зробити патрон .40 SW x500</MakeAmmo_40SW_FMJ.label>
+  <MakeAmmo_40SW_FMJ.description>Виготовити п'ятсот патронів .40 SW</MakeAmmo_40SW_FMJ.description>
+  <MakeAmmo_40SW_FMJ.jobString>Робить патрони .40 SW</MakeAmmo_40SW_FMJ.jobString>
+
+  <MakeAmmo_40SW_AP.label>зробити патрон .40 SW (Б) x500</MakeAmmo_40SW_AP.label>
+  <MakeAmmo_40SW_AP.description>Виготовити п'ятсот патронів .40 SW (Б)</MakeAmmo_40SW_AP.description>
+  <MakeAmmo_40SW_AP.jobString>Робить патрони .40 SW (Б)</MakeAmmo_40SW_AP.jobString>
+
+  <MakeAmmo_40SW_HP.label>зробити патрон .40 SW (Е) x500</MakeAmmo_40SW_HP.label>
+  <MakeAmmo_40SW_HP.description>Виготовити п'ятсот патронів .40 SW (Е)</MakeAmmo_40SW_HP.description>
+  <MakeAmmo_40SW_HP.jobString>Робить патрони .40 SW (Е)</MakeAmmo_40SW_HP.jobString>
+
+
+</LanguageData>

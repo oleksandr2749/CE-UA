@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_Catapult_Boulder.label>валун</Ammo_Catapult_Boulder.label>
+  <Ammo_Catapult_Boulder.description>A heavy stone, cut to an appropriate size and shape to be thrown by a siege engine.</Ammo_Catapult_Boulder.description>
+
+
+  <!-- Projectile -->
+
+  <Projectile_CatapultBullet_Boulder.label>boulder</Projectile_CatapultBullet_Boulder.label>
+
+
+</LanguageData>

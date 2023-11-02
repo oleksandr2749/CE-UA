@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_M6A3_HEAT.label>зробити патрон M6A3 HEAT rockets x5</MakeAmmo_M6A3_HEAT.label>
+  <MakeAmmo_M6A3_HEAT.description>Craft 5 M6A3 HEAT rocket</MakeAmmo_M6A3_HEAT.description>
+  <MakeAmmo_M6A3_HEAT.jobString>Робить патрони M6A3 HEAT rocket</MakeAmmo_M6A3_HEAT.jobString>
+
+  <MakeAmmo_M6A3_Incendiary.label>зробити патрон M6A3 Incendiary rockets x5</MakeAmmo_M6A3_Incendiary.label>
+  <MakeAmmo_M6A3_Incendiary.description>Craft 5 M6A3 Incendiary rocket</MakeAmmo_M6A3_Incendiary.description>
+  <MakeAmmo_M6A3_Incendiary.jobString>Робить патрони M6A3 Incendiary rocket</MakeAmmo_M6A3_Incendiary.jobString>
+
+
+</LanguageData>

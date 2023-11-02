@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_243Winchester_FMJ.label>зробити патрон .243 Winchester x500</MakeAmmo_243Winchester_FMJ.label>
+  <MakeAmmo_243Winchester_FMJ.description>Виготовити п'ятсот патронів .243 Winchester</MakeAmmo_243Winchester_FMJ.description>
+  <MakeAmmo_243Winchester_FMJ.jobString>Робить патрони .243 Winchester</MakeAmmo_243Winchester_FMJ.jobString>
+
+  <MakeAmmo_243Winchester_AP.label>зробити патрон .243 Winchester (Б) x500</MakeAmmo_243Winchester_AP.label>
+  <MakeAmmo_243Winchester_AP.description>Виготовити п'ятсот патронів .243 Winchester (Б)</MakeAmmo_243Winchester_AP.description>
+  <MakeAmmo_243Winchester_AP.jobString>Робить патрони .243 Winchester (Б)</MakeAmmo_243Winchester_AP.jobString>
+
+  <MakeAmmo_243Winchester_HP.label>зробити патрон .243 Winchester (Е) x500</MakeAmmo_243Winchester_HP.label>
+  <MakeAmmo_243Winchester_HP.description>Виготовити п'ятсот патронів .243 Winchester (Е)</MakeAmmo_243Winchester_HP.description>
+  <MakeAmmo_243Winchester_HP.jobString>Робить патрони .243 Winchester (Е)</MakeAmmo_243Winchester_HP.jobString>
+
+  <MakeAmmo_243Winchester_Incendiary.label>зробити патрон .243 Winchester (БЗ) x500</MakeAmmo_243Winchester_Incendiary.label>
+  <MakeAmmo_243Winchester_Incendiary.description>Виготовити п'ятсот патронів .243 Winchester (БЗ)</MakeAmmo_243Winchester_Incendiary.description>
+  <MakeAmmo_243Winchester_Incendiary.jobString>Робить патрони .243 Winchester (БЗ)</MakeAmmo_243Winchester_Incendiary.jobString>
+
+  <MakeAmmo_243Winchester_HE.label>зробити патрон .243 Winchester (БФ) x500</MakeAmmo_243Winchester_HE.label>
+  <MakeAmmo_243Winchester_HE.description>Виготовити п'ятсот патронів .243 Winchester (БФ)</MakeAmmo_243Winchester_HE.description>
+  <MakeAmmo_243Winchester_HE.jobString>Робить патрони .243 Winchester (БФ)</MakeAmmo_243Winchester_HE.jobString>
+
+  <MakeAmmo_243Winchester_Sabot.label>зробити патрон .243 Winchester (Підкаліберний) x500</MakeAmmo_243Winchester_Sabot.label>
+  <MakeAmmo_243Winchester_Sabot.description>Виготовити п'ятсот патронів .243 Winchester (Підкаліберний)</MakeAmmo_243Winchester_Sabot.description>
+  <MakeAmmo_243Winchester_Sabot.jobString>Робить патрони .243 Winchester (Підкаліберний)</MakeAmmo_243Winchester_Sabot.jobString>
+
+
+</LanguageData>

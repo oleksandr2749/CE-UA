@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_30x113mmB_AP.label>патрон 30x113мм (Б)</Ammo_30x113mmB_AP.label>
+  <Ammo_30x113mmB_AP.description>Large caliber cartridge used by autocannons.</Ammo_30x113mmB_AP.description>
+
+  <Ammo_30x113mmB_Incendiary.label>патрон 30x113мм (БЗ)</Ammo_30x113mmB_Incendiary.label>
+  <Ammo_30x113mmB_Incendiary.description>Large caliber cartridge used by autocannons.</Ammo_30x113mmB_Incendiary.description>
+
+  <Ammo_30x113mmB_HE.label>патрон 30x113мм (БФ)</Ammo_30x113mmB_HE.label>
+  <Ammo_30x113mmB_HE.description>Large caliber cartridge used by autocannons.</Ammo_30x113mmB_HE.description>
+
+  <Ammo_30x113mmB_Sabot.label>патрон 30x113мм (Підкаліберний)</Ammo_30x113mmB_Sabot.label>
+  <Ammo_30x113mmB_Sabot.description>Large caliber cartridge used by autocannons.</Ammo_30x113mmB_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_30x113mmB_AP.label>30x113mmB bullet (Б)</Bullet_30x113mmB_AP.label>
+  <Bullet_30x113mmB_Incendiary.label>30x113mmB bullet (БЗ)</Bullet_30x113mmB_Incendiary.label>
+  <Bullet_30x113mmB_HE.label>30x113mmB bullet (БФ)</Bullet_30x113mmB_HE.label>
+  <Bullet_30x113mmB_Sabot.label>30x113mmB bullet (Підкаліберний)</Bullet_30x113mmB_Sabot.label>
+
+
+</LanguageData>

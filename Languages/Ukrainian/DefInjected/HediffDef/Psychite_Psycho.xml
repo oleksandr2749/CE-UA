@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PsychoHigh.label>під кайфом</PsychoHigh.label>
+  <PsychoHigh.description>Активний психотроп у крові. Спричиняє дуже інтенсивний ейфоричний кайф.</PsychoHigh.description>
+
+  <PsychoCrash.label>психічний розлад</PsychoCrash.label>
+  <PsychoCrash.description>Дуже неприємний післяефектний стан від психотропів.</PsychoCrash.description>
+  <PsychoCrash.stages.0.label>відновлюючись</PsychoCrash.stages.0.label>
+  <PsychoCrash.stages.1.label>сильне</PsychoCrash.stages.1.label>
+  <PsychoCrash.stages.2.label>початкове</PsychoCrash.stages.2.label>
+
+</LanguageData>

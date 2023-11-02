@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- General -->
+
+  <ReloadWeapon.reportString>Перезарядає FlagSource TargetB з AmmoType.</ReloadWeapon.reportString>
+  <ModifyWeapon.reportString>Застосовує модифікацію TargetB на TargetA.</ModifyWeapon.reportString>
+  <RunForCover.reportString>Бужить до укриття.</RunForCover.reportString>
+  <HunkerDown.reportString>Падає вниз.</HunkerDown.reportString>
+  <WaitKnockdown.reportString>Збитий з ніг.</WaitKnockdown.reportString>
+  <ReloadTurret.reportString>Перезарядає TurretType TargetA з TargetB.</ReloadTurret.reportString>
+  <Stabilize.reportString>Стабілізація.</Stabilize.reportString>
+  <TakeFromOther.reportString>FlagC TargetA з TargetB.</TakeFromOther.reportString>
+  <EquipFromInventory.reportString>екіпірує TargetA.</EquipFromInventory.reportString>
+  <OpportunisticAttack.reportString>атакує TargetC використовуючи TargetA.</OpportunisticAttack.reportString>
+  <TendSelf.reportString>прагне TargetA.</TendSelf.reportString>
+  <GiveAmmo.reportString>Дає TargetB в TargetA.</GiveAmmo.reportString>
+  <RepairNaturalArmor.reportString>Фіксує TargetA природня броня.</RepairNaturalArmor.reportString>
+
+
+</LanguageData>

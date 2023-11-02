@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_75x350mmR_AP.label>снаряд 75x350мм (Б)</Ammo_75x350mmR_AP.label>
+  <Ammo_75x350mmR_AP.description>Large caliber shell used by tank cannons.</Ammo_75x350mmR_AP.description>
+
+  <Ammo_75x350mmR_HE.label>снаряд 75x350мм (Фугасний)</Ammo_75x350mmR_HE.label>
+  <Ammo_75x350mmR_HE.description>Large caliber shell used by tank cannons.</Ammo_75x350mmR_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_75x350mmR_AP.label>75x350mmR bullet (Б)</Bullet_75x350mmR_AP.label>
+  <Bullet_75x350mmR_HE.label>75x350mmR bullet (Фугасний)</Bullet_75x350mmR_HE.label>
+
+
+</LanguageData>

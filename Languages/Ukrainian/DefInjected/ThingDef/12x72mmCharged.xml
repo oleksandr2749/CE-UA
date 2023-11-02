@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_12x72mmCharged.label>енергопатрон 12x72мм</Ammo_12x72mmCharged.label>
+  <Ammo_12x72mmCharged.description>High-caliber charged shot ammo used by advanced heavy machine guns and anti-materiel rifles.</Ammo_12x72mmCharged.description>
+
+  <Ammo_12x72mmCharged_AP.label>енергопатрон 12x72мм (Conc.)</Ammo_12x72mmCharged_AP.label>
+  <Ammo_12x72mmCharged_AP.description>High-caliber charged shot ammo used by advanced heavy machine guns and anti-materiel rifles.</Ammo_12x72mmCharged_AP.description>
+
+  <Ammo_12x72mmCharged_Ion.label>енергопатрон 12x72мм (Ion)</Ammo_12x72mmCharged_Ion.label>
+  <Ammo_12x72mmCharged_Ion.description>High-caliber charged shot ammo used by advanced heavy machine guns and anti-materiel rifles.</Ammo_12x72mmCharged_Ion.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_12x72mmCharged.label>12x72mm Charged bullet</Bullet_12x72mmCharged.label>
+  <Bullet_12x72mmCharged_AP.label>12x72mm Charged bullet (Conc.)</Bullet_12x72mmCharged_AP.label>
+  <Bullet_12x72mmCharged_Ion.label>12x72mm Charged bullet (Ion)</Bullet_12x72mmCharged_Ion.label>
+
+
+</LanguageData>

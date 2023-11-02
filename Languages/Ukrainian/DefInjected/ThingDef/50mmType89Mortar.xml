@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_50mmType89MortarShell_HE.label>снаряд 50мм (Фугасний)</Ammo_50mmType89MortarShell_HE.label>
+  <Ammo_50mmType89MortarShell_HE.description>Low-velocity shell designed to be fired from a mortar.</Ammo_50mmType89MortarShell_HE.description>
+
+  <Ammo_50mmType89MortarShell_Incendiary.label>снаряд 50мм (Запальний)</Ammo_50mmType89MortarShell_Incendiary.label>
+  <Ammo_50mmType89MortarShell_Incendiary.description>Low-velocity shell designed to be fired from a mortar.</Ammo_50mmType89MortarShell_Incendiary.description>
+
+  <Ammo_50mmType89MortarShell_EMP.label>снаряд 50мм (ЕМІ)</Ammo_50mmType89MortarShell_EMP.label>
+  <Ammo_50mmType89MortarShell_EMP.description>Low-velocity shell designed to be fired from a mortar.</Ammo_50mmType89MortarShell_EMP.description>
+
+  <Ammo_50mmType89MortarShell_Smoke.label>снаряд 50мм (Димовий)</Ammo_50mmType89MortarShell_Smoke.label>
+  <Ammo_50mmType89MortarShell_Smoke.description>Low-velocity shell designed to be fired from a mortar.</Ammo_50mmType89MortarShell_Smoke.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_50mmType89MortarShell_HE.label>50mm type 89 mortar shell (Фугасний)</Bullet_50mmType89MortarShell_HE.label>
+  <Bullet_50mmType89MortarShell_Incendiary.label>50mm type 89 mortar shell (Запальний)</Bullet_50mmType89MortarShell_Incendiary.label>
+  <Bullet_50mmType89MortarShell_EMP.label>50mm type 89 mortar shell (ЕМІ)</Bullet_50mmType89MortarShell_EMP.label>
+  <Bullet_50mmType89MortarShell_Smoke.label>50mm type 89 mortar shell (Димовий)</Bullet_50mmType89MortarShell_Smoke.label>
+
+
+</LanguageData>

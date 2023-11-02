@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_9x18mmMakarov_FMJ.label>зробити патрон 9x18мм x500</MakeAmmo_9x18mmMakarov_FMJ.label>
+  <MakeAmmo_9x18mmMakarov_FMJ.description>Виготовити п'ятсот патронів 9x18мм</MakeAmmo_9x18mmMakarov_FMJ.description>
+  <MakeAmmo_9x18mmMakarov_FMJ.jobString>Робить патрони 9x18мм</MakeAmmo_9x18mmMakarov_FMJ.jobString>
+
+  <MakeAmmo_9x18mmMakarov_AP.label>зробити патрон 9x18мм (Б) x500</MakeAmmo_9x18mmMakarov_AP.label>
+  <MakeAmmo_9x18mmMakarov_AP.description>Виготовити п'ятсот патронів 9x18мм (Б)</MakeAmmo_9x18mmMakarov_AP.description>
+  <MakeAmmo_9x18mmMakarov_AP.jobString>Робить патрони 9x18мм (Б)</MakeAmmo_9x18mmMakarov_AP.jobString>
+
+  <MakeAmmo_9x18mmMakarov_HP.label>зробити патрон 9x18мм (Е) x500</MakeAmmo_9x18mmMakarov_HP.label>
+  <MakeAmmo_9x18mmMakarov_HP.description>Виготовити п'ятсот патронів 9x18мм (Е)</MakeAmmo_9x18mmMakarov_HP.description>
+  <MakeAmmo_9x18mmMakarov_HP.jobString>Робить патрони 9x18мм (Е)</MakeAmmo_9x18mmMakarov_HP.jobString>
+
+
+</LanguageData>

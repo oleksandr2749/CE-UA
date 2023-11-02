@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_130mmType63_HE.label>зробити патрон 130mm Type63 HE rockets x5</MakeAmmo_130mmType63_HE.label>
+  <MakeAmmo_130mmType63_HE.description>Craft 5 130mm Type63 HE rocket</MakeAmmo_130mmType63_HE.description>
+  <MakeAmmo_130mmType63_HE.jobString>Робить патрони 130mm Type63 HE rocket</MakeAmmo_130mmType63_HE.jobString>
+
+
+</LanguageData>

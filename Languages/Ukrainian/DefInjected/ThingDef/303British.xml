@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_303British_FMJ.label>патрон 7,92х56мм</Ammo_303British_FMJ.label>
+  <Ammo_303British_FMJ.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_FMJ.description>
+
+  <Ammo_303British_AP.label>патрон 7,92х56мм (Б)</Ammo_303British_AP.label>
+  <Ammo_303British_AP.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_AP.description>
+
+  <Ammo_303British_HP.label>патрон 7,92х56мм (Е)</Ammo_303British_HP.label>
+  <Ammo_303British_HP.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_HP.description>
+
+  <Ammo_303British_Incendiary.label>патрон 7,92х56мм (БЗ)</Ammo_303British_Incendiary.label>
+  <Ammo_303British_Incendiary.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_Incendiary.description>
+
+  <Ammo_303British_HE.label>патрон 7,92х56мм (БФ)</Ammo_303British_HE.label>
+  <Ammo_303British_HE.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_HE.description>
+
+  <Ammo_303British_Sabot.label>патрон 7,92х56мм (Підкаліберний)</Ammo_303British_Sabot.label>
+  <Ammo_303British_Sabot.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_303British_FMJ.label>.303 British bullet</Bullet_303British_FMJ.label>
+  <Bullet_303British_AP.label>.303 British bullet (Б)</Bullet_303British_AP.label>
+  <Bullet_303British_HP.label>.303 British bullet (Е)</Bullet_303British_HP.label>
+  <Bullet_303British_Incendiary.label>.303 British bullet (БЗ)</Bullet_303British_Incendiary.label>
+  <Bullet_303British_HE.label>.303 British bullet (БФ)</Bullet_303British_HE.label>
+  <Bullet_303British_Sabot.label>.303 British bullet (Підкаліберний)</Bullet_303British_Sabot.label>
+
+
+</LanguageData>

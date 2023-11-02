@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CarryWeight.label>переносима вага</CarryWeight.label>
+  <CarryWeight.description>Кількість ваги, яку ця істота може носити в кишенях, сумках або іншим чином прикріплена до тіла.</CarryWeight.description>
+  <CarryWeight.formatString>{0} кг</CarryWeight.formatString>
+
+  <CarryBulk.label>переносимий об'єм</CarryBulk.label>
+  <CarryBulk.description>Об'єм предметів, які ця істота може носити в кишенях, сумках або іншим чином прикріплених до тіла.</CarryBulk.description>
+
+
+</LanguageData>

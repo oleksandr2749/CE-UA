@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Beanbag.label>мішечок</Beanbag.label>
+  <Beanbag.deathMessage>{0} {0_gender ? був застлений: була застралена}.</Beanbag.deathMessage>
+
+  <Taser.label>шокер</Taser.label>
+  <Taser.deathMessage>{0} {0_gender ? був вбитий: була вбита} електричним струмом.</Taser.deathMessage>
+
+  <Fragment.label>осколок</Fragment.label>
+  <Fragment.deathMessage>{0} {0_gender ? був розтерзаний: була розтерзана}.</Fragment.deathMessage>
+
+  <PrometheumFlame.label>промотелій</PrometheumFlame.label>
+  <PrometheumFlame.deathMessage>{0} {0_gender ? був спалений: була спалена}.</PrometheumFlame.deathMessage>
+
+  <Bomb_Secondary.label>вибух</Bomb_Secondary.label>
+  <Bomb_Secondary.deathMessage>{0} {0_gender ? був вбитий: була вбита} вибухом.</Bomb_Secondary.deathMessage>
+
+  <Thermobaric.label>термобаричний</Thermobaric.label>
+  <Thermobaric.deathMessage>{0} {0_gender ? був вбитий: була вбита} вибухом.</Thermobaric.deathMessage>
+
+  <Flame_Secondary.label>вогонь</Flame_Secondary.label>
+  <Flame_Secondary.deathMessage>{0} {0_gender ? вуб спалений: була спалена}.</Flame_Secondary.deathMessage>
+
+  <Electrical.label>електрика</Electrical.label>
+  <Electrical.deathMessage>{0} {0_gender ? був вбитий: була вбита} електричним струмом.</Electrical.deathMessage>
+
+  <ArrowVenom.label>стріла</ArrowVenom.label>
+  <ArrowVenom.deathMessage>{0} {0_gender ? був застріляний: була застріляна}.</ArrowVenom.deathMessage>
+
+  <ArrowFire.label>стріла</ArrowFire.label>
+  <ArrowFire.deathMessage>{0} {0_gender ? був застріляний: була застріляна}.</ArrowFire.deathMessage>
+
+  <Tranquilizer.label>транквілізатор</Tranquilizer.label>
+  <Tranquilizer.deathMessage>{0} {0_gender ? був застрілений: була застріляна}.</Tranquilizer.deathMessage>
+
+  <Flashbang.label>освітлювач</Flashbang.label>
+  <Flashbang.deathMessage>{0} {0_gender ? був вбитий: була вбита}.</Flashbang.deathMessage>
+
+
+</LanguageData>

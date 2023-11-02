@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_40x311mmR_AP.label>снаряд 40x311мм (Б)</Ammo_40x311mmR_AP.label>
+  <Ammo_40x311mmR_AP.description>Large caliber cartridge used by autocannons.</Ammo_40x311mmR_AP.description>
+
+  <Ammo_40x311mmR_Incendiary.label>снаряд 40x311мм (БЗ)</Ammo_40x311mmR_Incendiary.label>
+  <Ammo_40x311mmR_Incendiary.description>Large caliber cartridge used by autocannons.</Ammo_40x311mmR_Incendiary.description>
+
+  <Ammo_40x311mmR_HE.label>снаряд 40x311мм (БФ)</Ammo_40x311mmR_HE.label>
+  <Ammo_40x311mmR_HE.description>Large caliber cartridge used by autocannons.</Ammo_40x311mmR_HE.description>
+
+  <Ammo_40x311mmR_Sabot.label>снаряд 40x311мм (Підкаліберний)</Ammo_40x311mmR_Sabot.label>
+  <Ammo_40x311mmR_Sabot.description>Large caliber cartridge used by autocannons.</Ammo_40x311mmR_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_40x311mmR_AP.label>40x311mmR bullet (Б)</Bullet_40x311mmR_AP.label>
+  <Bullet_40x311mmR_Incendiary.label>40x311mmR bullet (БЗ)</Bullet_40x311mmR_Incendiary.label>
+  <Bullet_40x311mmR_HE.label>40x311mmR bullet (БФ)</Bullet_40x311mmR_HE.label>
+  <Bullet_40x311mmR_Sabot.label>40x311mmR bullet (Підкаліберний)</Bullet_40x311mmR_Sabot.label>
+
+
+</LanguageData>

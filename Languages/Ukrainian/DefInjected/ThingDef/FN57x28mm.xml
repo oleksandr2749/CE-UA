@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_FN57x28mm_FMJ.label>патрон 5,7x29мм</Ammo_FN57x28mm_FMJ.label>
+  <Ammo_FN57x28mm_FMJ.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_FN57x28mm_FMJ.description>
+
+  <Ammo_FN57x28mm_AP.label>патрон 5,7x29мм (Б)</Ammo_FN57x28mm_AP.label>
+  <Ammo_FN57x28mm_AP.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_FN57x28mm_AP.description>
+
+  <Ammo_FN57x28mm_HP.label>патрон 5,7x29мм (Е)</Ammo_FN57x28mm_HP.label>
+  <Ammo_FN57x28mm_HP.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_FN57x28mm_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_FN57x28mm_FMJ.label>FN 5.7mm bullet</Bullet_FN57x28mm_FMJ.label>
+  <Bullet_FN57x28mm_AP.label>FN 5.7mm bullet (Б)</Bullet_FN57x28mm_AP.label>
+  <Bullet_FN57x28mm_HP.label>FN 5.7mm bullet (Е)</Bullet_FN57x28mm_HP.label>
+
+
+</LanguageData>

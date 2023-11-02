@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_Rifle_FMJ.label>зробити патрон rifle x500</MakeAmmo_Rifle_FMJ.label>
+  <MakeAmmo_Rifle_FMJ.description>Виготовити п'ятсот патронів rifle</MakeAmmo_Rifle_FMJ.description>
+  <MakeAmmo_Rifle_FMJ.jobString>Робить патрони rifle</MakeAmmo_Rifle_FMJ.jobString>
+
+  <MakeAmmo_Rifle_AP.label>зробити патрон rifle (Б) x500</MakeAmmo_Rifle_AP.label>
+  <MakeAmmo_Rifle_AP.description>Виготовити п'ятсот патронів rifle (Б)</MakeAmmo_Rifle_AP.description>
+  <MakeAmmo_Rifle_AP.jobString>Робить патрони rifle (Б)</MakeAmmo_Rifle_AP.jobString>
+
+  <MakeAmmo_Rifle_HP.label>зробити патрон rifle (Е) x500</MakeAmmo_Rifle_HP.label>
+  <MakeAmmo_Rifle_HP.description>Виготовити п'ятсот патронів rifle (Е)</MakeAmmo_Rifle_HP.description>
+  <MakeAmmo_Rifle_HP.jobString>Робить патрони rifle (Е)</MakeAmmo_Rifle_HP.jobString>
+
+  <MakeAmmo_Rifle_Incendiary.label>зробити патрон rifle (БЗ) x500</MakeAmmo_Rifle_Incendiary.label>
+  <MakeAmmo_Rifle_Incendiary.description>Виготовити п'ятсот патронів rifle (БЗ)</MakeAmmo_Rifle_Incendiary.description>
+  <MakeAmmo_Rifle_Incendiary.jobString>Робить патрони rifle (БЗ)</MakeAmmo_Rifle_Incendiary.jobString>
+
+  <MakeAmmo_Rifle_HE.label>зробити патрон rifle (HE) x500</MakeAmmo_Rifle_HE.label>
+  <MakeAmmo_Rifle_HE.description>Виготовити п'ятсот патронів rifle (HE)</MakeAmmo_Rifle_HE.description>
+  <MakeAmmo_Rifle_HE.jobString>Робить патрони rifle (HE)</MakeAmmo_Rifle_HE.jobString>
+
+  <MakeAmmo_Rifle_Sabot.label>зробити патрон rifle (Підкаліберний) x500</MakeAmmo_Rifle_Sabot.label>
+  <MakeAmmo_Rifle_Sabot.description>Виготовити п'ятсот патронів rifle (Підкаліберний)</MakeAmmo_Rifle_Sabot.description>
+  <MakeAmmo_Rifle_Sabot.jobString>Робить патрони rifle (Підкаліберний)</MakeAmmo_Rifle_Sabot.jobString>
+
+
+</LanguageData>

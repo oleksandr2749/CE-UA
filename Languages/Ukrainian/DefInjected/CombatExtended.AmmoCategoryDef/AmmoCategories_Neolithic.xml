@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Javelin.label>спис</Javelin.label>
+  <Javelin.description>A heavy steel tip attached to a long wooden pole, packing a very strong punch against scarcely armored targets.</Javelin.description>
+
+  <Kunai.label>кунай</Kunai.label>
+  <Kunai.description>Originally a Japanese farming instrument, similar in use to a hand-shovel, the kunai is a multi-purpose tool useful in both ranged and melee combat.</Kunai.description>
+
+  <StoneArrow.label>кам'яна стріла</StoneArrow.label>
+  <StoneArrow.labelShort>stone</StoneArrow.labelShort>
+  <StoneArrow.description>A sharpened stone is attached as an arrow head. Cuts exposed tissue fairly well but is ineffective against any kind of armor.</StoneArrow.description>
+
+  <SteelArrow.label>стальна стріла</SteelArrow.label>
+  <SteelArrow.labelShort>steel</SteelArrow.labelShort>
+  <SteelArrow.description>The arrow head is made from steel to enhance armor penetration.</SteelArrow.description>
+
+  <PlasteelArrow.label>пласталева стріла</PlasteelArrow.label>
+  <PlasteelArrow.labelShort>plasteel</PlasteelArrow.labelShort>
+  <PlasteelArrow.description>Fitted with a plasteel head to maximize armor penetration.</PlasteelArrow.description>
+
+
+  <!-- For Vanilla-Friendly Weapons Expansion -->
+
+  <StoneSlingBullet.label>кам'яна кулька плащи</StoneSlingBullet.label>
+  <StoneSlingBullet.labelShort>stone</StoneSlingBullet.labelShort>
+  <StoneSlingBullet.description>A streamlined stone designed to fly far and hit hard. Not particularly effective against armor.</StoneSlingBullet.description>
+
+  <SteelSlingBullet.label>стальна кулька плащи</SteelSlingBullet.label>
+  <SteelSlingBullet.labelShort>steel</SteelSlingBullet.labelShort>
+  <SteelSlingBullet.description>A refined sling bullet made out of steel to enhance armor penetration.</SteelSlingBullet.description>
+
+  <PlasteelSlingBullet.label>пласталева кулька плащи</PlasteelSlingBullet.label>
+  <PlasteelSlingBullet.labelShort>plasteel</PlasteelSlingBullet.labelShort>
+  <PlasteelSlingBullet.description>A highly-refined sling bullet made out of plasteel to maximize penetration.</PlasteelSlingBullet.description>
+
+  <StoneCrossbowBolt.label>кам'яний арбалетний болт</StoneCrossbowBolt.label>
+  <StoneCrossbowBolt.labelShort>stone</StoneCrossbowBolt.labelShort>
+  <StoneCrossbowBolt.description>A sharpened stone is attached to a wooden shaft. Cuts exposed tissue fairly well but isn't very effective against armor.</StoneCrossbowBolt.description>
+
+  <SteelCrossbowBolt.label>стальний арбалетний болт</SteelCrossbowBolt.label>
+  <SteelCrossbowBolt.labelShort>steel</SteelCrossbowBolt.labelShort>
+  <SteelCrossbowBolt.description>The head of the crossbow bolt is made from steel to enhance armor penetration.</SteelCrossbowBolt.description>
+
+  <PlasteelCrossbowBolt.label>пласталевий арбалетний болт</PlasteelCrossbowBolt.label>
+  <PlasteelCrossbowBolt.labelShort>plasteel</PlasteelCrossbowBolt.labelShort>
+  <PlasteelCrossbowBolt.description>The head of the crossbow bolt is made from plasteel to maximize armor penetration.</PlasteelCrossbowBolt.description>
+
+
+  <!-- Irregular Arrows -->
+
+  <VenomArrow.label>отруйна стріла</VenomArrow.label>
+  <VenomArrow.labelShort>venom</VenomArrow.labelShort>
+  <VenomArrow.description>The arrow head is made from steel and coated in toxin.</VenomArrow.description>
+
+  <FlameArrow.label>палаюча стріла</FlameArrow.label>
+  <FlameArrow.labelShort>flame</FlameArrow.labelShort>
+  <FlameArrow.description>Steel open cage arrowhead containing incendiary components for setting targets alight.</FlameArrow.description>
+
+  <VenomCrossbowBolt.label>отрийнуй арбалетний болт</VenomCrossbowBolt.label>
+  <VenomCrossbowBolt.labelShort>venom</VenomCrossbowBolt.labelShort>
+  <VenomCrossbowBolt.description>The head of the crossbow bolt is made from steel and coated in toxin.</VenomCrossbowBolt.description>
+
+  <FlameCrossbowBolt.label>палаючий арбалетний болт</FlameCrossbowBolt.label>
+  <FlameCrossbowBolt.labelShort>flame</FlameCrossbowBolt.labelShort>
+  <FlameCrossbowBolt.description>Steel open cage crossbow bolt head containing incendiary components for setting targets alight.</FlameCrossbowBolt.description>
+
+
+</LanguageData>

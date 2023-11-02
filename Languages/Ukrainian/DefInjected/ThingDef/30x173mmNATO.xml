@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_30x173mmNATO_AP.label>патрон 30x173мм (Б)</Ammo_30x173mmNATO_AP.label>
+  <Ammo_30x173mmNATO_AP.description>Large caliber cartridge used by autocannons.</Ammo_30x173mmNATO_AP.description>
+
+  <Ammo_30x173mmNATO_Incendiary.label>патрон 30x173мм (БЗ)</Ammo_30x173mmNATO_Incendiary.label>
+  <Ammo_30x173mmNATO_Incendiary.description>Large caliber cartridge used by autocannons.</Ammo_30x173mmNATO_Incendiary.description>
+
+  <Ammo_30x173mmNATO_HE.label>патрон 30x173мм (БФ)</Ammo_30x173mmNATO_HE.label>
+  <Ammo_30x173mmNATO_HE.description>Large caliber cartridge used by autocannons.</Ammo_30x173mmNATO_HE.description>
+
+  <Ammo_30x173mmNATO_Sabot.label>патрон 30x173мм (Підкаліберний)</Ammo_30x173mmNATO_Sabot.label>
+  <Ammo_30x173mmNATO_Sabot.description>Large caliber cartridge used by autocannons.</Ammo_30x173mmNATO_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_30x173mmNATO_AP.label>30x173mm NATO bullet (Б)</Bullet_30x173mmNATO_AP.label>
+  <Bullet_30x173mmNATO_Incendiary.label>30x173mm NATO bullet (БЗ)</Bullet_30x173mmNATO_Incendiary.label>
+  <Bullet_30x173mmNATO_HE.label>30x173mm NATO bullet (БФ)</Bullet_30x173mmNATO_HE.label>
+  <Bullet_30x173mmNATO_Sabot.label>30x173mm NATO bullet (Підкаліберний)</Bullet_30x173mmNATO_Sabot.label>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_40x53mmGrenade_HE.label>гранатометний снаряд 40x53мм (Фугасний)</Ammo_40x53mmGrenade_HE.label>
+  <Ammo_40x53mmGrenade_HE.description>High velocity grenade fired from mounted and crew-served grenade launchers.</Ammo_40x53mmGrenade_HE.description>
+
+  <Ammo_40x53mmGrenade_HE_TFuzed.label>гранатометний снаряд 40x53мм (Фугасний Time-Fuzed)</Ammo_40x53mmGrenade_HE_TFuzed.label>
+  <Ammo_40x53mmGrenade_HE_TFuzed.description>High velocity grenade fired from mounted and crew-served grenade launchers.</Ammo_40x53mmGrenade_HE_TFuzed.description>
+
+  <Ammo_40x53mmGrenade_HEDP.label>гранатометний снаряд 40x53мм (БФ)</Ammo_40x53mmGrenade_HEDP.label>
+  <Ammo_40x53mmGrenade_HEDP.description>High velocity grenade fired from mounted and crew-served grenade launchers.</Ammo_40x53mmGrenade_HEDP.description>
+
+  <Ammo_40x53mmGrenade_EMP.label>гранатометний снаряд 40x53мм (ЕМІ)</Ammo_40x53mmGrenade_EMP.label>
+  <Ammo_40x53mmGrenade_EMP.description>High velocity grenade fired from mounted and crew-served grenade launchers.</Ammo_40x53mmGrenade_EMP.description>
+
+  <Ammo_40x53mmGrenade_Smoke.label>гранатометний снаряд 40x53мм (Димовий)</Ammo_40x53mmGrenade_Smoke.label>
+  <Ammo_40x53mmGrenade_Smoke.description>High velocity grenade fired from mounted and crew-served grenade launchers.</Ammo_40x53mmGrenade_Smoke.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_40x53mmGrenade_HE.label>40x53mm grenade (Фугасний)</Bullet_40x53mmGrenade_HE.label>
+  <Bullet_40x53mmGrenade_HE_TFuzed.label>40x53mm grenade (Фугасний Time-Fuzed)</Bullet_40x53mmGrenade_HE_TFuzed.label>
+  <Bullet_40x53mmGrenade_HEDP.label>40x53mm grenade (БФ)</Bullet_40x53mmGrenade_HEDP.label>
+  <Bullet_40x53mmGrenade_EMP.label>40x53mm grenade (ЕМІ)</Bullet_40x53mmGrenade_EMP.label>
+  <Bullet_40x53mmGrenade_Smoke.label>40x53mm grenade (Димовий)</Bullet_40x53mmGrenade_Smoke.label>
+
+
+</LanguageData>

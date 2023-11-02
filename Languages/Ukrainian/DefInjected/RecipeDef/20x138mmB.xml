@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_20x138mmB_AP.label>зробити патрон 20x138mmB (Б) x200</MakeAmmo_20x138mmB_AP.label>
+  <MakeAmmo_20x138mmB_AP.description>Craft 200 20x138mmB (Б)</MakeAmmo_20x138mmB_AP.description>
+  <MakeAmmo_20x138mmB_AP.jobString>Робить патрони 20x138mmB (Б)</MakeAmmo_20x138mmB_AP.jobString>
+
+  <MakeAmmo_20x138mmB_Incendiary.label>зробити патрон 20x138mmB (БЗ) x200</MakeAmmo_20x138mmB_Incendiary.label>
+  <MakeAmmo_20x138mmB_Incendiary.description>Craft 200 20x138mmB (БЗ)</MakeAmmo_20x138mmB_Incendiary.description>
+  <MakeAmmo_20x138mmB_Incendiary.jobString>Робить патрони 20x138mmB (БЗ)</MakeAmmo_20x138mmB_Incendiary.jobString>
+
+  <MakeAmmo_20x138mmB_HE.label>зробити патрон 20x138mmB (БФ) x200</MakeAmmo_20x138mmB_HE.label>
+  <MakeAmmo_20x138mmB_HE.description>Craft 200 20x138mmB (БФ)</MakeAmmo_20x138mmB_HE.description>
+  <MakeAmmo_20x138mmB_HE.jobString>Робить патрони 20x138mmB (БФ)</MakeAmmo_20x138mmB_HE.jobString>
+
+  <MakeAmmo_20x138mmB_Sabot.label>зробити патрон 20x138mmB (Підкаліберний) x200</MakeAmmo_20x138mmB_Sabot.label>
+  <MakeAmmo_20x138mmB_Sabot.description>Craft 200 20x138mmB (Підкаліберний)</MakeAmmo_20x138mmB_Sabot.description>
+  <MakeAmmo_20x138mmB_Sabot.jobString>Робить патрони 20x138mmB (Підкаліберний)</MakeAmmo_20x138mmB_Sabot.jobString>
+
+
+</LanguageData>

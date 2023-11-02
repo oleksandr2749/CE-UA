@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_MortarGrenade.label>Make Mortar Grenade x25</MakeAmmo_MortarGrenade.label>
+  <MakeAmmo_MortarGrenade.description>Craft 25 Mortar Grenades</MakeAmmo_MortarGrenade.description>
+  <MakeAmmo_MortarGrenade.jobString>Робить патрони Mortar Grenades</MakeAmmo_MortarGrenade.jobString>
+
+
+</LanguageData>

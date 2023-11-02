@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tabs -->
+  <TabAttachments>Attachm.</TabAttachments>
+
+  <!-- Billing -->
+  <CE_MissinGunsmithingBench>Requires gunsmithing bench</CE_MissinGunsmithingBench>
+
+  <!-- Suppression -->
+  <CE_SuppressedMote>Suppressed!</CE_SuppressedMote>
+  <CE_HunkeringMote>Hunkering!</CE_HunkeringMote>
+  <CE_CrouchWalking>Suppressed (crouch-walking)</CE_CrouchWalking>
+
+  <!-- Aim/Fire modes -->
+  <CE_AutoFireLabel>Авто</CE_AutoFireLabel>
+  <CE_BurstFireLabel>Чнрга</CE_BurstFireLabel>
+  <CE_SingleFireLabel>Одиночний</CE_SingleFireLabel>
+  <CE_SnapshotLabel>Навскидь</CE_SnapshotLabel>
+  <CE_AimedShotLabel>Прицільно</CE_AimedShotLabel>
+  <CE_SuppressFireLabel>Пригнічуючи</CE_SuppressFireLabel>
+  <CE_HoldFireLabel>Припинити вогонь</CE_HoldFireLabel>
+  <CE_ToggleFireModeDesc>Перемикання режиму вогню.</CE_ToggleFireModeDesc>
+  <CE_ToggleAimModeDesc>Перемикання режиму прицілювання.</CE_ToggleAimModeDesc>
+
+  <!-- Bipod system -->
+  <CE_Bipod_Set_Up>Сошки встановлені</CE_Bipod_Set_Up>
+  <CE_Bipod_Not_Set_Up>Сошки не встанволені</CE_Bipod_Not_Set_Up>
+  <CE_Deploy_Bipod>Розкла сошки</CE_Deploy_Bipod>
+  <CE_Close_Bipod>Скласти сошки</CE_Close_Bipod>
+
+  <!-- Aiming system -->
+  <CE_MarkedForArtillery>Позначено для артилерії, термін дії закінчується в</CE_MarkedForArtillery>
+
+  <CE_VisibilityError>Похибка видимості</CE_VisibilityError>
+  <CE_SmokeDensity>Похибка задимлення</CE_SmokeDensity>
+  <CE_LeadError>Похибка супроводження</CE_LeadError>
+  <CE_RangeError>Похибка відстані</CE_RangeError>
+  <CE_Sway>Хитання зброї</CE_Sway>
+  <CE_Spread>Купчастість</CE_Spread>
+  <CE_MissRadius>Радіус промаху</CE_MissRadius>
+  <CE_IndirectFire>Непрямий вогонь</CE_IndirectFire>
+  <CE_CoverHeight>Висота укриття</CE_CoverHeight>
+  <CE_TargetHeight>Висота цілі</CE_TargetHeight>
+  <CE_TargetWidth>Ширина цілі</CE_TargetWidth>
+
+  <CE_EstimatedHitChance>Ймовірність влучання</CE_EstimatedHitChance>
+
+  <!-- Artillery -->
+  <CE_ArtilleryTarget_Distance>Дистанція: {0}/{1} клітин</CE_ArtilleryTarget_Distance>
+  <CE_ArtilleryTarget_Distance_Selections>Дистанція: {0} Клітин\nДіаметр: {1}/{2}</CE_ArtilleryTarget_Distance_Selections>
+  <CE_ArtilleryTarget_DestinationBeyondMaximumRange>Ціль знаходиться за межами максимальної дальності</CE_ArtilleryTarget_DestinationBeyondMaximumRange>
+  <CE_ArtilleryTarget_ClickToOrderAttack>Ціль:</CE_ArtilleryTarget_ClickToOrderAttack>
+  <CE_ArtilleryTarget_InvalidTarget>Невірна ціль</CE_ArtilleryTarget_InvalidTarget>
+  <CE_ArtilleryTarget_AttackingAllies>Ви впевнені, що хочете атакувати {0} ({1})?\n\nЦе розлютить {1} і вони можуть помститися вашій колонії!</CE_ArtilleryTarget_AttackingAllies>
+  <CE_ArtilleryTargetLabel>Атакувати плитку світу</CE_ArtilleryTargetLabel>
+  <CE_ArtilleryTargetDesc>Якщо вибрана плитка має карту, ви зможете вибрати ціль атаки в межах цієї карти.</CE_ArtilleryTargetDesc>
+  <CE_ArtilleryTarget_AlreadyDestroyed>Selected target already destroyed</CE_ArtilleryTarget_AlreadyDestroyed>
+
+  <!-- Marking -->
+  <CE_MarkingUnavailableReason>Персонаж не може позначати ціль для артилерії, тому що він знаходиться на карті, де немає артилерії, а для зв'язку з артилеристами йому потрібнен радіорюкзак.</CE_MarkingUnavailableReason>
+
+  <!-- Reloading -->
+  <CE_ReloadingEquipment>спорядження</CE_ReloadingEquipment>
+  <CE_ReloadingInventory>збегіається</CE_ReloadingInventory>
+  <CE_ReloadingGenericAmmo>набої</CE_ReloadingGenericAmmo>
+  <CE_ReloadingMote>Перезаряджаю {0}!</CE_ReloadingMote>
+  <CE_ReloadingTurretMote>Перезаряджаю терель {0}.</CE_ReloadingTurretMote>
+  <CE_MannedTurret>ручна турель</CE_MannedTurret>
+  <CE_AutoTurret>авто-турель</CE_AutoTurret>
+  <CE_UnloadLabel>Розрядити</CE_UnloadLabel>
+  <CE_ReloadLabel>Перезарядати</CE_ReloadLabel>
+  <CE_ReloadDesc>Перезарядити зброю.</CE_ReloadDesc>
+  <CE_TurretReloading>Перезаряджання</CE_TurretReloading>
+
+  <!-- Inventory -->
+  <CE_TakeFromOther_Equipping>Спорядити</CE_TakeFromOther_Equipping>
+  <CE_TakeFromOther_Taking>Взяти</CE_TakeFromOther_Taking>
+
+  <CE_CarriedWeight>Переносима вага</CE_CarriedWeight>
+  <CE_CarriedBulk>Переносимий об'єм</CE_CarriedBulk>
+  <CE_Encumbered>Обтяження</CE_Encumbered>
+  <CE_FinalModifier>Остаточний модифікатор</CE_FinalModifier>
+  <CE_InventoryFull>Інвентар заповнений</CE_InventoryFull>
+  <CE_PickUp>Підняти</CE_PickUp>
+  <CE_PickUpHalf>Взяти половину</CE_PickUpHalf>
+  <CE_CannotPickUp>Cannot pick up</CE_CannotPickUp>
+  <CE_OutOfAmmo>Скінчились патрони</CE_OutOfAmmo>
+  <CE_PutAway>Put away {0}</CE_PutAway>
+  <CE_ReloadApparel>Перезарядити {0} з {1}</CE_ReloadApparel>
+  <CE_TamerInventoryFull>не може приручувати з повним інвентарем</CE_TamerInventoryFull>
+  <CE_DropThingHaul>Викинути</CE_DropThingHaul>
+  <CE_CannotDropThing>Не можна викинути</CE_CannotDropThing>
+  <CE_CannotDropThingHaul>Не можна викинути</CE_CannotDropThingHaul>
+  <CE_CannotPutAway>Cannot put away {0}</CE_CannotPutAway>
+  <CE_CannotChangeEquipment>Цей персонаж відмовляється змінити спорядження.</CE_CannotChangeEquipment>
+  <CE_Eat>Consume</CE_Eat>
+  <CE_HoldTrackerForget>Stop Holding</CE_HoldTrackerForget>
+  <CE_ForcedHold>Forced Holding</CE_ForcedHold>
+
+  <!-- Medical -->
+  <CE_Stabilize>Стабілізувати {0}</CE_Stabilize>
+  <CE_CannotStabilize>Не вдається стабілізувати</CE_CannotStabilize>
+  <CE_NoMedicine>{0} не має ліків.</CE_NoMedicine>
+  <CE_StabilizeHediffDescription>Wound stabilized - bleeding rate multiplied by {0}. Stabilization effect will fully expire in {1} hours.</CE_StabilizeHediffDescription>
+
+  <!-- Info Box -->
+  <CE_MagazineSize>Magazine size</CE_MagazineSize>
+  <CE_ReloadTime>Reload time</CE_ReloadTime>
+  <CE_AmmoSet>Caliber</CE_AmmoSet>
+  <CE_FireModes>Fire modes</CE_FireModes>
+  <CE_AimedBurstCount>Burst shot count</CE_AimedBurstCount>
+  <CE_UsedBy>Used by</CE_UsedBy>
+  <CE_StatsReport_FlammabilityPrecipitation>Multiplier for precipitation</CE_StatsReport_FlammabilityPrecipitation>
+  <CE_StatsReport_FlammabilityApparelFactor>Apparel flammability</CE_StatsReport_FlammabilityApparelFactor>
+  <CE_StatsReport_FlammabilityApparelCoverage>Apparel coverage</CE_StatsReport_FlammabilityApparelCoverage>
+  <CE_StatsReport_BaseValue>Base value</CE_StatsReport_BaseValue>
+  <CE_mmRHA>mm RHA</CE_mmRHA>
+  <CE_MPa>MPa</CE_MPa>
+  <CE_cells>c</CE_cells>
+  <CE_degrees>°</CE_degrees>
+  <CE_meters>m</CE_meters>
+  <CE_WeaponPenetrationFactor>Weapon penetration factor</CE_WeaponPenetrationFactor>
+  <CE_AdjustedForWeapon>Adjusted for weapon</CE_AdjustedForWeapon>
+  <CE_DPS>Damage per second</CE_DPS>
+  <CE_DamageVariation>Damage variation</CE_DamageVariation>
+  <CE_FinalAverageDamage>Final average damage</CE_FinalAverageDamage>
+  <CE_WielderSkillLevel>Wielder skill level</CE_WielderSkillLevel>
+  <CE_Chance>chance</CE_Chance>
+  <CE_ChanceFactor>Chance factor</CE_ChanceFactor>
+
+  <!-- Alerts -->
+  <CE_ColonistHasShieldAndTwoHandedWeapon>Colonist has shield and two-handed weapon</CE_ColonistHasShieldAndTwoHandedWeapon>
+  <CE_ColonistHasShieldAndTwoHandedWeaponDesc>One of your colonists is carrying a shield and has a two-handed weapon equipped. They won't be able to attack unless they remove the shield or switch to another weapon.</CE_ColonistHasShieldAndTwoHandedWeaponDesc>
+
+  <!-- Letters -->
+  <CE_CounterShellingLabel>Counter shelling</CE_CounterShellingLabel>
+  <CE_MechWarningLabel>Strange signals</CE_MechWarningLabel>
+  <CE_MechWarningText>You have intercepted several strange electronic signals nearby. While harmless on their own, such signals are often an indicator of Mechanoid activity in the area.\n\nSome of the larger Mechanoids have heavy armor that will easily deflect all rifle fire. {0} says you will need something that can defeat at least {1}mm RHA, molotov cocktails which can sink into openings and overheat internal components or EMP weapons which can destroy their circuitry.</CE_MechWarningText>
+  <CE_MechWarningText_UnnamedColonist>One of your colonists</CE_MechWarningText_UnnamedColonist>
+
+  <!-- Special display stats -->
+  <CE_CoverHeightExplanation>Collision height of this object. Will stop gunfire up to this height and humanlikes will generally crouch down this low to shoot over it.\n\nIf higher than a shooter's shot height it can't be fired over. If higher than body height it will obscure entirely. For baseline, grown humans this means 1.5m shot/1.75m body height respectively.</CE_CoverHeightExplanation>
+
+  <!-- Tutorial popup -->
+  <CE_EnableTutorText>CE adds several tutorial entries on subjects such as how the armor mechanics work and how not to die from Centipedes. It is recommended first time players enable the learning helper.</CE_EnableTutorText>
+  <CE_EnableTutorEnable>Enable learning helper</CE_EnableTutorEnable>
+  <CE_EnableTutorDisable>I know the risk</CE_EnableTutorDisable>
+
+  <!-- Assign menu -->
+  <CE_UpdateLoadoutNow>Rearm</CE_UpdateLoadoutNow>
+
+  <!-- Uncompiled dev build popup -->
+  <CE_UncompiledDevBuild>Uncompiled CE dev build\n\nYou're running a development build of Combat Extended that is not intended for gameplay purposes, this will create a large amount of errors if you attempt to play a colony.\n\nEither download an official CE release from GitHub's Releases section, or if you need the latest development snapshot for testing purposes, get it from the link below.</CE_UncompiledDevBuild>
+  <CE_GetCompiledDevBuild>Get development snapshot</CE_GetCompiledDevBuild>
+  <CE_ContinueAnyway>Continue anyway</CE_ContinueAnyway>
+
+  <CE_UnpatchedWeapon>This weapon is yet patched for CE, while it will behave in vanilla way as fallback, please contact a patcher for compatibility patches.</CE_UnpatchedWeapon>
+  <CE_UnpatchedWeaponShort>Not patched for CE</CE_UnpatchedWeaponShort>
+
+</LanguageData>

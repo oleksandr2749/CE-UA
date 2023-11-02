@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_70mmAPKWS_HEAT.label>зробити патрон 70mm APKWS HEAT rockets x5</MakeAmmo_70mmAPKWS_HEAT.label>
+  <MakeAmmo_70mmAPKWS_HEAT.description>Craft 70mm APKWS HEAT rocket</MakeAmmo_70mmAPKWS_HEAT.description>
+  <MakeAmmo_70mmAPKWS_HEAT.jobString>Робить патрони 70mm APKWS HEAT rocket</MakeAmmo_70mmAPKWS_HEAT.jobString>
+
+
+</LanguageData>

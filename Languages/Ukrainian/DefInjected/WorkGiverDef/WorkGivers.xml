@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ReloadTurrets.label>reload turrets</ReloadTurrets.label>
+  <ReloadTurrets.verb>reload</ReloadTurrets.verb>
+  <ReloadTurrets.gerund>reloading</ReloadTurrets.gerund>
+
+  <DoBillsAmmoBench.label>зробити патрони</DoBillsAmmoBench.label>
+  <DoBillsAmmoBench.verb>Зробити патрони</DoBillsAmmoBench.verb>
+  <DoBillsAmmoBench.gerund>робить патрони на</DoBillsAmmoBench.gerund>
+
+  <ModifyWeapons.label>модифікувати зброю</ModifyWeapons.label>
+  <ModifyWeapons.verb>Модифікувати, додати обвіс до зброї</ModifyWeapons.verb>
+  <ModifyWeapons.gerund>модифікує зброю на</ModifyWeapons.gerund>
+
+
+</LanguageData>

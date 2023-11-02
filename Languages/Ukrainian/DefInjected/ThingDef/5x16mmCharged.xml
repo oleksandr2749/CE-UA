@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_5x16mmCharged.label>енергопатрон 5x16мм</Ammo_5x16mmCharged.label>
+  <Ammo_5x16mmCharged.description>Mechanoid-built charged shot ammo used in short range low caliber weapons.</Ammo_5x16mmCharged.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_5x16mmCharged.label>5x16mm Charged bullet</Bullet_5x16mmCharged.label>
+
+
+</LanguageData>

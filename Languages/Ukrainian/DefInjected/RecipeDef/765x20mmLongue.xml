@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_765x20mmLongue_FMJ.label>зробити патрон 7.65x20mm Longue x500</MakeAmmo_765x20mmLongue_FMJ.label>
+  <MakeAmmo_765x20mmLongue_FMJ.description>Виготовити п'ятсот патронів 7.65x20mm Longue</MakeAmmo_765x20mmLongue_FMJ.description>
+  <MakeAmmo_765x20mmLongue_FMJ.jobString>Робить патрони 7.65x20mm Longue</MakeAmmo_765x20mmLongue_FMJ.jobString>
+
+  <MakeAmmo_765x20mmLongue_AP.label>зробити патрон 7.65x20mm Longue (Б) x500</MakeAmmo_765x20mmLongue_AP.label>
+  <MakeAmmo_765x20mmLongue_AP.description>Виготовити п'ятсот патронів 7.65x20mm Longue (Б)</MakeAmmo_765x20mmLongue_AP.description>
+  <MakeAmmo_765x20mmLongue_AP.jobString>Робить патрони 7.65x20mm Longue (Б)</MakeAmmo_765x20mmLongue_AP.jobString>
+
+  <MakeAmmo_765x20mmLongue_HP.label>зробити патрон 7.65x20mm Longue (Е) x500</MakeAmmo_765x20mmLongue_HP.label>
+  <MakeAmmo_765x20mmLongue_HP.description>Виготовити п'ятсот патронів 7.65x20mm Longue (Е)</MakeAmmo_765x20mmLongue_HP.description>
+  <MakeAmmo_765x20mmLongue_HP.jobString>Робить патрони 7.65x20mm Longue (Е)</MakeAmmo_765x20mmLongue_HP.jobString>
+
+
+</LanguageData>

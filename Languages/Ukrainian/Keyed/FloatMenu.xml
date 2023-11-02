@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CE_NoAmmoAvailable>поблизу не виявлено необхідних боєприпасів</CE_NoAmmoAvailable>
+  <CE_TurretFull>турель повністю заряджена</CE_TurretFull>
+  <CE_TurretNonAllied>ворожа турель</CE_TurretNonAllied>
+  <CE_TurretAlreadyReloading>вже перезаряджає турель</CE_TurretAlreadyReloading>
+  <CE_TurretIsBurning>цтурель горить</CE_TurretIsBurning>
+
+</LanguageData>

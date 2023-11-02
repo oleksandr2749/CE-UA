@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_Shotgun_Buck.label>дробовий патрон (Buck)</Ammo_Shotgun_Buck.label>
+  <Ammo_Shotgun_Buck.description>Extremely common shotgun caliber used in almost every application, from hunting and riot control to military firearms.</Ammo_Shotgun_Buck.description>
+
+  <Ammo_Shotgun_Slug.label>дробовий патрон (Slug)</Ammo_Shotgun_Slug.label>
+  <Ammo_Shotgun_Slug.description>Extremely common shotgun caliber used in almost every application, from hunting and riot control to military firearms.</Ammo_Shotgun_Slug.description>
+
+  <Ammo_Shotgun_Beanbag.label>дробовий патрон (Bean)</Ammo_Shotgun_Beanbag.label>
+  <Ammo_Shotgun_Beanbag.description>Extremely common shotgun caliber used in almost every application, from hunting and riot control to military firearms.</Ammo_Shotgun_Beanbag.description>
+
+  <Ammo_Shotgun_ElectroSlug.label>дробовий патрон (ЕМІ)</Ammo_Shotgun_ElectroSlug.label>
+  <Ammo_Shotgun_ElectroSlug.description>Extremely common shotgun caliber used in almost every application, from hunting and riot control to military firearms.</Ammo_Shotgun_ElectroSlug.description>
+
+
+</LanguageData>

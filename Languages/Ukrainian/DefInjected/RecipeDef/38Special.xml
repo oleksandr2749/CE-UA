@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Standard manufacture -->
+
+  <MakeAmmo_38Special_FMJ.label>зробити патрон .38 Special x500</MakeAmmo_38Special_FMJ.label>
+  <MakeAmmo_38Special_FMJ.description>Виготовити п'ятсот патронів .38 Special</MakeAmmo_38Special_FMJ.description>
+  <MakeAmmo_38Special_FMJ.jobString>Робить патрони .38 Special</MakeAmmo_38Special_FMJ.jobString>
+
+  <MakeAmmo_38Special_AP.label>зробити патрон .38 Special (Б) x500</MakeAmmo_38Special_AP.label>
+  <MakeAmmo_38Special_AP.description>Виготовити п'ятсот патронів .38 Special (Б)</MakeAmmo_38Special_AP.description>
+  <MakeAmmo_38Special_AP.jobString>Робить патрони .38 Special (Б)</MakeAmmo_38Special_AP.jobString>
+
+  <MakeAmmo_38Special_HP.label>зробити патрон .38 Special (Е) x500</MakeAmmo_38Special_HP.label>
+  <MakeAmmo_38Special_HP.description>Виготовити п'ятсот патронів .38 Special (Е)</MakeAmmo_38Special_HP.description>
+  <MakeAmmo_38Special_HP.jobString>Робить патрони .38 Special (Е)</MakeAmmo_38Special_HP.jobString>
+
+
+</LanguageData>

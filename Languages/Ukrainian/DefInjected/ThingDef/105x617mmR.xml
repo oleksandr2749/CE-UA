@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_105x617mmRCannonShell_HEAT.label>снаряд 105x617мм (Кумулятивний)</Ammo_105x617mmRCannonShell_HEAT.label>
+  <Ammo_105x617mmRCannonShell_HEAT.description>High-caliber tank shell, typically used by heavily armored vehicles.</Ammo_105x617mmRCannonShell_HEAT.description>
+
+  <Ammo_105x617mmRCannonShell_HE.label>снаряд 105x617мм (Фугасний)</Ammo_105x617mmRCannonShell_HE.label>
+  <Ammo_105x617mmRCannonShell_HE.description>High-caliber tank shell, typically used by heavily armored vehicles.</Ammo_105x617mmRCannonShell_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_105x617mmRCannonShell_HEAT.label>105x617mmR cannon shell (Кумулятивний)</Bullet_105x617mmRCannonShell_HEAT.label>
+  <Bullet_105x617mmRCannonShell_HE.label>105x617mmR cannon shell (Фугасний)</Bullet_105x617mmRCannonShell_HE.label>
+
+
+</LanguageData>

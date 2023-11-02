@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_460SWMagnum_FMJ.label>патрон 11,5х46мм</Ammo_460SWMagnum_FMJ.label>
+  <Ammo_460SWMagnum_FMJ.description>Designed for big game hunting, this is one of the fastest handgun cartridges ever designed.</Ammo_460SWMagnum_FMJ.description>
+
+  <Ammo_460SWMagnum_AP.label>патрон 11,5х46мм (Б)</Ammo_460SWMagnum_AP.label>
+  <Ammo_460SWMagnum_AP.description>Designed for big game hunting, this is one of the fastest handgun cartridges ever designed.</Ammo_460SWMagnum_AP.description>
+
+  <Ammo_460SWMagnum_HP.label>патрон 11,5х46мм (Е)</Ammo_460SWMagnum_HP.label>
+  <Ammo_460SWMagnum_HP.description>Designed for big game hunting, this is one of the fastest handgun cartridges ever designed.</Ammo_460SWMagnum_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_460SWMagnum_FMJ.label>.460 Smith Wessen Magnum bullet</Bullet_460SWMagnum_FMJ.label>
+  <Bullet_460SWMagnum_AP.label>.460 Smith Wessen Magnum bullet (Б)</Bullet_460SWMagnum_AP.label>
+  <Bullet_460SWMagnum_HP.label>.460 Smith Wessen Magnum bullet (Е)</Bullet_460SWMagnum_HP.label>
+
+
+</LanguageData>

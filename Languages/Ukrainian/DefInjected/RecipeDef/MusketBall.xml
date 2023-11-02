@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_MusketBall.label>зробити патрон musket ball x100</MakeAmmo_MusketBall.label>
+  <MakeAmmo_MusketBall.description>Craft 100 musket ball</MakeAmmo_MusketBall.description>
+  <MakeAmmo_MusketBall.jobString>Робить патрони musket ball</MakeAmmo_MusketBall.jobString>
+
+
+</LanguageData>

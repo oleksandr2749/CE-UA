@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_300WinchesterMagnum_FMJ.label>зробити патрон .300 Winchester Magnum x200</MakeAmmo_300WinchesterMagnum_FMJ.label>
+  <MakeAmmo_300WinchesterMagnum_FMJ.description>Craft 200 .300 Winchester Magnum</MakeAmmo_300WinchesterMagnum_FMJ.description>
+  <MakeAmmo_300WinchesterMagnum_FMJ.jobString>Робить патрони .300 Winchester Magnum</MakeAmmo_300WinchesterMagnum_FMJ.jobString>
+
+  <MakeAmmo_300WinchesterMagnum_AP.label>зробити патрон .300 Winchester Magnum (Б) x200</MakeAmmo_300WinchesterMagnum_AP.label>
+  <MakeAmmo_300WinchesterMagnum_AP.description>Craft 200 .300 Winchester Magnum (Б)</MakeAmmo_300WinchesterMagnum_AP.description>
+  <MakeAmmo_300WinchesterMagnum_AP.jobString>Робить патрони .300 Winchester Magnum (Б)</MakeAmmo_300WinchesterMagnum_AP.jobString>
+
+  <MakeAmmo_300WinchesterMagnum_Incendiary.label>зробити патрон .300 Winchester Magnum (БЗ) x200</MakeAmmo_300WinchesterMagnum_Incendiary.label>
+  <MakeAmmo_300WinchesterMagnum_Incendiary.description>Craft 200 .300 Winchester Magnum (БЗ)</MakeAmmo_300WinchesterMagnum_Incendiary.description>
+  <MakeAmmo_300WinchesterMagnum_Incendiary.jobString>Робить патрони .300 Winchester Magnum (БЗ)</MakeAmmo_300WinchesterMagnum_Incendiary.jobString>
+
+  <MakeAmmo_300WinchesterMagnum_HE.label>зробити патрон .300 Winchester Magnum (БФ) x200</MakeAmmo_300WinchesterMagnum_HE.label>
+  <MakeAmmo_300WinchesterMagnum_HE.description>Craft 200 .300 Winchester Magnum (БФ)</MakeAmmo_300WinchesterMagnum_HE.description>
+  <MakeAmmo_300WinchesterMagnum_HE.jobString>Робить патрони .300 Winchester Magnum (БФ)</MakeAmmo_300WinchesterMagnum_HE.jobString>
+
+  <MakeAmmo_300WinchesterMagnum_Sabot.label>зробити патрон .300 Winchester Magnum (Підкаліберний) x200</MakeAmmo_300WinchesterMagnum_Sabot.label>
+  <MakeAmmo_300WinchesterMagnum_Sabot.description>Craft 200 .300 Winchester Magnum (Підкаліберний)</MakeAmmo_300WinchesterMagnum_Sabot.description>
+  <MakeAmmo_300WinchesterMagnum_Sabot.jobString>Робить патрони .300 Winchester Magnum (Підкаліберний)</MakeAmmo_300WinchesterMagnum_Sabot.jobString>
+
+
+</LanguageData>

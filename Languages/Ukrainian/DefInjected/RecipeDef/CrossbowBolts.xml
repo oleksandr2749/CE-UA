@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_CrossbowBolt_Stone.label>зробити патрон stone crossbow bolts x10</MakeAmmo_CrossbowBolt_Stone.label>
+  <MakeAmmo_CrossbowBolt_Stone.description>Craft 10 stone crossbow bolt</MakeAmmo_CrossbowBolt_Stone.description>
+  <MakeAmmo_CrossbowBolt_Stone.jobString>Робить патрони stone crossbow bolt</MakeAmmo_CrossbowBolt_Stone.jobString>
+
+  <MakeAmmo_CrossbowBolt_Steel.label>зробити патрон steel crossbow bolts x10</MakeAmmo_CrossbowBolt_Steel.label>
+  <MakeAmmo_CrossbowBolt_Steel.description>Craft 10 steel crossbow bolt</MakeAmmo_CrossbowBolt_Steel.description>
+  <MakeAmmo_CrossbowBolt_Steel.jobString>Робить патрони steel crossbow bolt</MakeAmmo_CrossbowBolt_Steel.jobString>
+
+  <MakeAmmo_CrossbowBolt_Plasteel.label>зробити патрон plasteel crossbow bolts x10</MakeAmmo_CrossbowBolt_Plasteel.label>
+  <MakeAmmo_CrossbowBolt_Plasteel.description>Craft 10 plasteel crossbow bolt</MakeAmmo_CrossbowBolt_Plasteel.description>
+  <MakeAmmo_CrossbowBolt_Plasteel.jobString>Робить патрони plasteel crossbow bolt</MakeAmmo_CrossbowBolt_Plasteel.jobString>
+
+  <MakeAmmo_CrossbowBolt_Venom.label>зробити патрон venom crossbow bolts x10</MakeAmmo_CrossbowBolt_Venom.label>
+  <MakeAmmo_CrossbowBolt_Venom.description>Craft 10 venom crossbow bolt</MakeAmmo_CrossbowBolt_Venom.description>
+  <MakeAmmo_CrossbowBolt_Venom.jobString>Робить патрони venom crossbow bolt</MakeAmmo_CrossbowBolt_Venom.jobString>
+
+  <MakeAmmo_CrossbowBolt_Flame.label>зробити патрон flame crossbow bolts x10</MakeAmmo_CrossbowBolt_Flame.label>
+  <MakeAmmo_CrossbowBolt_Flame.description>Craft 10 flame crossbow bolt</MakeAmmo_CrossbowBolt_Flame.description>
+  <MakeAmmo_CrossbowBolt_Flame.jobString>Робить патрони flame crossbow bolt</MakeAmmo_CrossbowBolt_Flame.jobString>
+
+
+</LanguageData>

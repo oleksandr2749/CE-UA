@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_57x307mmR_AP.label>зробити патрон 57x307mmR (Б) shells x10</MakeAmmo_57x307mmR_AP.label>
+  <MakeAmmo_57x307mmR_AP.description>Craft 10 57x307mmR (Б) shell</MakeAmmo_57x307mmR_AP.description>
+  <MakeAmmo_57x307mmR_AP.jobString>Робить патрони 57x307mmR (Б) shell</MakeAmmo_57x307mmR_AP.jobString>
+
+  <MakeAmmo_57x307mmR_HE.label>зробити патрон 57x307mmR (HE) x10</MakeAmmo_57x307mmR_HE.label>
+  <MakeAmmo_57x307mmR_HE.description>Craft 10 57x307mmR (HE)</MakeAmmo_57x307mmR_HE.description>
+  <MakeAmmo_57x307mmR_HE.jobString>Робить патрони 57x307mmR (HE)</MakeAmmo_57x307mmR_HE.jobString>
+
+
+</LanguageData>

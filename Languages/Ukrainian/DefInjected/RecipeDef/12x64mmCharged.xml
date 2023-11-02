@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_12x64mmCharged.label>зробити патрон 12x64mm Charged x200</MakeAmmo_12x64mmCharged.label>
+  <MakeAmmo_12x64mmCharged.description>Craft 200 12x64mm Charged</MakeAmmo_12x64mmCharged.description>
+  <MakeAmmo_12x64mmCharged.jobString>Робить патрони 12x64mm Charged</MakeAmmo_12x64mmCharged.jobString>
+
+
+</LanguageData>

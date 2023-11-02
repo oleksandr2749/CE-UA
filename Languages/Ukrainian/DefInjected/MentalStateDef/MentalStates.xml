@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CombatFrenzy.label>бойове шаленство</CombatFrenzy.label>
+  <CombatFrenzy.beginLetter>{0} {0_gender ? ошаленів: ошаленівла} від пригнічення!</CombatFrenzy.beginLetter>
+  <CombatFrenzy.beginLetterLabel>шаленство</CombatFrenzy.beginLetterLabel>
+  <CombatFrenzy.recoveryMessage>бойовее шаленство {0} закінчилось.</CombatFrenzy.recoveryMessage>
+  <CombatFrenzy.baseInspectLine>Психічний стан: Бойове шаленство</CombatFrenzy.baseInspectLine>
+
+  <ShellShock.label>контузія</ShellShock.label>
+  <ShellShock.beginLetter>{0} {0_gender ? отримав: отримала} контузію!</ShellShock.beginLetter>
+  <ShellShock.beginLetterLabel>контузія</ShellShock.beginLetterLabel>
+  <ShellShock.recoveryMessage>контузія {0} проходить.</ShellShock.recoveryMessage>
+  <ShellShock.baseInspectLine>Психічний стан: Контузія</ShellShock.baseInspectLine>
+
+
+</LanguageData>

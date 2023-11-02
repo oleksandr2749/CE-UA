@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_65x50mmSRArisaka_FMJ.label>зробити патрон 6.5x50mmSR Arisaka x500</MakeAmmo_65x50mmSRArisaka_FMJ.label>
+  <MakeAmmo_65x50mmSRArisaka_FMJ.description>Виготовити п'ятсот патронів 6.5x50mmSR Arisaka</MakeAmmo_65x50mmSRArisaka_FMJ.description>
+  <MakeAmmo_65x50mmSRArisaka_FMJ.jobString>Робить патрони 6.5x50mmSR Arisaka</MakeAmmo_65x50mmSRArisaka_FMJ.jobString>
+
+  <MakeAmmo_65x50mmSRArisaka_AP.label>зробити патрон 6.5x50mmSR Arisaka (Б) x500</MakeAmmo_65x50mmSRArisaka_AP.label>
+  <MakeAmmo_65x50mmSRArisaka_AP.description>Виготовити п'ятсот патронів 6.5x50mmSR Arisaka (Б)</MakeAmmo_65x50mmSRArisaka_AP.description>
+  <MakeAmmo_65x50mmSRArisaka_AP.jobString>Робить патрони 6.5x50mmSR Arisaka (Б)</MakeAmmo_65x50mmSRArisaka_AP.jobString>
+
+  <MakeAmmo_65x50mmSRArisaka_HP.label>зробити патрон 6.5x50mmSR Arisaka (Е) x500</MakeAmmo_65x50mmSRArisaka_HP.label>
+  <MakeAmmo_65x50mmSRArisaka_HP.description>Виготовити п'ятсот патронів 6.5x50mmSR Arisaka (Е)</MakeAmmo_65x50mmSRArisaka_HP.description>
+  <MakeAmmo_65x50mmSRArisaka_HP.jobString>Робить патрони 6.5x50mmSR Arisaka (Е)</MakeAmmo_65x50mmSRArisaka_HP.jobString>
+
+  <MakeAmmo_65x50mmSRArisaka_Incendiary.label>зробити патрон 6.5x50mmSR (БЗ) x500</MakeAmmo_65x50mmSRArisaka_Incendiary.label>
+  <MakeAmmo_65x50mmSRArisaka_Incendiary.description>Виготовити п'ятсот патронів 6.5x50mmSR (БЗ)</MakeAmmo_65x50mmSRArisaka_Incendiary.description>
+  <MakeAmmo_65x50mmSRArisaka_Incendiary.jobString>Робить патрони 6.5x50mmSR (БЗ)</MakeAmmo_65x50mmSRArisaka_Incendiary.jobString>
+
+  <MakeAmmo_65x50mmSRArisaka_HE.label>зробити патрон 6.5x50mmSR (БФ) x500</MakeAmmo_65x50mmSRArisaka_HE.label>
+  <MakeAmmo_65x50mmSRArisaka_HE.description>Виготовити п'ятсот патронів 6.5x50mmSR (БФ)</MakeAmmo_65x50mmSRArisaka_HE.description>
+  <MakeAmmo_65x50mmSRArisaka_HE.jobString>Робить патрони 6.5x50mmSR (БФ)</MakeAmmo_65x50mmSRArisaka_HE.jobString>
+
+  <MakeAmmo_65x50mmSRArisaka_Sabot.label>зробити патрон 6.5x50mmSR (Підкаліберний) x500</MakeAmmo_65x50mmSRArisaka_Sabot.label>
+  <MakeAmmo_65x50mmSRArisaka_Sabot.description>Виготовити п'ятсот патронів 6.5x50mmSR (Підкаліберний)</MakeAmmo_65x50mmSRArisaka_Sabot.description>
+  <MakeAmmo_65x50mmSRArisaka_Sabot.jobString>Робить патрони 6.5x50mmSR (Підкаліберний)</MakeAmmo_65x50mmSRArisaka_Sabot.jobString>
+
+
+</LanguageData>

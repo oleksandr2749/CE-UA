@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_50Beowulf_FMJ.label>зробити патрон .50 Beowulf x500</MakeAmmo_50Beowulf_FMJ.label>
+  <MakeAmmo_50Beowulf_FMJ.description>Виготовити п'ятсот патронів .50 Beowulf</MakeAmmo_50Beowulf_FMJ.description>
+  <MakeAmmo_50Beowulf_FMJ.jobString>Робить патрони .50 Beowulf</MakeAmmo_50Beowulf_FMJ.jobString>
+
+  <MakeAmmo_50Beowulf_AP.label>зробити патрон .50 Beowulf (Б) x500</MakeAmmo_50Beowulf_AP.label>
+  <MakeAmmo_50Beowulf_AP.description>Виготовити п'ятсот патронів .50 Beowulf (Б)</MakeAmmo_50Beowulf_AP.description>
+  <MakeAmmo_50Beowulf_AP.jobString>Робить патрони .50 Beowulf (Б)</MakeAmmo_50Beowulf_AP.jobString>
+
+  <MakeAmmo_50Beowulf_HP.label>зробити патрон .50 Beowulf (Е) x500</MakeAmmo_50Beowulf_HP.label>
+  <MakeAmmo_50Beowulf_HP.description>Виготовити п'ятсот патронів .50 Beowulf (Е)</MakeAmmo_50Beowulf_HP.description>
+  <MakeAmmo_50Beowulf_HP.jobString>Робить патрони .50 Beowulf (Е)</MakeAmmo_50Beowulf_HP.jobString>
+
+  <MakeAmmo_50Beowulf_Incendiary.label>зробити патрон .50 Beowulf (БЗ) x500</MakeAmmo_50Beowulf_Incendiary.label>
+  <MakeAmmo_50Beowulf_Incendiary.description>Виготовити п'ятсот патронів .50 Beowulf (БЗ)</MakeAmmo_50Beowulf_Incendiary.description>
+  <MakeAmmo_50Beowulf_Incendiary.jobString>Робить патрони .50 Beowulf (БЗ)</MakeAmmo_50Beowulf_Incendiary.jobString>
+
+  <MakeAmmo_50Beowulf_HE.label>зробити патрон .50 Beowulf (БФ) x500</MakeAmmo_50Beowulf_HE.label>
+  <MakeAmmo_50Beowulf_HE.description>Виготовити п'ятсот патронів .50 Beowulf (БФ)</MakeAmmo_50Beowulf_HE.description>
+  <MakeAmmo_50Beowulf_HE.jobString>Робить патрони .50 Beowulf (БФ)</MakeAmmo_50Beowulf_HE.jobString>
+
+  <MakeAmmo_50Beowulf_Sabot.label>зробити патрон .50 Beowulf (Підкаліберний) x500</MakeAmmo_50Beowulf_Sabot.label>
+  <MakeAmmo_50Beowulf_Sabot.description>Виготовити п'ятсот патронів .50 Beowulf (Підкаліберний)</MakeAmmo_50Beowulf_Sabot.description>
+  <MakeAmmo_50Beowulf_Sabot.jobString>Робить патрони .50 Beowulf (Підкаліберний)</MakeAmmo_50Beowulf_Sabot.jobString>
+
+
+</LanguageData>

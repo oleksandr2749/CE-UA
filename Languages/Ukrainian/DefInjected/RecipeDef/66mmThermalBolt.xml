@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_66mmThermalBolt_Incendiary.label>зробити патрон 66mm Thermal Bolt x5</MakeAmmo_66mmThermalBolt_Incendiary.label>
+  <MakeAmmo_66mmThermalBolt_Incendiary.description>Craft 5 66mm Thermal Bolt</MakeAmmo_66mmThermalBolt_Incendiary.description>
+  <MakeAmmo_66mmThermalBolt_Incendiary.jobString>Робить патрони 66mm Thermal Bolt</MakeAmmo_66mmThermalBolt_Incendiary.jobString>
+
+
+</LanguageData>

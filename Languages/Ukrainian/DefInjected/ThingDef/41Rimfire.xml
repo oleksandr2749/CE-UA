@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_41Rimfire_FMJ.label>патрон 10х12мм</Ammo_41Rimfire_FMJ.label>
+  <Ammo_41Rimfire_FMJ.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_41Rimfire_FMJ.description>
+
+  <Ammo_41Rimfire_AP.label>патрон 10х12мм (Б)</Ammo_41Rimfire_AP.label>
+  <Ammo_41Rimfire_AP.description>Ultra-light cartridge for use in derringer pistols.</Ammo_41Rimfire_AP.description>
+
+  <Ammo_41Rimfire_HP.label>патрон 10х12мм (Е)</Ammo_41Rimfire_HP.label>
+  <Ammo_41Rimfire_HP.description>Ultra-light cartridge for use in derringer pistols.</Ammo_41Rimfire_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_41Rimfire_FMJ.label>.41 Rimfire bullet</Bullet_41Rimfire_FMJ.label>
+  <Bullet_41Rimfire_AP.label>.41 Rimfire bullet (Б)</Bullet_41Rimfire_AP.label>
+  <Bullet_41Rimfire_HP.label>.41 Rimfire bullet (Е)</Bullet_41Rimfire_HP.label>
+
+
+</LanguageData>

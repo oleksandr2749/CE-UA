@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Charged.label>енергозаряд</Charged.label>
+  <Charged.description>Покриття із заряджених частинок однаковою ефективний проти броні та тіла.</Charged.description>
+
+  <ChargedAP.label>концентрований енергозаряд</ChargedAP.label>
+  <ChargedAP.labelShort>conc.</ChargedAP.labelShort>
+  <ChargedAP.description>Фокусує заряджені частинки на наконечнику кулі для кращої бронебійності ціною зменшення зупиняючої здатності.</ChargedAP.description>
+
+  <Ionized.label>іонізуючий енергозаряд</Ionized.label>
+  <Ionized.labelShort>ion</Ionized.labelShort>
+  <Ionized.description>ІЕЗ розроблений спеціально для боротьби з механоїдами, він ствроє електричний мікроудар, що тимчасово виводить з ладу електичні системи.</Ionized.description>
+
+  <IncendiaryFuel.label>запальний</IncendiaryFuel.label>
+  <IncendiaryFuel.description>Наповнений запалювальною речовиною, що спалахує при влучанні.</IncendiaryFuel.description>
+
+  <NapalmFuel.label>желейне хімпаливо</NapalmFuel.label>
+  <NapalmFuel.description>Легкозаймиста рідина на основі хімічного палива.</NapalmFuel.description>
+
+  <JelliedPrometheumFuel.label>желейний прометелій</JelliedPrometheumFuel.label>
+  <JelliedPrometheumFuel.description>Самозаймається при контакті з повітрям, прилипає до шкіри та просочується в отвори, спалюючи навіть механоїдів.</JelliedPrometheumFuel.description>
+
+  <ThermobaricFuel.label>термобаричний</ThermobaricFuel.label>
+  <ThermobaricFuel.description>Наповнений запальним аерозолем, що спричиняє потужний вибух і запалює легкозаймисті матеріали.</ThermobaricFuel.description>
+
+  <FoamFuel.label>піна</FoamFuel.label>
+  <FoamFuel.description>Спеціальний патрон, призначений для гасіння пожежі.</FoamFuel.description>
+
+  <Antigrain.label>antigrain warhead</Antigrain.label>
+  <Antigrain.description>Крихітна ультра-технологічна боєголовка, яку зазвичай використовують космічні кораблі або бойові роботи у сяйвосвітах. Працюючи від крупинки антиматерії, вона здатна утворити потужний вибух і пожежу.</Antigrain.description>
+
+
+  <!-- For Vanilla-Friendly Weapons Expansion -->
+
+  <RadiationIonising.label>радіоактивний (іонізуючий)</RadiationIonising.label>
+  <RadiationIonising.labelShort>stone</RadiationIonising.labelShort>
+  <RadiationIonising.description>Містить іонізуюче гамма-випромінювання, яке сильно погіршує свідомість, і є канцерогеном.</RadiationIonising.description>
+
+
+  <!-- For Forsakens -->
+
+  <ForsakenArrow.label>forsaken arrow</ForsakenArrow.label>
+  <ForsakenArrow.labelShort>forsaken</ForsakenArrow.labelShort>
+  <ForsakenArrow.description>Designed to be fired from a forsaken bow.</ForsakenArrow.description>
+
+
+  <!-- For Glitter Tech -->
+
+  <Plasma.label>плазма</Plasma.label>
+  <Plasma.labelShort>plasma</Plasma.labelShort>
+  <Plasma.description>Високоенергетичний іонізований газ, здатний спричиняти до високотемпературного вибуху.</Plasma.description>
+
+  <RailgunSabot.label>рейкотрон підкаліберний</RailgunSabot.label>
+  <RailgunSabot.labelShort>Sabot</RailgunSabot.labelShort>
+  <RailgunSabot.description>Використовує спеціальний піддон для стрільби снарядами меншого розміру з більшою початковою швидкістю, що значно покращує бронебійність.</RailgunSabot.description>
+
+
+  <!-- For Misc TurretBase -->
+
+  <NanobotsMT.label>nanobots (MT)</NanobotsMT.label>
+  <NanobotsMT.description>The nanobots inside this projectile will create a micro-turret near the place of impact.</NanobotsMT.description>
+
+
+</LanguageData>

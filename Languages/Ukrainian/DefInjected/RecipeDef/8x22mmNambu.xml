@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_8x22mmNambu_FMJ.label>зробити патрон 8x22мм x500</MakeAmmo_8x22mmNambu_FMJ.label>
+  <MakeAmmo_8x22mmNambu_FMJ.description>Виготовити п'ятсот патронів 8x22мм</MakeAmmo_8x22mmNambu_FMJ.description>
+  <MakeAmmo_8x22mmNambu_FMJ.jobString>Робить патрони 8x22мм</MakeAmmo_8x22mmNambu_FMJ.jobString>
+
+  <MakeAmmo_8x22mmNambu_AP.label>зробити патрон 8x22мм (Б) x500</MakeAmmo_8x22mmNambu_AP.label>
+  <MakeAmmo_8x22mmNambu_AP.description>Виготовити п'ятсот патронів 8x22мм (Б)</MakeAmmo_8x22mmNambu_AP.description>
+  <MakeAmmo_8x22mmNambu_AP.jobString>Робить патрони 8x22мм (Б)</MakeAmmo_8x22mmNambu_AP.jobString>
+
+  <MakeAmmo_8x22mmNambu_HP.label>зробити патрон 8x22мм (Е) x500</MakeAmmo_8x22mmNambu_HP.label>
+  <MakeAmmo_8x22mmNambu_HP.description>Виготовити п'ятсот патронів 8x22мм (Е)</MakeAmmo_8x22mmNambu_HP.description>
+  <MakeAmmo_8x22mmNambu_HP.jobString>Робить патрони 8x22мм (Е)</MakeAmmo_8x22mmNambu_HP.jobString>
+
+
+</LanguageData>

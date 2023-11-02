@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CE_TurretHeavyWeapons.label>важка зброя</CE_TurretHeavyWeapons.label>
+  <CE_TurretHeavyWeapons.description>Allows you to assemble high-caliber weapons, automatic grenade launchers and artillery.</CE_TurretHeavyWeapons.description>
+
+  <CE_HeavyTurret.label>важкі автоматичні турелі</CE_HeavyTurret.label>
+  <CE_HeavyTurret.description>Learn to construct heavy auto-turrets.</CE_HeavyTurret.description>
+
+  <CE_ChargeTurret.label>енергетичні бластерні турелі</CE_ChargeTurret.label>
+  <CE_ChargeTurret.description>Learn to construct charge blaster turrets.</CE_ChargeTurret.description>
+
+
+</LanguageData>

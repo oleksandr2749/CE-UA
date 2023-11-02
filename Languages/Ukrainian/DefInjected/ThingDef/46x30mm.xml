@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_46x30mm_FMJ.label>патрон 4,5x30мм</Ammo_46x30mm_FMJ.label>
+  <Ammo_46x30mm_FMJ.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_46x30mm_FMJ.description>
+
+  <Ammo_46x30mm_AP.label>патрон 4,5x30мм (Б)</Ammo_46x30mm_AP.label>
+  <Ammo_46x30mm_AP.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_46x30mm_AP.description>
+
+  <Ammo_46x30mm_HP.label>патрон 4,5x30мм (Е)</Ammo_46x30mm_HP.label>
+  <Ammo_46x30mm_HP.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_46x30mm_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_46x30mm_FMJ.label>4.6x30mm bullet</Bullet_46x30mm_FMJ.label>
+  <Bullet_46x30mm_AP.label>4.6x30mm bullet (Б)</Bullet_46x30mm_AP.label>
+  <Bullet_46x30mm_HP.label>4.6x30mm bullet (Е)</Bullet_46x30mm_HP.label>
+
+
+</LanguageData>

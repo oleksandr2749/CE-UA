@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_45Colt_FMJ.label>патрон 10х33мм</Ammo_45Colt_FMJ.label>
+  <Ammo_45Colt_FMJ.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_45Colt_FMJ.description>
+
+  <Ammo_45Colt_AP.label>патрон 10х33мм (Б)</Ammo_45Colt_AP.label>
+  <Ammo_45Colt_AP.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_45Colt_AP.description>
+
+  <Ammo_45Colt_HP.label>патрон 10х33мм (Е)</Ammo_45Colt_HP.label>
+  <Ammo_45Colt_HP.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_45Colt_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_45Colt_FMJ.label>.45 Colt bullet</Bullet_45Colt_FMJ.label>
+  <Bullet_45Colt_AP.label>.45 Colt bullet (Б)</Bullet_45Colt_AP.label>
+  <Bullet_45Colt_HP.label>.45 Colt bullet (Е)</Bullet_45Colt_HP.label>
+
+
+  <!-- High velocity -->
+
+  <Bullet_45Colt_HV_FMJ.label>.45 Colt bullet</Bullet_45Colt_HV_FMJ.label>
+  <Bullet_45Colt_HV_AP.label>.45 Colt bullet (Б)</Bullet_45Colt_HV_AP.label>
+  <Bullet_45Colt_HV_HP.label>.45 Colt bullet (Е)</Bullet_45Colt_HV_HP.label>
+
+
+</LanguageData>

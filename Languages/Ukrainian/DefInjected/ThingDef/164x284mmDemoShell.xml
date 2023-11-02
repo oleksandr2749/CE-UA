@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_164x284mmDemo.label>снаряд 164x284мм</Ammo_164x284mmDemo.label>
+  <Ammo_164x284mmDemo.description>A high-caliber, low-velocity mechanoid demolition shell designed to destroy fortifications and structures.</Ammo_164x284mmDemo.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_164x284mmDemo.label>164x284mm demolition shell</Bullet_164x284mmDemo.label>
+  <Bullet_164x284mmDemo_ASA.label>164x284mm demolition shell</Bullet_164x284mmDemo_ASA.label>
+  <Bullet_164x284mmDemo_ASB.label>164x284mm demolition shell</Bullet_164x284mmDemo_ASB.label>
+
+
+</LanguageData>

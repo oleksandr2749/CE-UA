@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CE_DescDamage>Шкода</CE_DescDamage>
+  <CE_DescBaseDamage>Базова шкода</CE_DescBaseDamage>
+  <CE_DescExplosionRadius>Радіус вибуху</CE_DescExplosionRadius>
+  <CE_DescSecondaryExplosion>Вторинний вибух</CE_DescSecondaryExplosion>
+  <CE_DescArmorPenetration>Бронебійність</CE_DescArmorPenetration>
+  <CE_DescSharpPenetration>Різане проникненя</CE_DescSharpPenetration>
+  <CE_DescBluntPenetration>Тупе проникнення</CE_DescBluntPenetration>
+  <CE_DescPelletCount>Кількість дробі</CE_DescPelletCount>
+  <CE_DescSpreadMult>Фактор покриття</CE_DescSpreadMult>
+  <CE_DescFragments>Фрагменти</CE_DescFragments>
+
+  <CE_TravelingShell_Description>Запущено з {0} ({1}) в {2} ({3})</CE_TravelingShell_Description>
+  <CE_EnemyInfluenced>Ворожий вплив</CE_EnemyInfluenced>
+  <CE_FactionRecord_Explanation_Effects>Ефектки:</CE_FactionRecord_Explanation_Effects>
+  <CE_FactionRecord_Explanation_RaidEmbargo>Запобігли рейдам на {0} днів</CE_FactionRecord_Explanation_RaidEmbargo>
+  <CE_FactionRecord_Explanation_Strength>Strength affected by x{0} for {1} days</CE_FactionRecord_Explanation_Strength>
+  <CE_Multiplier>Множник:</CE_Multiplier>
+  <CE_SetValPartial>Значення:</CE_SetValPartial>
+
+  <CE_FactionRecord_Explanation_None>{0} was influenced by an unknown cause</CE_FactionRecord_Explanation_None>
+  <CE_FactionRecord_Explanation_LeaderKilled>{0} leader died in a major blow</CE_FactionRecord_Explanation_LeaderKilled>
+  <CE_FactionRecord_Explanation_SettlementDestroyed>Settlement belonging to {0} was destroyed</CE_FactionRecord_Explanation_SettlementDestroyed>
+  <CE_FactionRecord_Explanation_SiteDestroyed>Site belonging to {0} was destroyed</CE_FactionRecord_Explanation_SiteDestroyed>
+  <CE_FactionRecord_Explanation_EnemyWeakened>Strengthened after an enemy of {0} was weakened</CE_FactionRecord_Explanation_EnemyWeakened>
+
+  <CE_Long_Range_Radio_Desc>Чи можна використовувати цей елемент для виявлення артилерійського вогню між картами.</CE_Long_Range_Radio_Desc>
+
+</LanguageData>

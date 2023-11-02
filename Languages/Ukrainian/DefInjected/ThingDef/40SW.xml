@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_40SW_FMJ.label>патрон 10х21,5мм</Ammo_40SW_FMJ.label>
+  <Ammo_40SW_FMJ.description>A pistol cartridge designed to match the performance of .38 Special +P in an automatic.</Ammo_40SW_FMJ.description>
+
+  <Ammo_40SW_AP.label>патрон 10х21,5мм (Б)</Ammo_40SW_AP.label>
+  <Ammo_40SW_AP.description>A pistol cartridge designed to match the performance of .38 Special +P in an automatic.</Ammo_40SW_AP.description>
+
+  <Ammo_40SW_HP.label>патрон 10х21,5мм (Е)</Ammo_40SW_HP.label>
+  <Ammo_40SW_HP.description>A pistol cartridge designed to match the performance of .38 Special +P in an automatic.</Ammo_40SW_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_40SW_FMJ.label>.40 SW bullet</Bullet_40SW_FMJ.label>
+  <Bullet_40SW_AP.label>.40 SW bullet (Б)</Bullet_40SW_AP.label>
+  <Bullet_40SW_HP.label>.40 SW bullet (Е)</Bullet_40SW_HP.label>
+
+
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_30x29mmGrenade_HE.label>гранатометний снаряд 30x29мм (Фугасний)</Ammo_30x29mmGrenade_HE.label>
+  <Ammo_30x29mmGrenade_HE.description>Relatively small, low velocity grenade for use in grenade launchers.</Ammo_30x29mmGrenade_HE.description>
+
+  <Ammo_30x29mmGrenade_HE_TFuzed.label>гранатометний снаряд 30x29мм (Фугасний Time-Fuzed)</Ammo_30x29mmGrenade_HE_TFuzed.label>
+  <Ammo_30x29mmGrenade_HE_TFuzed.description>Relatively small, low velocity grenade for use in grenade launchers.</Ammo_30x29mmGrenade_HE_TFuzed.description>
+
+  <Ammo_30x29mmGrenade_EMP.label>гранатометний снаряд 30x29мм (ЕМІ)</Ammo_30x29mmGrenade_EMP.label>
+  <Ammo_30x29mmGrenade_EMP.description>Relatively small, low velocity grenade for use in grenade launchers.</Ammo_30x29mmGrenade_EMP.description>
+
+  <Ammo_30x29mmGrenade_Smoke.label>гранатометний снаряд 30x29мм (Димовий)</Ammo_30x29mmGrenade_Smoke.label>
+  <Ammo_30x29mmGrenade_Smoke.description>Relatively small, low velocity grenade for use in grenade launchers.</Ammo_30x29mmGrenade_Smoke.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_30x29mmGrenade_HE.label>30x29mm grenade (Фугасний)</Bullet_30x29mmGrenade_HE.label>
+  <Bullet_30x29mmGrenade_HE_TFuzed.label>30x29mm grenade (Фугасний Time-Fuzed)</Bullet_30x29mmGrenade_HE_TFuzed.label>
+  <Bullet_30x29mmGrenade_EMP.label>30x29mm grenade (ЕМІ)</Bullet_30x29mmGrenade_EMP.label>
+  <Bullet_30x29mmGrenade_Smoke.label>30x29mm grenade (Димовий)</Bullet_30x29mmGrenade_Smoke.label>
+
+
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_25x137mmNATO_AP.label>патрон 25x137мм (Б)</Ammo_25x137mmNATO_AP.label>
+  <Ammo_25x137mmNATO_AP.description>Large caliber cartridge used by autocannons.</Ammo_25x137mmNATO_AP.description>
+
+  <Ammo_25x137mmNATO_Incendiary.label>патрон 25x137мм (БЗ)</Ammo_25x137mmNATO_Incendiary.label>
+  <Ammo_25x137mmNATO_Incendiary.description>Large caliber cartridge used by autocannons.</Ammo_25x137mmNATO_Incendiary.description>
+
+  <Ammo_25x137mmNATO_HE.label>патрон 25x137мм (БФ)</Ammo_25x137mmNATO_HE.label>
+  <Ammo_25x137mmNATO_HE.description>Large caliber cartridge used by autocannons.</Ammo_25x137mmNATO_HE.description>
+
+  <Ammo_25x137mmNATO_Sabot.label>патрон 25x137мм (Підкаліберний)</Ammo_25x137mmNATO_Sabot.label>
+  <Ammo_25x137mmNATO_Sabot.description>Large caliber cartridge used by autocannons.</Ammo_25x137mmNATO_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_25x137mmNATO_AP.label>25x137mm NATO bullet (Б)</Bullet_25x137mmNATO_AP.label>
+  <Bullet_25x137mmNATO_Incendiary.label>25x137mm NATO bullet (БЗ)</Bullet_25x137mmNATO_Incendiary.label>
+  <Bullet_25x137mmNATO_HE.label>25x137mm NATO bullet (БФ)</Bullet_25x137mmNATO_HE.label>
+  <Bullet_25x137mmNATO_Sabot.label>25x137mm NATO bullet (Підкаліберний)</Bullet_25x137mmNATO_Sabot.label>
+
+
+</LanguageData>

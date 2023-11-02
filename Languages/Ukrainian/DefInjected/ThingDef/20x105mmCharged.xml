@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_20x105mmCharged.label>енергопатрон 20x105мм</Ammo_20x105mmCharged.label>
+  <Ammo_20x105mmCharged.description>High-caliber charged shot ammo used by advanced autocannons.</Ammo_20x105mmCharged.description>
+
+  <Ammo_20x105mmCharged_AP.label>енергопатрон 20x105мм (Conc.)</Ammo_20x105mmCharged_AP.label>
+  <Ammo_20x105mmCharged_AP.description>High-caliber charged shot ammo used by advanced autocannons.</Ammo_20x105mmCharged_AP.description>
+
+  <Ammo_20x105mmCharged_Ion.label>енергопатрон 20x105мм (Ion)</Ammo_20x105mmCharged_Ion.label>
+  <Ammo_20x105mmCharged_Ion.description>High-caliber charged shot ammo used by advanced autocannons.</Ammo_20x105mmCharged_Ion.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_20x105mmCharged.label>20x105mm Charged bullet</Bullet_20x105mmCharged.label>
+  <Bullet_20x105mmCharged_AP.label>20x105mm Charged bullet (Conc.)</Bullet_20x105mmCharged_AP.label>
+  <Bullet_20x105mmCharged_Ion.label>20x105mm Charged bullet (Ion)</Bullet_20x105mmCharged_Ion.label>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FilthPrometheum.label>калюжа прометелію</FilthPrometheum.label>
+  <FilthPrometheum.description>A puddle of pyrophoric Prometheum.</FilthPrometheum.description>
+
+  <Filth_StabilizeMedicineIndustrial.label>використана аптечка</Filth_StabilizeMedicineIndustrial.label>
+  <Filth_StabilizeMedicineIndustrial.description>Trash from administering first aid.</Filth_StabilizeMedicineIndustrial.description>
+
+  <Filth_StabilizeMedicineHerbal.label>розкидані лікувальні трави</Filth_StabilizeMedicineHerbal.label>
+  <Filth_StabilizeMedicineHerbal.description>Trash from administering first aid.</Filth_StabilizeMedicineHerbal.description>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_AntiMateriel_FMJ.label>anti-materiel cartridge</Ammo_AntiMateriel_FMJ.label>
+  <Ammo_AntiMateriel_FMJ.description>Large caliber bullet used by heavy machine guns and anti-materiel rifles.</Ammo_AntiMateriel_FMJ.description>
+
+  <Ammo_AntiMateriel_AP.label>anti-materiel cartridge (Б)</Ammo_AntiMateriel_AP.label>
+  <Ammo_AntiMateriel_AP.description>Large caliber bullet used by heavy machine guns and anti-materiel rifles.</Ammo_AntiMateriel_AP.description>
+
+  <Ammo_AntiMateriel_Incendiary.label>anti-materiel cartridge (БЗ)</Ammo_AntiMateriel_Incendiary.label>
+  <Ammo_AntiMateriel_Incendiary.description>Large caliber bullet used by heavy machine guns and anti-materiel rifles.</Ammo_AntiMateriel_Incendiary.description>
+
+  <Ammo_AntiMateriel_HE.label>anti-materiel cartridge (Фугасний)</Ammo_AntiMateriel_HE.label>
+  <Ammo_AntiMateriel_HE.description>Large caliber bullet used by heavy machine guns and anti-materiel rifles.</Ammo_AntiMateriel_HE.description>
+
+  <Ammo_AntiMateriel_Sabot.label>anti-materiel cartridge (Підкаліберний)</Ammo_AntiMateriel_Sabot.label>
+  <Ammo_AntiMateriel_Sabot.description>Large caliber bullet used by heavy machine guns and anti-materiel rifles.</Ammo_AntiMateriel_Sabot.description>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_8mmRailgun_Sabot.label>рейкотронний патрон 8мм (Підкаліберний)</Ammo_8mmRailgun_Sabot.label>
+  <Ammo_8mmRailgun_Sabot.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun pistols.</Ammo_8mmRailgun_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_8mmRailgun_Sabot.label>8mm Railgun bullet (Підкаліберний)</Bullet_8mmRailgun_Sabot.label>
+
+
+</LanguageData>

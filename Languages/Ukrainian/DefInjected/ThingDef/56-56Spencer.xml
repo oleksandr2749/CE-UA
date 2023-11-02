@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_5656Spencer_FMJ.label>патрон 14х22мм</Ammo_5656Spencer_FMJ.label>
+  <Ammo_5656Spencer_FMJ.description>Ancient cartridge for use in the Spencer repeating rifle.</Ammo_5656Spencer_FMJ.description>
+
+  <Ammo_5656Spencer_AP.label>патрон 14х22мм (Б)</Ammo_5656Spencer_AP.label>
+  <Ammo_5656Spencer_AP.description>Ancient cartridge for use in the Spencer repeating rifle.</Ammo_5656Spencer_AP.description>
+
+  <Ammo_5656Spencer_HP.label>патрон 14х22мм (Е)</Ammo_5656Spencer_HP.label>
+  <Ammo_5656Spencer_HP.description>Ancient cartridge for use in the Spencer repeating rifle.</Ammo_5656Spencer_HP.description>
+
+  <Ammo_5656Spencer_Incendiary.label>патрон 14х22мм (БЗ)</Ammo_5656Spencer_Incendiary.label>
+  <Ammo_5656Spencer_Incendiary.description>Ancient cartridge for use in the Spencer repeating rifle.</Ammo_5656Spencer_Incendiary.description>
+
+  <Ammo_5656Spencer_HE.label>патрон 14х22мм (БФ)</Ammo_5656Spencer_HE.label>
+  <Ammo_5656Spencer_HE.description>Ancient cartridge for use in the Spencer repeating rifle.</Ammo_5656Spencer_HE.description>
+
+  <Ammo_5656Spencer_Sabot.label>патрон 14х22мм (Підкаліберний)</Ammo_5656Spencer_Sabot.label>
+  <Ammo_5656Spencer_Sabot.description>Ancient cartridge for use in the Spencer repeating rifle.</Ammo_5656Spencer_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_5656Spencer_FMJ.label>.56-56 Spencer bullet</Bullet_5656Spencer_FMJ.label>
+  <Bullet_5656Spencer_AP.label>.56-56 Spencer bullet (Б)</Bullet_5656Spencer_AP.label>
+  <Bullet_5656Spencer_HP.label>.56-56 Spencer bullet (Е)</Bullet_5656Spencer_HP.label>
+  <Bullet_5656Spencer_Incendiary.label>.56-56 Spencer bullet (БЗ)</Bullet_5656Spencer_Incendiary.label>
+  <Bullet_5656Spencer_HE.label>.56-56 Spencer bullet (БФ)</Bullet_5656Spencer_HE.label>
+  <Bullet_5656Spencer_Sabot.label>.56-56 Spencer bullet (Підкаліберний)</Bullet_5656Spencer_Sabot.label>
+
+
+</LanguageData>

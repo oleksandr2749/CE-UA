@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_86x43mmBlackout_FMJ.label>зробити патрон 8,6х34мм x500</MakeAmmo_86x43mmBlackout_FMJ.label>
+  <MakeAmmo_86x43mmBlackout_FMJ.description>Виготовити п'ятсот патронів 8,6х34мм</MakeAmmo_86x43mmBlackout_FMJ.description>
+  <MakeAmmo_86x43mmBlackout_FMJ.jobString>Робить патрони 8,6х34мм</MakeAmmo_86x43mmBlackout_FMJ.jobString>
+
+  <MakeAmmo_86x43mmBlackout_AP.label>зробити патрон 8,6х34мм (Б) x500</MakeAmmo_86x43mmBlackout_AP.label>
+  <MakeAmmo_86x43mmBlackout_AP.description>Виготовити п'ятсот патронів 8,6х34мм (Б)</MakeAmmo_86x43mmBlackout_AP.description>
+  <MakeAmmo_86x43mmBlackout_AP.jobString>Робить патрони 8,6х34мм (Б)</MakeAmmo_86x43mmBlackout_AP.jobString>
+
+  <MakeAmmo_86x43mmBlackout_HP.label>зробити патрон 8,6х34мм (Е) x500</MakeAmmo_86x43mmBlackout_HP.label>
+  <MakeAmmo_86x43mmBlackout_HP.description>Виготовити п'ятсот патронів 8,6х34мм (Е)</MakeAmmo_86x43mmBlackout_HP.description>
+  <MakeAmmo_86x43mmBlackout_HP.jobString>Робить патрони 8,6х34мм (Е)</MakeAmmo_86x43mmBlackout_HP.jobString>
+
+  <MakeAmmo_86x43mmBlackout_Incendiary.label>зробити патрон 8,6х34мм (БЗ) x500</MakeAmmo_86x43mmBlackout_Incendiary.label>
+  <MakeAmmo_86x43mmBlackout_Incendiary.description>Виготовити п'ятсот патронів 8,6х34мм (БЗ)</MakeAmmo_86x43mmBlackout_Incendiary.description>
+  <MakeAmmo_86x43mmBlackout_Incendiary.jobString>Робить патрони 8,6х34мм (БЗ)</MakeAmmo_86x43mmBlackout_Incendiary.jobString>
+
+  <MakeAmmo_86x43mmBlackout_HE.label>зробити патрон 8,6х34мм (БФ) x500</MakeAmmo_86x43mmBlackout_HE.label>
+  <MakeAmmo_86x43mmBlackout_HE.description>Виготовити п'ятсот патронів 8,6х34мм (БФ)</MakeAmmo_86x43mmBlackout_HE.description>
+  <MakeAmmo_86x43mmBlackout_HE.jobString>Робить патрони 8,6х34мм (БФ)</MakeAmmo_86x43mmBlackout_HE.jobString>
+
+  <MakeAmmo_86x43mmBlackout_Sabot.label>зробити патрон 8,6х34мм (Підкаліберний) x500</MakeAmmo_86x43mmBlackout_Sabot.label>
+  <MakeAmmo_86x43mmBlackout_Sabot.description>Виготовити п'ятсот патронів 8,6х34мм (Підкаліберний)</MakeAmmo_86x43mmBlackout_Sabot.description>
+  <MakeAmmo_86x43mmBlackout_Sabot.jobString>Робить патрони 8,6х34мм (Підкаліберний)</MakeAmmo_86x43mmBlackout_Sabot.jobString>
+
+
+</LanguageData>

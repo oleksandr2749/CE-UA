@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_40x46mmGrenade_HE.label>зробити патрон 40x46mm HE grenades x100</MakeAmmo_40x46mmGrenade_HE.label>
+  <MakeAmmo_40x46mmGrenade_HE.description>Craft 100 40x46mm HE grenade</MakeAmmo_40x46mmGrenade_HE.description>
+  <MakeAmmo_40x46mmGrenade_HE.jobString>Робить патрони 40x46mm HE grenade</MakeAmmo_40x46mmGrenade_HE.jobString>
+
+  <MakeAmmo_40x46mmGrenade_HE_TFuzed.label>зробити патрон 40x46mm HE Time-Fuzed grenades x100</MakeAmmo_40x46mmGrenade_HE_TFuzed.label>
+  <MakeAmmo_40x46mmGrenade_HE_TFuzed.description>Craft 100 40x46mm HE Time-Fuzed grenade</MakeAmmo_40x46mmGrenade_HE_TFuzed.description>
+  <MakeAmmo_40x46mmGrenade_HE_TFuzed.jobString>Робить патрони 40x46mm HE Time-Fuzed grenade</MakeAmmo_40x46mmGrenade_HE_TFuzed.jobString>
+
+  <MakeAmmo_40x46mmGrenade_HEDP.label>зробити патрон 40x46mm HEDP grenades x100</MakeAmmo_40x46mmGrenade_HEDP.label>
+  <MakeAmmo_40x46mmGrenade_HEDP.description>Craft 100 40x46mm HEDP grenade</MakeAmmo_40x46mmGrenade_HEDP.description>
+  <MakeAmmo_40x46mmGrenade_HEDP.jobString>Робить патрони 40x46mm HEDP grenade</MakeAmmo_40x46mmGrenade_HEDP.jobString>
+
+  <MakeAmmo_40x46mmGrenade_EMP.label>зробити патрон 40x46mm EMP grenades x100</MakeAmmo_40x46mmGrenade_EMP.label>
+  <MakeAmmo_40x46mmGrenade_EMP.description>Craft 100 40x46mm EMP grenade</MakeAmmo_40x46mmGrenade_EMP.description>
+  <MakeAmmo_40x46mmGrenade_EMP.jobString>Робить патрони 40x46mm EMP grenade</MakeAmmo_40x46mmGrenade_EMP.jobString>
+
+  <MakeAmmo_40x46mmGrenade_Smoke.label>зробити патрон 40x46mm smoke grenades x100</MakeAmmo_40x46mmGrenade_Smoke.label>
+  <MakeAmmo_40x46mmGrenade_Smoke.description>Craft 100 40x46mm smoke grenade</MakeAmmo_40x46mmGrenade_Smoke.description>
+  <MakeAmmo_40x46mmGrenade_Smoke.jobString>Робить патрони 40x46mm smoke grenade</MakeAmmo_40x46mmGrenade_Smoke.jobString>
+
+  <MakeAmmo_40x46mmGrenade_Tox.label>зробити патрон 40x46mm tox grenades x100</MakeAmmo_40x46mmGrenade_Tox.label>
+  <MakeAmmo_40x46mmGrenade_Tox.description>Craft 100 40x46mm tox grenade</MakeAmmo_40x46mmGrenade_Tox.description>
+  <MakeAmmo_40x46mmGrenade_Tox.jobString>Робить патрони 40x46mm tox grenade</MakeAmmo_40x46mmGrenade_Tox.jobString>
+
+
+</LanguageData>

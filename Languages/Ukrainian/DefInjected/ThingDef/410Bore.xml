@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_410Bore_Buck.label>патрон 410-го калібру(Buck)</Ammo_410Bore_Buck.label>
+  <Ammo_410Bore_Buck.description>Low caliber shotgun shell. Its small diameter allows it to be fired from many of the same firearms as the .45 Colt cartridge.</Ammo_410Bore_Buck.description>
+
+  <Ammo_410Bore_Slug.label>патрон 410-го калібру (Slug)</Ammo_410Bore_Slug.label>
+  <Ammo_410Bore_Slug.description>Low caliber shotgun shell. Its small diameter allows it to be fired from many of the same firearms as the .45 Colt cartridge.</Ammo_410Bore_Slug.description>
+
+  <Ammo_410Bore_Beanbag.label>патрон 410-го калібру (Bean)</Ammo_410Bore_Beanbag.label>
+  <Ammo_410Bore_Beanbag.description>Low caliber shotgun shell. Its small diameter allows it to be fired from many of the same firearms as the .45 Colt cartridge.</Ammo_410Bore_Beanbag.description>
+
+  <Ammo_410Bore_ElectroSlug.label>патрон 410-го калібру (ЕМІ)</Ammo_410Bore_ElectroSlug.label>
+  <Ammo_410Bore_ElectroSlug.description>Low caliber shotgun shell. Its small diameter allows it to be fired from many of the same firearms as the .45 Colt cartridge.</Ammo_410Bore_ElectroSlug.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_410Bore_Buck.label>buckshot pellet</Bullet_410Bore_Buck.label>
+  <Bullet_410Bore_Slug.label>shotgun slug</Bullet_410Bore_Slug.label>
+  <Bullet_410Bore_Beanbag.label>beanbag</Bullet_410Bore_Beanbag.label>
+  <Bullet_410Bore_ElectroSlug.label>ЕМІ slug</Bullet_410Bore_ElectroSlug.label>
+  <Bullet_410Bore_Buck_SB.label>buckshot pellet</Bullet_410Bore_Buck_SB.label>
+  <Bullet_410Bore_Slug_SB.label>shotgun slug</Bullet_410Bore_Slug_SB.label>
+  <Bullet_410Bore_Beanbag_SB.label>beanbag</Bullet_410Bore_Beanbag_SB.label>
+  <Bullet_410Bore_ElectroSlug_SB.label>ЕМІ slug</Bullet_410Bore_ElectroSlug_SB.label>
+
+
+</LanguageData>

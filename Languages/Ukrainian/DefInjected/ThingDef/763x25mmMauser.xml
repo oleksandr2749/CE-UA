@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_763x25mmMauser_FMJ.label>патрон 7,86х25мм</Ammo_763x25mmMauser_FMJ.label>
+  <Ammo_763x25mmMauser_FMJ.description>Uncommon pistol cartridge used by a few handguns.</Ammo_763x25mmMauser_FMJ.description>
+
+  <Ammo_763x25mmMauser_AP.label>патрон 7,86х25мм (Б)</Ammo_763x25mmMauser_AP.label>
+  <Ammo_763x25mmMauser_AP.description>Uncommon pistol cartridge used by a few handguns.</Ammo_763x25mmMauser_AP.description>
+
+  <Ammo_763x25mmMauser_HP.label>патрон 7,86х25мм (Е)</Ammo_763x25mmMauser_HP.label>
+  <Ammo_763x25mmMauser_HP.description>Uncommon pistol cartridge used by a few handguns.</Ammo_763x25mmMauser_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_763x25mmMauser_FMJ.label>7.63mm Mauser bullet</Bullet_763x25mmMauser_FMJ.label>
+  <Bullet_763x25mmMauser_AP.label>7.63mm Mauser bullet (Б)</Bullet_763x25mmMauser_AP.label>
+  <Bullet_763x25mmMauser_HP.label>7.63mm Mauser bullet (Е)</Bullet_763x25mmMauser_HP.label>
+
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_455Webley_FMJ.label>патрон 11,5х22,5мм</Ammo_455Webley_FMJ.label>
+  <Ammo_455Webley_FMJ.description>Low-velocity handgun cartridge most commonly used in top break revolvers.</Ammo_455Webley_FMJ.description>
+
+  <Ammo_455Webley_AP.label>патрон 11,5х22,5мм (Б)</Ammo_455Webley_AP.label>
+  <Ammo_455Webley_AP.description>Low-velocity handgun cartridge most commonly used in top break revolvers.</Ammo_455Webley_AP.description>
+
+  <Ammo_455Webley_HP.label>патрон 11,5х22,5мм (Е)</Ammo_455Webley_HP.label>
+  <Ammo_455Webley_HP.description>Low-velocity handgun cartridge most commonly used in top break revolvers.</Ammo_455Webley_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_455Webley_FMJ.label>.455 Webley bullet</Bullet_455Webley_FMJ.label>
+  <Bullet_455Webley_AP.label>.455 Webley bullet (Б)</Bullet_455Webley_AP.label>
+  <Bullet_455Webley_HP.label>.455 Webley bullet (Е)</Bullet_455Webley_HP.label>
+
+
+</LanguageData>

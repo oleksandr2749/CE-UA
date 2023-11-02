@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_20x42mm_AP.label>гранатометний снаряд 20x42мм (Б)</Ammo_20x42mm_AP.label>
+  <Ammo_20x42mm_AP.description>Specialized cartridge developed for use in shoulder-fired grenade launchers.</Ammo_20x42mm_AP.description>
+
+  <Ammo_20x42mm_Incendiary.label>гранатометний снаряд 20x42мм (БЗ)</Ammo_20x42mm_Incendiary.label>
+  <Ammo_20x42mm_Incendiary.description>Specialized cartridge developed for use in shoulder-fired grenade launchers.</Ammo_20x42mm_Incendiary.description>
+
+  <Ammo_20x42mm_APHE.label>гранатометний снаряд 20x42мм (БФ)</Ammo_20x42mm_APHE.label>
+  <Ammo_20x42mm_APHE.description>Specialized cartridge developed for use in shoulder-fired grenade launchers.</Ammo_20x42mm_APHE.description>
+
+  <Ammo_20x42mmGrenade_HE.label>гранатометний снаряд 20x42мм (Фугасний)</Ammo_20x42mmGrenade_HE.label>
+  <Ammo_20x42mmGrenade_HE.description>Specialized grenade developed for use in shoulder-fired grenade launchers.</Ammo_20x42mmGrenade_HE.description>
+
+  <Ammo_20x42mmGrenade_EMP.label>гранатометний снаряд 20x42мм (ЕМІ)</Ammo_20x42mmGrenade_EMP.label>
+  <Ammo_20x42mmGrenade_EMP.description>Specialized grenade developed for use in shoulder-fired grenade launchers.</Ammo_20x42mmGrenade_EMP.description>
+
+  <Ammo_20x42mmGrenade_Smoke.label>гранатометний снаряд 20x42мм (Димовий)</Ammo_20x42mmGrenade_Smoke.label>
+  <Ammo_20x42mmGrenade_Smoke.description>Specialized grenade developed for use in shoulder-fired grenade launchers.</Ammo_20x42mmGrenade_Smoke.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_20x42mm_AP.label>20x42mm bullet (Б)</Bullet_20x42mm_AP.label>
+  <Bullet_20x42mm_Incendiary.label>20x42mm bullet (БЗ)</Bullet_20x42mm_Incendiary.label>
+  <Bullet_20x42mm_APHE.label>20x42mm bullet (БФ)</Bullet_20x42mm_APHE.label>
+  <Bullet_20x42mmGrenade_HE.label>20mm grenade (Фугасний)</Bullet_20x42mmGrenade_HE.label>
+  <Bullet_20x42mmGrenade_EMP.label>20mm grenade (ЕМІ)</Bullet_20x42mmGrenade_EMP.label>
+  <Bullet_20x42mmGrenade_Smoke.label>20mm grenade (Димовий)</Bullet_20x42mmGrenade_Smoke.label>
+
+
+</LanguageData>

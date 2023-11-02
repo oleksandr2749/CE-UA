@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_40x311mmR_AP.label>зробити патрон 40x311mmR (Б) x50</MakeAmmo_40x311mmR_AP.label>
+  <MakeAmmo_40x311mmR_AP.description>Craft 50 40x311mmR (Б)</MakeAmmo_40x311mmR_AP.description>
+  <MakeAmmo_40x311mmR_AP.jobString>Робить патрони 40x311mmR (Б)</MakeAmmo_40x311mmR_AP.jobString>
+
+  <MakeAmmo_40x311mmR_Incendiary.label>зробити патрон 40x311mmR (БЗ) x50</MakeAmmo_40x311mmR_Incendiary.label>
+  <MakeAmmo_40x311mmR_Incendiary.description>Craft 50 40x311mmR (БЗ)</MakeAmmo_40x311mmR_Incendiary.description>
+  <MakeAmmo_40x311mmR_Incendiary.jobString>Робить патрони 40x311mmR (БЗ)</MakeAmmo_40x311mmR_Incendiary.jobString>
+
+  <MakeAmmo_40x311mmR_HE.label>зробити патрон 40x311mmR (БФ) x50</MakeAmmo_40x311mmR_HE.label>
+  <MakeAmmo_40x311mmR_HE.description>Craft 50 40x311mmR (БФ)</MakeAmmo_40x311mmR_HE.description>
+  <MakeAmmo_40x311mmR_HE.jobString>Робить патрони 40x311mmR (БФ)</MakeAmmo_40x311mmR_HE.jobString>
+
+  <MakeAmmo_40x311mmR_Sabot.label>зробити патрон 40x311mmR (Підкаліберний) x50</MakeAmmo_40x311mmR_Sabot.label>
+  <MakeAmmo_40x311mmR_Sabot.description>Craft 50 40x311mmR (Підкаліберний)</MakeAmmo_40x311mmR_Sabot.description>
+  <MakeAmmo_40x311mmR_Sabot.jobString>Робить патрони 40x311mmR (Підкаліберний)</MakeAmmo_40x311mmR_Sabot.jobString>
+
+
+</LanguageData>

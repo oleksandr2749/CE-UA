@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_132x92mmSRTuF_FMJ.label>патрон 13x91мм</Ammo_132x92mmSRTuF_FMJ.label>
+  <Ammo_132x92mmSRTuF_FMJ.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_132x92mmSRTuF_FMJ.description>
+
+  <Ammo_132x92mmSRTuF_AP.label>патрон 13x91мм (Б)</Ammo_132x92mmSRTuF_AP.label>
+  <Ammo_132x92mmSRTuF_AP.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_132x92mmSRTuF_AP.description>
+
+  <Ammo_132x92mmSRTuF_Incendiary.label>патрон 13х91мм (БЗ)</Ammo_132x92mmSRTuF_Incendiary.label>
+  <Ammo_132x92mmSRTuF_Incendiary.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_132x92mmSRTuF_Incendiary.description>
+
+  <Ammo_132x92mmSRTuF_HE.label>патрон 13х91мм (БФ)</Ammo_132x92mmSRTuF_HE.label>
+  <Ammo_132x92mmSRTuF_HE.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_132x92mmSRTuF_HE.description>
+
+  <Ammo_132x92mmSRTuF_Sabot.label>патрон 13х91мм (Підкаліберний)</Ammo_132x92mmSRTuF_Sabot.label>
+  <Ammo_132x92mmSRTuF_Sabot.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_132x92mmSRTuF_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_132x92mmSRTuF_FMJ.label>13.2mm TuF bullet</Bullet_132x92mmSRTuF_FMJ.label>
+  <Bullet_132x92mmSRTuF_AP.label>13.2mm TuF bullet (Б)</Bullet_132x92mmSRTuF_AP.label>
+  <Bullet_132x92mmSRTuF_Incendiary.label>13.2x92mmSR TuF bullet (БЗ)</Bullet_132x92mmSRTuF_Incendiary.label>
+  <Bullet_132x92mmSRTuF_HE.label>13.2x92mmSR TuF bullet (БФ)</Bullet_132x92mmSRTuF_HE.label>
+  <Bullet_132x92mmSRTuF_Sabot.label>13.2x92mmSR TuF bullet (Підкаліберний)</Bullet_132x92mmSRTuF_Sabot.label>
+
+
+</LanguageData>

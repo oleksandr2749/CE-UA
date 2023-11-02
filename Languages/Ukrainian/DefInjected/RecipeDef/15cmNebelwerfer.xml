@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_15cmNebelwerfer_HE.label>зробити патрон 15cm Nebelwerfer HE rocket</MakeAmmo_15cmNebelwerfer_HE.label>
+  <MakeAmmo_15cmNebelwerfer_HE.description>Craft a 15cm Nebelwerfer HE rocket</MakeAmmo_15cmNebelwerfer_HE.description>
+  <MakeAmmo_15cmNebelwerfer_HE.jobString>Робить патрони 15cm Nebelwerfer HE rocket</MakeAmmo_15cmNebelwerfer_HE.jobString>
+
+
+</LanguageData>

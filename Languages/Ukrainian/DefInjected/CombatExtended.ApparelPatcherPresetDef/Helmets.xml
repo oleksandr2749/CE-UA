@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Example def -->
+
+  <Helmet.label>вбудований шолом</Helmet.label>
+  <LightHelmet.label>вбудований легкий шолом</LightHelmet.label>
+  <Hat.label>вбудований головний убір</Hat.label>
+
+
+</LanguageData>

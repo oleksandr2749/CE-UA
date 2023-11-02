@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_10Gauge_Buck.label>зробити патрон 10-го калібру (Buck) shell x200</MakeAmmo_10Gauge_Buck.label>
+  <MakeAmmo_10Gauge_Buck.description>Craft 200 10-го калібру (Buck) shell</MakeAmmo_10Gauge_Buck.description>
+  <MakeAmmo_10Gauge_Buck.jobString>Робить патрони 10-го калібру (Buck) shell</MakeAmmo_10Gauge_Buck.jobString>
+
+  <MakeAmmo_10Gauge_Slug.label>зробити патрон 10-го калібру (Slug) shell x200</MakeAmmo_10Gauge_Slug.label>
+  <MakeAmmo_10Gauge_Slug.description>Craft 200 10-го калібру (Slug) shell</MakeAmmo_10Gauge_Slug.description>
+  <MakeAmmo_10Gauge_Slug.jobString>Робить патрони 10-го калібру (Slug) shell</MakeAmmo_10Gauge_Slug.jobString>
+
+  <MakeAmmo_10Gauge_Beanbag.label>зробити патрон 10-го калібру (Beanbag) shell x200</MakeAmmo_10Gauge_Beanbag.label>
+  <MakeAmmo_10Gauge_Beanbag.description>Craft 200 10-го калібру (Beanbag) shell</MakeAmmo_10Gauge_Beanbag.description>
+  <MakeAmmo_10Gauge_Beanbag.jobString>Робить патрони 10-го калібру (Beanbag) shell</MakeAmmo_10Gauge_Beanbag.jobString>
+
+  <MakeAmmo_10Gauge_ElectroSlug.label>зробити патрон 10-го калібру (EMP) shell x200</MakeAmmo_10Gauge_ElectroSlug.label>
+  <MakeAmmo_10Gauge_ElectroSlug.description>Craft 200 10-го калібру (EMP) shell</MakeAmmo_10Gauge_ElectroSlug.description>
+  <MakeAmmo_10Gauge_ElectroSlug.jobString>Робить патрони 10-го калібру (EMP) shell</MakeAmmo_10Gauge_ElectroSlug.jobString>
+
+
+</LanguageData>

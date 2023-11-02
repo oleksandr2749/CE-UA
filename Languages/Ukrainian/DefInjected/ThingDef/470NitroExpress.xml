@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_470NitroExpress_FMJ.label>патрон 12х83мм</Ammo_470NitroExpress_FMJ.label>
+  <Ammo_470NitroExpress_FMJ.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_470NitroExpress_FMJ.description>
+
+  <Ammo_470NitroExpress_AP.label>патрон 12х83мм (Б)</Ammo_470NitroExpress_AP.label>
+  <Ammo_470NitroExpress_AP.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_470NitroExpress_AP.description>
+
+  <Ammo_470NitroExpress_Incendiary.label>патрон 12х83мм (БЗ)</Ammo_470NitroExpress_Incendiary.label>
+  <Ammo_470NitroExpress_Incendiary.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_470NitroExpress_Incendiary.description>
+
+  <Ammo_470NitroExpress_HE.label>патрон 12х83мм (БФ)</Ammo_470NitroExpress_HE.label>
+  <Ammo_470NitroExpress_HE.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_470NitroExpress_HE.description>
+
+  <Ammo_470NitroExpress_Sabot.label>патрон 12х83мм (Підкаліберний)</Ammo_470NitroExpress_Sabot.label>
+  <Ammo_470NitroExpress_Sabot.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_470NitroExpress_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_470NitroExpress_FMJ.label>.470 Nitro Express bullet</Bullet_470NitroExpress_FMJ.label>
+  <Bullet_470NitroExpress_AP.label>.470 Nitro Express bullet (Б)</Bullet_470NitroExpress_AP.label>
+  <Bullet_470NitroExpress_Incendiary.label>.470 Nitro Express bullet (БЗ)</Bullet_470NitroExpress_Incendiary.label>
+  <Bullet_470NitroExpress_HE.label>.470 Nitro Express bullet (БФ)</Bullet_470NitroExpress_HE.label>
+  <Bullet_470NitroExpress_Sabot.label>.470 Nitro Express bullet (Підкаліберний)</Bullet_470NitroExpress_Sabot.label>
+
+
+</LanguageData>

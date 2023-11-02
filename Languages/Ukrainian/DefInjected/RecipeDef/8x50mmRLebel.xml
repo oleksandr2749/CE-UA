@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_8x50mmRLebel_FMJ.label>зробити патрон 8,5x50мм x500</MakeAmmo_8x50mmRLebel_FMJ.label>
+  <MakeAmmo_8x50mmRLebel_FMJ.description>Виготовити п'ятсот патронів 8,5x50мм</MakeAmmo_8x50mmRLebel_FMJ.description>
+  <MakeAmmo_8x50mmRLebel_FMJ.jobString>Робить патрони 8,5x50мм</MakeAmmo_8x50mmRLebel_FMJ.jobString>
+
+  <MakeAmmo_8x50mmRLebel_AP.label>зробити патрон 8,5x50мм (Б) x500</MakeAmmo_8x50mmRLebel_AP.label>
+  <MakeAmmo_8x50mmRLebel_AP.description>Виготовити п'ятсот патронів 8,5x50мм (Б)</MakeAmmo_8x50mmRLebel_AP.description>
+  <MakeAmmo_8x50mmRLebel_AP.jobString>Робить патрони 8,5x50мм (Б)</MakeAmmo_8x50mmRLebel_AP.jobString>
+
+  <MakeAmmo_8x50mmRLebel_HP.label>зробити патрон 8,5x50мм (Е) x500</MakeAmmo_8x50mmRLebel_HP.label>
+  <MakeAmmo_8x50mmRLebel_HP.description>Виготовити п'ятсот патронів 8,5x50мм (Е)</MakeAmmo_8x50mmRLebel_HP.description>
+  <MakeAmmo_8x50mmRLebel_HP.jobString>Робить патрони 8,5x50мм (Е)</MakeAmmo_8x50mmRLebel_HP.jobString>
+
+  <MakeAmmo_8x50mmRLebel_Incendiary.label>зробити патрон 8,5x50мм (БЗ) x500</MakeAmmo_8x50mmRLebel_Incendiary.label>
+  <MakeAmmo_8x50mmRLebel_Incendiary.description>Виготовити п'ятсот патронів 8,5x50мм (БЗ)</MakeAmmo_8x50mmRLebel_Incendiary.description>
+  <MakeAmmo_8x50mmRLebel_Incendiary.jobString>Робить патрони 8,5x50мм (БЗ)</MakeAmmo_8x50mmRLebel_Incendiary.jobString>
+
+  <MakeAmmo_8x50mmRLebel_HE.label>зробити патрон 8,5x50мм (БФ) x500</MakeAmmo_8x50mmRLebel_HE.label>
+  <MakeAmmo_8x50mmRLebel_HE.description>Виготовити п'ятсот патронів 8,5x50мм (БФ)</MakeAmmo_8x50mmRLebel_HE.description>
+  <MakeAmmo_8x50mmRLebel_HE.jobString>Робить патрони 8,5x50мм (БФ)</MakeAmmo_8x50mmRLebel_HE.jobString>
+
+  <MakeAmmo_8x50mmRLebel_Sabot.label>зробити патрон 8,5x50мм (Підкаліберний) x500</MakeAmmo_8x50mmRLebel_Sabot.label>
+  <MakeAmmo_8x50mmRLebel_Sabot.description>Виготовити п'ятсот патронів 8,5x50мм (Підкаліберний)</MakeAmmo_8x50mmRLebel_Sabot.description>
+  <MakeAmmo_8x50mmRLebel_Sabot.jobString>Робить патрони 8,5x50мм (Підкаліберний)</MakeAmmo_8x50mmRLebel_Sabot.jobString>
+
+
+</LanguageData>

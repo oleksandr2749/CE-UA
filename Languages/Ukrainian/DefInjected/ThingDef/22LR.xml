@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_22LR_FMJ.label>патрон 5,5х15</Ammo_22LR_FMJ.label>
+  <Ammo_22LR_FMJ.description>Low caliber handgun cartridge massively lacking in stopping power.</Ammo_22LR_FMJ.description>
+
+  <Ammo_22LR_AP.label>патрон 5,5х15 (Б)</Ammo_22LR_AP.label>
+  <Ammo_22LR_AP.description>Low caliber handgun cartridge massively lacking in stopping power.</Ammo_22LR_AP.description>
+
+  <Ammo_22LR_HP.label>патрон 5,5х15 (Е)</Ammo_22LR_HP.label>
+  <Ammo_22LR_HP.description>Low caliber handgun cartridge massively lacking in stopping power.</Ammo_22LR_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_22LR_FMJ.label>.22 LR bullet</Bullet_22LR_FMJ.label>
+  <Bullet_22LR_AP.label>.22 LR bullet (Б)</Bullet_22LR_AP.label>
+  <Bullet_22LR_HP.label>.22 LR bullet (Е)</Bullet_22LR_HP.label>
+
+
+</LanguageData>

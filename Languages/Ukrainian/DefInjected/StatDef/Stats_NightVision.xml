@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pawn's stat -->
+
+  <NightVisionEfficiency.label>ефективність нічного бачення</NightVisionEfficiency.label>
+  <NightVisionEfficiency.description>A measure of the creature's overall ability to overcome the effects of darkness for the purpose of making ranged attacks based on apparel, implants, and their natural abilities.</NightVisionEfficiency.description>
+
+
+  <!-- Implants -->
+
+  <NightVisionEfficiency_Implant.label>ефективність імплантату нічного бачення</NightVisionEfficiency_Implant.label>
+  <NightVisionEfficiency_Implant.description>The effect of artifical implants on a creature's ability to overcome the effects of darkness for the purpose of making ranged attacks.</NightVisionEfficiency_Implant.description>
+
+
+  <!-- Apparel/Equipment -->
+
+  <NightVisionEfficiency_Weapon.label>ефективність нічного бачення</NightVisionEfficiency_Weapon.label>
+  <NightVisionEfficiency_Weapon.description>The effect of a weapon's optics on a the wielder's ability to overcome the effects of darkness for the purpose of firing accurately.</NightVisionEfficiency_Weapon.description>
+
+  <NightVisionEfficiency_Apparel.label>ефективність нічного бачення</NightVisionEfficiency_Apparel.label>
+  <NightVisionEfficiency_Apparel.description>The effect of apparel items on a creature's ability to overcome the effects of darkness for the purpose of making ranged attacks.</NightVisionEfficiency_Apparel.description>
+
+
+</LanguageData>

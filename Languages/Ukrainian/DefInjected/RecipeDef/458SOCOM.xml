@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_458SOCOM_FMJ.label>зробити патрон .458 SOCOM x500</MakeAmmo_458SOCOM_FMJ.label>
+  <MakeAmmo_458SOCOM_FMJ.description>Виготовити п'ятсот патронів .458 SOCOM</MakeAmmo_458SOCOM_FMJ.description>
+  <MakeAmmo_458SOCOM_FMJ.jobString>Робить патрони .458 SOCOM</MakeAmmo_458SOCOM_FMJ.jobString>
+
+  <MakeAmmo_458SOCOM_AP.label>зробити патрон .458 SOCOM (Б) x500</MakeAmmo_458SOCOM_AP.label>
+  <MakeAmmo_458SOCOM_AP.description>Виготовити п'ятсот патронів .458 SOCOM (Б)</MakeAmmo_458SOCOM_AP.description>
+  <MakeAmmo_458SOCOM_AP.jobString>Робить патрони .458 SOCOM (Б)</MakeAmmo_458SOCOM_AP.jobString>
+
+  <MakeAmmo_458SOCOM_HP.label>зробити патрон .458 SOCOM (Е) x500</MakeAmmo_458SOCOM_HP.label>
+  <MakeAmmo_458SOCOM_HP.description>Виготовити п'ятсот патронів .458 SOCOM (Е)</MakeAmmo_458SOCOM_HP.description>
+  <MakeAmmo_458SOCOM_HP.jobString>Робить патрони .458 SOCOM (Е)</MakeAmmo_458SOCOM_HP.jobString>
+
+  <MakeAmmo_458SOCOM_Incendiary.label>зробити патрон .458 SOCOM (БЗ) x500</MakeAmmo_458SOCOM_Incendiary.label>
+  <MakeAmmo_458SOCOM_Incendiary.description>Виготовити п'ятсот патронів .458 SOCOM (БЗ)</MakeAmmo_458SOCOM_Incendiary.description>
+  <MakeAmmo_458SOCOM_Incendiary.jobString>Робить патрони .458 SOCOM (БЗ)</MakeAmmo_458SOCOM_Incendiary.jobString>
+
+  <MakeAmmo_458SOCOM_HE.label>зробити патрон .458 SOCOM (БФ) x500</MakeAmmo_458SOCOM_HE.label>
+  <MakeAmmo_458SOCOM_HE.description>Виготовити п'ятсот патронів .458 SOCOM (БФ)</MakeAmmo_458SOCOM_HE.description>
+  <MakeAmmo_458SOCOM_HE.jobString>Робить патрони .458 SOCOM (БФ)</MakeAmmo_458SOCOM_HE.jobString>
+
+  <MakeAmmo_458SOCOM_Sabot.label>зробити патрон .458 SOCOM (Підкаліберний) x500</MakeAmmo_458SOCOM_Sabot.label>
+  <MakeAmmo_458SOCOM_Sabot.description>Виготовити п'ятсот патронів .458 SOCOM (Підкаліберний)</MakeAmmo_458SOCOM_Sabot.description>
+  <MakeAmmo_458SOCOM_Sabot.jobString>Робить патрони .458 SOCOM (Підкаліберний)</MakeAmmo_458SOCOM_Sabot.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shooting -->
+
+  <AimingAccuracy.label>точність прицілювання</AimingAccuracy.label>
+  <AimingAccuracy.description>How well a shooter can lead moving targets and estimate range in combination with the weapon's aiming efficiency.\n\nThe final modifier is calculated via this formula:\n(1.5 - aiming accuracy) / aiming efficiency\n\nLead error is calculated by multiplying this factor against total lead distance in cells. Range error is calculated by multiplying it against the total distance to the target divided by 4.\n\nAiming accuracy influences the the sway reduction during aimed shots. For example, at 75% aiming accuracy sway will be reduced to 25%.</AimingAccuracy.description>
+
+  <ReloadSpeed.label>швидкіть перезаряджання</ReloadSpeed.label>
+  <ReloadSpeed.description>The speed at which firearms are reloaded.</ReloadSpeed.description>
+
+  <Suppressability.label>пригнічуваність</Suppressability.label>
+  <Suppressability.description>How susceptible this person is to suppression. Loss of consciousness and certain drugs can lower this value, making it harder to suppress this person.</Suppressability.description>
+
+  <AverageSharpArmor.label>бронестійкість</AverageSharpArmor.label>
+  <AverageSharpArmor.description>The average value of armor coverage across this person's body. Higher values will make them more confident against low-penetration projectiles.</AverageSharpArmor.description>
+  <AverageSharpArmor.formatString>{0} мм RHA</AverageSharpArmor.formatString>
+
+
+  <!-- Doesn't do anything, just for display -->
+
+  <!--[Core] <MeleeArmorPenetration.label>melee armor penetration</MeleeArmorPenetration.label>-->
+  <!--[Core] <MeleeArmorPenetration.description>Average armor penetration of all attacks in melee combat.\n\nThis stat includes currently used weapon.</MeleeArmorPenetration.description>-->
+
+  <MeleeCritChance.label>шанс критичної атаки</MeleeCritChance.label>
+  <MeleeCritChance.description>Base chance to land a critical hit with a melee attack. Critical hits force max damage from the damage variation. On a critical hit, sharp attacks get double penetration, while blunt attacks stun the target.\nThe final chance depends on the opponent's critical skill and equal opponents will always have a 10% chance to crit. The internal formula is:\n\nFinalCritChance = ClampBetweenZeroAndOne(0.1 + AttackerCritChance - DefenderCritChance)*100%</MeleeCritChance.description>
+
+  <MeleeParryChance.label>шанс парируванян</MeleeParryChance.label>
+  <MeleeParryChance.description>Base chance to parry a melee attack. When a parry is performed the equipped weapon or shield will take damage instead of the wielder. If the parrying pawn passes a critical chance check they will automatically riposte their attacker.\nThe final chance depends on the opponent's parry skill and equal opponents will always have a 20% chance to parry. The internal formula is:\n\nFinalParryChance = ClampBetweenZeroAndOne(0.2 + DefenderParryChance - AttackerParryChance * (1 + AttackerWeaponMeleeCounterParryBonus)*100%\n\nA pawn that is better skilled in parrying takes less damage from parrying while unarmed and is better at reducing damage taken by their weapon on parry.</MeleeParryChance.description>
+
+  <UnarmedDamage.label>додаткова шкода від атак кулаками</UnarmedDamage.label>
+  <UnarmedDamage.description>Additional damage done in unarmed combat.</UnarmedDamage.description>
+
+
+  <!-- Only displays information -->
+
+  <PartialArmorBody.label>Природна броня</PartialArmorBody.label>
+  <PartialArmorBody.description>Спеціальні значення броні для певних частин тіла</PartialArmorBody.description>
+
+  <BodyPartSharpArmor.label>body part RHA</BodyPartSharpArmor.label>
+  <BodyPartSharpArmor.description>Порівнюється збронебійністю зброї, щоб визначити, чи може вона проникнути до наступного шару частин тіла. Високе значення означає, що кулям з низькою пробивною здатністю, таким як картеч, буде важче влучити у внутрішні органи.</BodyPartSharpArmor.description>
+  <BodyPartSharpArmor.formatString>{0} mm RHA</BodyPartSharpArmor.formatString>
+
+  <BodyPartBluntArmor.label>body part MPa</BodyPartBluntArmor.label>
+  <BodyPartBluntArmor.description>Порівнюється збронебійністю зброї, щоб визначити, чи може вона проникнути до наступного шару частин тіла. Високе значення означає, що кулям з низькою пробивною здатністю, таким як картеч, буде важче влучити у внутрішні органи.</BodyPartBluntArmor.description>
+  <BodyPartBluntArmor.formatString>{0} MPa</BodyPartBluntArmor.formatString>
+
+
+</LanguageData>

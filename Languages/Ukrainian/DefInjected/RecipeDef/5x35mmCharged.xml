@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_5x35mmCharged.label>зробити енергопатрон 5x35мм x500</MakeAmmo_5x35mmCharged.label>
+  <MakeAmmo_5x35mmCharged.description>Виготовити п'ятсот енергопатронів 5x35мм</MakeAmmo_5x35mmCharged.description>
+  <MakeAmmo_5x35mmCharged.jobString>Робить енергопатрони 5x35мм</MakeAmmo_5x35mmCharged.jobString>
+
+
+</LanguageData>

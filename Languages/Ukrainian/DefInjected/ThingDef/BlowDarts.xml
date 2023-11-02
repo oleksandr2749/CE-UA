@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_Dart_Venom.label>отруйний дротик</Ammo_Dart_Venom.label>
+  <Ammo_Dart_Venom.description>A simple wooden dart with a barbed head coated in poison derived from plants and animal products.</Ammo_Dart_Venom.description>
+
+
+  <!-- Projectiles -->
+
+  <Projectile_Dart_Venom.label>poison dart</Projectile_Dart_Venom.label>
+
+
+</LanguageData>

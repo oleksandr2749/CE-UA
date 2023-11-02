@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_22Short_FMJ.label>патрон 5,5х10 </Ammo_22Short_FMJ.label>
+  <Ammo_22Short_FMJ.description>Ultra-light cartridge originally designed for self-defense, but now very obsolete.</Ammo_22Short_FMJ.description>
+
+  <Ammo_22Short_AP.label>патрон 5,5х10 (Б)</Ammo_22Short_AP.label>
+  <Ammo_22Short_AP.description>Ultra-light cartridge originally designed for self-defense, but now very obsolete.</Ammo_22Short_AP.description>
+
+  <Ammo_22Short_HP.label>патрон 5,5х10 (Е)</Ammo_22Short_HP.label>
+  <Ammo_22Short_HP.description>Ultra-light cartridge originally designed for self-defense, but now very obsolete.</Ammo_22Short_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_22Short_FMJ.label>.22 Short bullet</Bullet_22Short_FMJ.label>
+  <Bullet_22Short_AP.label>.22 Short bullet (Б)</Bullet_22Short_AP.label>
+  <Bullet_22Short_HP.label>.22 Short bullet (Е)</Bullet_22Short_HP.label>
+
+
+</LanguageData>

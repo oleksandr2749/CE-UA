@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_PlasmaCellHeavy.label>зробити патрон Plasma Heavy Power Cells</MakeAmmo_PlasmaCellHeavy.label>
+  <MakeAmmo_PlasmaCellHeavy.description>Craft 75 shots' worth of Plasma Heavy Power Cell</MakeAmmo_PlasmaCellHeavy.description>
+  <MakeAmmo_PlasmaCellHeavy.jobString>Робить патрони Plasma Heavy Power Cell</MakeAmmo_PlasmaCellHeavy.jobString>
+
+
+</LanguageData>

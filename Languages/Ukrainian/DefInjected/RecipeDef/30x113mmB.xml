@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_30x113mmB_AP.label>зробити патрон 30x113mmB (Б) x100</MakeAmmo_30x113mmB_AP.label>
+  <MakeAmmo_30x113mmB_AP.description>Craft 100 .30x113mmB (Б)</MakeAmmo_30x113mmB_AP.description>
+  <MakeAmmo_30x113mmB_AP.jobString>Робить патрони .30x113mmB (Б)</MakeAmmo_30x113mmB_AP.jobString>
+
+  <MakeAmmo_30x113mmB_Incendiary.label>зробити патрон 30x113mmB (БЗ) x100</MakeAmmo_30x113mmB_Incendiary.label>
+  <MakeAmmo_30x113mmB_Incendiary.description>Craft 100 .30x113mmB (БЗ)</MakeAmmo_30x113mmB_Incendiary.description>
+  <MakeAmmo_30x113mmB_Incendiary.jobString>Робить патрони .30x113mmB (БЗ)</MakeAmmo_30x113mmB_Incendiary.jobString>
+
+  <MakeAmmo_30x113mmB_HE.label>зробити патрон 30x113mmB (БФ) x100</MakeAmmo_30x113mmB_HE.label>
+  <MakeAmmo_30x113mmB_HE.description>Craft 100 .30x113mmB (БФ)</MakeAmmo_30x113mmB_HE.description>
+  <MakeAmmo_30x113mmB_HE.jobString>Робить патрони .30x113mmB (БФ)</MakeAmmo_30x113mmB_HE.jobString>
+
+  <MakeAmmo_30x113mmB_Sabot.label>зробити патрон 30x113mmB (Підкаліберний) x100</MakeAmmo_30x113mmB_Sabot.label>
+  <MakeAmmo_30x113mmB_Sabot.description>Craft 100 .30x113mmB (Підкаліберний)</MakeAmmo_30x113mmB_Sabot.description>
+  <MakeAmmo_30x113mmB_Sabot.jobString>Робить патрони .30x113mmB (Підкаліберний)</MakeAmmo_30x113mmB_Sabot.jobString>
+
+
+</LanguageData>

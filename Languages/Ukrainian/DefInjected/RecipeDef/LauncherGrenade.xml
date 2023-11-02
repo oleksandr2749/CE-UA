@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_LauncherGrenade_HE.label>зробити патрон launcher HE grenades x100</MakeAmmo_LauncherGrenade_HE.label>
+  <MakeAmmo_LauncherGrenade_HE.description>Craft 100 launcher HE grenade</MakeAmmo_LauncherGrenade_HE.description>
+  <MakeAmmo_LauncherGrenade_HE.jobString>Робить патрони launcher HE grenade</MakeAmmo_LauncherGrenade_HE.jobString>
+
+  <MakeAmmo_LauncherGrenade_HEDP.label>зробити патрон launcher HEDP grenades x100</MakeAmmo_LauncherGrenade_HEDP.label>
+  <MakeAmmo_LauncherGrenade_HEDP.description>Craft 100 launcher HEDP grenade</MakeAmmo_LauncherGrenade_HEDP.description>
+  <MakeAmmo_LauncherGrenade_HEDP.jobString>Робить патрони launcher HEDP grenade</MakeAmmo_LauncherGrenade_HEDP.jobString>
+
+  <MakeAmmo_LauncherGrenade_EMP.label>зробити патрон launcher EMP grenades x100</MakeAmmo_LauncherGrenade_EMP.label>
+  <MakeAmmo_LauncherGrenade_EMP.description>Craft 100 launcher EMP grenade</MakeAmmo_LauncherGrenade_EMP.description>
+  <MakeAmmo_LauncherGrenade_EMP.jobString>Робить патрони launcher EMP grenade</MakeAmmo_LauncherGrenade_EMP.jobString>
+
+  <MakeAmmo_LauncherGrenade_Smoke.label>зробити патрон launcher smoke grenades x100</MakeAmmo_LauncherGrenade_Smoke.label>
+  <MakeAmmo_LauncherGrenade_Smoke.description>Craft 100 launcher smoke grenade</MakeAmmo_LauncherGrenade_Smoke.description>
+  <MakeAmmo_LauncherGrenade_Smoke.jobString>Робить патрони launcher smoke grenade</MakeAmmo_LauncherGrenade_Smoke.jobString>
+
+
+</LanguageData>

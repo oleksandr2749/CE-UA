@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_83mmSMAW_HEAT.label>зробити патрон 83mm SMAW HEAT rockets x5</MakeAmmo_83mmSMAW_HEAT.label>
+  <MakeAmmo_83mmSMAW_HEAT.description>Craft 5 83mm SMAW HEAT rocket</MakeAmmo_83mmSMAW_HEAT.description>
+  <MakeAmmo_83mmSMAW_HEAT.jobString>Робить патрони 83mm SMAW HEAT rocket</MakeAmmo_83mmSMAW_HEAT.jobString>
+
+  <MakeAmmo_83mmSMAW_HE.label>зробити патрон 83mm SMAW HE rockets x5</MakeAmmo_83mmSMAW_HE.label>
+  <MakeAmmo_83mmSMAW_HE.description>Craft 5 83mm SMAW HE rocket</MakeAmmo_83mmSMAW_HE.description>
+  <MakeAmmo_83mmSMAW_HE.jobString>Робить патрони 83mm SMAW HE rocket</MakeAmmo_83mmSMAW_HE.jobString>
+
+  <MakeAmmo_83mmSMAW_Thermobaric.label>зробити патрон 83mm SMAW Thermobaric rockets x5</MakeAmmo_83mmSMAW_Thermobaric.label>
+  <MakeAmmo_83mmSMAW_Thermobaric.description>Craft 5 83mm SMAW Thermobaric rocket</MakeAmmo_83mmSMAW_Thermobaric.description>
+  <MakeAmmo_83mmSMAW_Thermobaric.jobString>Робить патрони 83mm SMAW Thermobaric rocket</MakeAmmo_83mmSMAW_Thermobaric.jobString>
+
+
+</LanguageData>

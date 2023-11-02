@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_763x25mmMauser_FMJ.label>зробити патрон 7.63x25mm Mauser x500</MakeAmmo_763x25mmMauser_FMJ.label>
+  <MakeAmmo_763x25mmMauser_FMJ.description>Виготовити п'ятсот патронів 7.63x25mm Mauser</MakeAmmo_763x25mmMauser_FMJ.description>
+  <MakeAmmo_763x25mmMauser_FMJ.jobString>Робить патрони 7.63x25mm Mauser</MakeAmmo_763x25mmMauser_FMJ.jobString>
+
+  <MakeAmmo_763x25mmMauser_AP.label>зробити патрон 7.63x25mm Mauser (Б) x500</MakeAmmo_763x25mmMauser_AP.label>
+  <MakeAmmo_763x25mmMauser_AP.description>Виготовити п'ятсот патронів 7.63x25mm Mauser (Б)</MakeAmmo_763x25mmMauser_AP.description>
+  <MakeAmmo_763x25mmMauser_AP.jobString>Робить патрони 7.63x25mm Mauser (Б)</MakeAmmo_763x25mmMauser_AP.jobString>
+
+  <MakeAmmo_763x25mmMauser_HP.label>зробити патрон 7.63x25mm Mauser (Е) x500</MakeAmmo_763x25mmMauser_HP.label>
+  <MakeAmmo_763x25mmMauser_HP.description>Виготовити п'ятсот патронів 7.63x25mm Mauser (Е)</MakeAmmo_763x25mmMauser_HP.description>
+  <MakeAmmo_763x25mmMauser_HP.jobString>Робить патрони 7.63x25mm Mauser (Е)</MakeAmmo_763x25mmMauser_HP.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_12GaugeCharged.label>енергопатрон 12-го калібру</Ammo_12GaugeCharged.label>
+  <Ammo_12GaugeCharged.description>Multi-pellet charge shot cartridge designed for shotgun-type weapons.</Ammo_12GaugeCharged.description>
+
+  <Ammo_12GaugeCharged_Slug.label>енергопатрон 12-го калібру (Slug)</Ammo_12GaugeCharged_Slug.label>
+  <Ammo_12GaugeCharged_Slug.description>Multi-pellet charge shot cartridge designed for shotgun-type weapons.</Ammo_12GaugeCharged_Slug.description>
+
+  <Ammo_12GaugeCharged_Ion.label>енергопатрон 12-го калібру (Ion Shot)</Ammo_12GaugeCharged_Ion.label>
+  <Ammo_12GaugeCharged_Ion.description>Multi-pellet charge shot cartridge designed for shotgun-type weapons.</Ammo_12GaugeCharged_Ion.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_12GaugeCharged.label>charge shot pellet</Bullet_12GaugeCharged.label>
+  <Bullet_12GaugeCharged_Slug.label>charge shot (Slug)</Bullet_12GaugeCharged_Slug.label>
+  <Bullet_12GaugeCharged_Ion.label>charge shot (Ion shot)</Bullet_12GaugeCharged_Ion.label>
+
+
+</LanguageData>

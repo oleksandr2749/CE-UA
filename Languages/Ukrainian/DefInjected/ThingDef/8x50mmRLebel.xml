@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_8x50mmRLebel_FMJ.label>патрон 8,5x50мм</Ammo_8x50mmRLebel_FMJ.label>
+  <Ammo_8x50mmRLebel_FMJ.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRLebel_FMJ.description>
+
+  <Ammo_8x50mmRLebel_AP.label>патрон 8,5x50мм (Б)</Ammo_8x50mmRLebel_AP.label>
+  <Ammo_8x50mmRLebel_AP.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRLebel_AP.description>
+
+  <Ammo_8x50mmRLebel_HP.label>патрон 8,5x50мм (Е)</Ammo_8x50mmRLebel_HP.label>
+  <Ammo_8x50mmRLebel_HP.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRLebel_HP.description>
+
+  <Ammo_8x50mmRLebel_Incendiary.label>патрон 8,5x50мм (БЗ)</Ammo_8x50mmRLebel_Incendiary.label>
+  <Ammo_8x50mmRLebel_Incendiary.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRLebel_Incendiary.description>
+
+  <Ammo_8x50mmRLebel_HE.label>патрон 8,5x50мм (БФ)</Ammo_8x50mmRLebel_HE.label>
+  <Ammo_8x50mmRLebel_HE.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRLebel_HE.description>
+
+  <Ammo_8x50mmRLebel_Sabot.label>патрон 8,5x50мм (Підкаліберний)</Ammo_8x50mmRLebel_Sabot.label>
+  <Ammo_8x50mmRLebel_Sabot.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRLebel_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_8x50mmRLebel_FMJ.label>8mmR Lebel bullet</Bullet_8x50mmRLebel_FMJ.label>
+  <Bullet_8x50mmRLebel_AP.label>8mmR Lebel bullet (Б)</Bullet_8x50mmRLebel_AP.label>
+  <Bullet_8x50mmRLebel_HP.label>8mmR Lebel bullet (Е)</Bullet_8x50mmRLebel_HP.label>
+  <Bullet_8x50mmRLebel_Incendiary.label>8mmR Lebel bullet (БЗ)</Bullet_8x50mmRLebel_Incendiary.label>
+  <Bullet_8x50mmRLebel_HE.label>8mmR Lebel bullet (БФ)</Bullet_8x50mmRLebel_HE.label>
+  <Bullet_8x50mmRLebel_Sabot.label>8mmR Lebel bullet (Підкаліберний)</Bullet_8x50mmRLebel_Sabot.label>
+
+
+</LanguageData>

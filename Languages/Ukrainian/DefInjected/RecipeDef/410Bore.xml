@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_410Bore_Buck.label>зробити патрон .410 Bore (Buck) shell x500</MakeAmmo_410Bore_Buck.label>
+  <MakeAmmo_410Bore_Buck.description>Виготовити п'ятсот патронів .410 Bore (Buck) shell</MakeAmmo_410Bore_Buck.description>
+  <MakeAmmo_410Bore_Buck.jobString>Робить патрони .410 Bore (Buck) shell</MakeAmmo_410Bore_Buck.jobString>
+
+  <MakeAmmo_410Bore_Slug.label>зробити патрон .410 Bore (Slug) shell x500</MakeAmmo_410Bore_Slug.label>
+  <MakeAmmo_410Bore_Slug.description>Виготовити п'ятсот патронів .410 Bore (Slug) shell</MakeAmmo_410Bore_Slug.description>
+  <MakeAmmo_410Bore_Slug.jobString>Робить патрони .410 Bore (Slug) shell</MakeAmmo_410Bore_Slug.jobString>
+
+  <MakeAmmo_410Bore_Beanbag.label>зробити патрон .410 Bore (Beanbag) shell x500</MakeAmmo_410Bore_Beanbag.label>
+  <MakeAmmo_410Bore_Beanbag.description>Виготовити п'ятсот патронів .410 Bore (Beanbag) shell</MakeAmmo_410Bore_Beanbag.description>
+  <MakeAmmo_410Bore_Beanbag.jobString>Робить патрони .410 Bore (Beanbag) shell</MakeAmmo_410Bore_Beanbag.jobString>
+
+  <MakeAmmo_410Bore_ElectroSlug.label>зробити патрон .410 Bore (EMP) shell x500</MakeAmmo_410Bore_ElectroSlug.label>
+  <MakeAmmo_410Bore_ElectroSlug.description>Виготовити п'ятсот патронів .410 Bore (EMP) shell</MakeAmmo_410Bore_ElectroSlug.description>
+  <MakeAmmo_410Bore_ElectroSlug.jobString>Робить патрони .410 Bore (EMP) shell</MakeAmmo_410Bore_ElectroSlug.jobString>
+
+
+</LanguageData>

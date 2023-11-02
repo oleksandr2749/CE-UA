@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_132mmM13_HE.label>ракета 132мм M13 (Фугасний)</Ammo_132mmM13_HE.label>
+  <Ammo_132mmM13_HE.description>13.2cm rocket typically used in multi-railed rocket artillery launchers.</Ammo_132mmM13_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_132mmM13_HE.label>132mm M13 Rocket (Фугасний)</Bullet_132mmM13_HE.label>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_Pistol_FMJ.label>пістолетний патрон</Ammo_Pistol_FMJ.label>
+  <Ammo_Pistol_FMJ.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_Pistol_FMJ.description>
+
+  <Ammo_Pistol_AP.label>пістолетний патрон (Б)</Ammo_Pistol_AP.label>
+  <Ammo_Pistol_AP.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_Pistol_AP.description>
+
+  <Ammo_Pistol_HP.label>пістолетний патрон (Е)</Ammo_Pistol_HP.label>
+  <Ammo_Pistol_HP.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_Pistol_HP.description>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_8mmRailgun_Sabot.label>зробити рейкотронний патрон 8мм (Підкаліберний) x500</MakeAmmo_8mmRailgun_Sabot.label>
+  <MakeAmmo_8mmRailgun_Sabot.description>Виготовити п'ятсот рейкотронний патрон 8мм (Підкаліберний)</MakeAmmo_8mmRailgun_Sabot.description>
+  <MakeAmmo_8mmRailgun_Sabot.jobString>Робить рейкотронний патрон 8мм (Підкаліберний)</MakeAmmo_8mmRailgun_Sabot.jobString>
+
+
+</LanguageData>

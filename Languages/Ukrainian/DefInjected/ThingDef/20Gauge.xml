@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_20Gauge_Buck.label>патрон 20-го калібру (Buck)</Ammo_20Gauge_Buck.label>
+  <Ammo_20Gauge_Buck.description>Very common shotgun caliber used mostly for hunting.</Ammo_20Gauge_Buck.description>
+
+  <Ammo_20Gauge_Slug.label>патрон 20-го калібру (Slug)</Ammo_20Gauge_Slug.label>
+  <Ammo_20Gauge_Slug.description>Very common shotgun caliber used mostly for hunting.</Ammo_20Gauge_Slug.description>
+
+  <Ammo_20Gauge_Beanbag.label>патрон 20-го калібру (Bean)</Ammo_20Gauge_Beanbag.label>
+  <Ammo_20Gauge_Beanbag.description>Very common shotgun caliber used mostly for hunting.</Ammo_20Gauge_Beanbag.description>
+
+  <Ammo_20Gauge_ElectroSlug.label>патрон 20-го калібру (ЕМІ)</Ammo_20Gauge_ElectroSlug.label>
+  <Ammo_20Gauge_ElectroSlug.description>Very common shotgun caliber used mostly for hunting.</Ammo_20Gauge_ElectroSlug.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_20Gauge_Buck.label>buckshot pellet</Bullet_20Gauge_Buck.label>
+  <Bullet_20Gauge_Slug.label>shotgun slug</Bullet_20Gauge_Slug.label>
+  <Bullet_20Gauge_Beanbag.label>beanbag</Bullet_20Gauge_Beanbag.label>
+  <Bullet_20Gauge_ElectroSlug.label>ЕМІ slug</Bullet_20Gauge_ElectroSlug.label>
+
+
+</LanguageData>

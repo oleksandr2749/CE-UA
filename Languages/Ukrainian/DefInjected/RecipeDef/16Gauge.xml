@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_16Gauge_Buck.label>зробити патрон 16 gauge (Buck) shell x200</MakeAmmo_16Gauge_Buck.label>
+  <MakeAmmo_16Gauge_Buck.description>Craft 200 16 gauge (Buck) shell</MakeAmmo_16Gauge_Buck.description>
+  <MakeAmmo_16Gauge_Buck.jobString>Робить патрони 16 gauge (Buck) shell</MakeAmmo_16Gauge_Buck.jobString>
+
+  <MakeAmmo_16Gauge_Slug.label>зробити патрон 16 gauge (Slug) shell x200</MakeAmmo_16Gauge_Slug.label>
+  <MakeAmmo_16Gauge_Slug.description>Craft 200 16 gauge (Slug) shell</MakeAmmo_16Gauge_Slug.description>
+  <MakeAmmo_16Gauge_Slug.jobString>Робить патрони 16 gauge (Slug) shell</MakeAmmo_16Gauge_Slug.jobString>
+
+  <MakeAmmo_16Gauge_Beanbag.label>зробити патрон 16 gauge (Beanbag) shell x200</MakeAmmo_16Gauge_Beanbag.label>
+  <MakeAmmo_16Gauge_Beanbag.description>Craft 200 16 gauge (Beanbag) shell</MakeAmmo_16Gauge_Beanbag.description>
+  <MakeAmmo_16Gauge_Beanbag.jobString>Робить патрони 16 gauge (Beanbag) shell</MakeAmmo_16Gauge_Beanbag.jobString>
+
+  <MakeAmmo_16Gauge_ElectroSlug.label>зробити патрон 16 gauge (EMP) shell x200</MakeAmmo_16Gauge_ElectroSlug.label>
+  <MakeAmmo_16Gauge_ElectroSlug.description>Craft 200 16 gauge (EMP) shell</MakeAmmo_16Gauge_ElectroSlug.description>
+  <MakeAmmo_16Gauge_ElectroSlug.jobString>Робить патрони 16 gauge (EMP) shell</MakeAmmo_16Gauge_ElectroSlug.jobString>
+
+
+</LanguageData>

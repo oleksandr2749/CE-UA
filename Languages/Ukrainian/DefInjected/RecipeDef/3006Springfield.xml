@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_3006Springfield_FMJ.label>зробити патрон .30-06 Springfield Cartridge x500</MakeAmmo_3006Springfield_FMJ.label>
+  <MakeAmmo_3006Springfield_FMJ.description>Виготовити п'ятсот патронів .30-06 Springfield Cartridge</MakeAmmo_3006Springfield_FMJ.description>
+  <MakeAmmo_3006Springfield_FMJ.jobString>Робить патрони .30-06 Springfield Cartridge</MakeAmmo_3006Springfield_FMJ.jobString>
+
+  <MakeAmmo_3006Springfield_AP.label>зробити патрон .30-06 Springfield Cartridge (Б) x500</MakeAmmo_3006Springfield_AP.label>
+  <MakeAmmo_3006Springfield_AP.description>Виготовити п'ятсот патронів .30-06 Springfield Cartridge (Б)</MakeAmmo_3006Springfield_AP.description>
+  <MakeAmmo_3006Springfield_AP.jobString>Робить патрони .30-06 Springfield Cartridge (Б)</MakeAmmo_3006Springfield_AP.jobString>
+
+  <MakeAmmo_3006Springfield_HP.label>зробити патрон .30-06 Springfield Cartridge (Е) x500</MakeAmmo_3006Springfield_HP.label>
+  <MakeAmmo_3006Springfield_HP.description>Виготовити п'ятсот патронів .30-06 Springfield Cartridge (Е)</MakeAmmo_3006Springfield_HP.description>
+  <MakeAmmo_3006Springfield_HP.jobString>Робить патрони .30-06 Springfield Cartridge (Е)</MakeAmmo_3006Springfield_HP.jobString>
+
+  <MakeAmmo_3006Springfield_Incendiary.label>зробити патрон .30-06 Springfield (БЗ) x500</MakeAmmo_3006Springfield_Incendiary.label>
+  <MakeAmmo_3006Springfield_Incendiary.description>Виготовити п'ятсот патронів .30-06 Springfield (БЗ)</MakeAmmo_3006Springfield_Incendiary.description>
+  <MakeAmmo_3006Springfield_Incendiary.jobString>Робить патрони .30-06 Springfield (БЗ)</MakeAmmo_3006Springfield_Incendiary.jobString>
+
+  <MakeAmmo_3006Springfield_HE.label>зробити патрон .30-06 Springfield (БФ) x500</MakeAmmo_3006Springfield_HE.label>
+  <MakeAmmo_3006Springfield_HE.description>Виготовити п'ятсот патронів .30-06 Springfield (БФ)</MakeAmmo_3006Springfield_HE.description>
+  <MakeAmmo_3006Springfield_HE.jobString>Робить патрони .30-06 Springfield (БФ)</MakeAmmo_3006Springfield_HE.jobString>
+
+  <MakeAmmo_3006Springfield_Sabot.label>зробити патрон .30-06 Springfield (Підкаліберний) x500</MakeAmmo_3006Springfield_Sabot.label>
+  <MakeAmmo_3006Springfield_Sabot.description>Виготовити п'ятсот патронів .30-06 Springfield (Підкаліберний)</MakeAmmo_3006Springfield_Sabot.description>
+  <MakeAmmo_3006Springfield_Sabot.jobString>Робить патрони .30-06 Springfield (Підкаліберний)</MakeAmmo_3006Springfield_Sabot.jobString>
+
+
+</LanguageData>

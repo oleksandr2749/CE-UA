@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_45Schofield_FMJ.label>патрон 10х28мм</Ammo_45Schofield_FMJ.label>
+  <Ammo_45Schofield_FMJ.description>Old school revolver cartridge designed for the frontier, very similar to the longer .45 Colt.</Ammo_45Schofield_FMJ.description>
+
+  <Ammo_45Schofield_AP.label>патрон 10х28мм (Б)</Ammo_45Schofield_AP.label>
+  <Ammo_45Schofield_AP.description>Old school revolver cartridge designed for the frontier, very similar to the longer .45 Colt.</Ammo_45Schofield_AP.description>
+
+  <Ammo_45Schofield_HP.label>патрон 10х28мм (Е)</Ammo_45Schofield_HP.label>
+  <Ammo_45Schofield_HP.description>Old school revolver cartridge designed for the frontier, very similar to the longer .45 Colt.</Ammo_45Schofield_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_45Schofield_FMJ.label>.45 Schofield bullet</Bullet_45Schofield_FMJ.label>
+  <Bullet_45Schofield_AP.label>.45 Schofield bullet (Б)</Bullet_45Schofield_AP.label>
+  <Bullet_45Schofield_HP.label>.45 Schofield bullet (Е)</Bullet_45Schofield_HP.label>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_44-40Winchester_FMJ.label>зробити патрон .44-40 Winchester  x500</MakeAmmo_44-40Winchester_FMJ.label>
+  <MakeAmmo_44-40Winchester_FMJ.description>Виготовити п'ятсот патронів .44-40 Winchester</MakeAmmo_44-40Winchester_FMJ.description>
+  <MakeAmmo_44-40Winchester_FMJ.jobString>Робить патрони .44-40 Winchester</MakeAmmo_44-40Winchester_FMJ.jobString>
+
+  <MakeAmmo_44-40Winchester_AP.label>зробити патрон .44-40 Winchester (Б) x500</MakeAmmo_44-40Winchester_AP.label>
+  <MakeAmmo_44-40Winchester_AP.description>Виготовити п'ятсот патронів .44-40 Winchester (Б)</MakeAmmo_44-40Winchester_AP.description>
+  <MakeAmmo_44-40Winchester_AP.jobString>Робить патрони .44-40 Winchester (Б)</MakeAmmo_44-40Winchester_AP.jobString>
+
+  <MakeAmmo_44-40Winchester_HP.label>зробити патрон .44-40 Winchester (Е) x500</MakeAmmo_44-40Winchester_HP.label>
+  <MakeAmmo_44-40Winchester_HP.description>Виготовити п'ятсот патронів .44-40 Winchester (Е)</MakeAmmo_44-40Winchester_HP.description>
+  <MakeAmmo_44-40Winchester_HP.jobString>Робить патрони .44-40 Winchester (Е)</MakeAmmo_44-40Winchester_HP.jobString>
+
+  <MakeAmmo_44-40Winchester_Incendiary.label>зробити патрон .44-40 Winchester (БЗ) x500</MakeAmmo_44-40Winchester_Incendiary.label>
+  <MakeAmmo_44-40Winchester_Incendiary.description>Виготовити п'ятсот патронів .44-40 Winchester (БЗ)</MakeAmmo_44-40Winchester_Incendiary.description>
+  <MakeAmmo_44-40Winchester_Incendiary.jobString>Робить патрони .44-40 Winchester (БЗ)</MakeAmmo_44-40Winchester_Incendiary.jobString>
+
+  <MakeAmmo_44-40Winchester_HE.label>зробити патрон .44-40 Winchester (БФ) x500</MakeAmmo_44-40Winchester_HE.label>
+  <MakeAmmo_44-40Winchester_HE.description>Виготовити п'ятсот патронів .44-40 Winchester (БФ)</MakeAmmo_44-40Winchester_HE.description>
+  <MakeAmmo_44-40Winchester_HE.jobString>Робить патрони .44-40 Winchester (БФ)</MakeAmmo_44-40Winchester_HE.jobString>
+
+  <MakeAmmo_44-40Winchester_Sabot.label>зробити патрон .44-40 Winchester (Підкаліберний) x500</MakeAmmo_44-40Winchester_Sabot.label>
+  <MakeAmmo_44-40Winchester_Sabot.description>Виготовити п'ятсот патронів .44-40 Winchester (Підкаліберний)</MakeAmmo_44-40Winchester_Sabot.description>
+  <MakeAmmo_44-40Winchester_Sabot.jobString>Робить патрони .44-40 Winchester (Підкаліберний)</MakeAmmo_44-40Winchester_Sabot.jobString>
+
+
+</LanguageData>

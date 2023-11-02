@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_90mmRCR_HEAT.label>зробити патрон 90mm recoilless HEAT rockets x5</MakeAmmo_90mmRCR_HEAT.label>
+  <MakeAmmo_90mmRCR_HEAT.description>Craft 5 90mm recoilless HEAT rocket</MakeAmmo_90mmRCR_HEAT.description>
+  <MakeAmmo_90mmRCR_HEAT.jobString>Робить патрони 90mm recoilless HEAT rocket</MakeAmmo_90mmRCR_HEAT.jobString>
+
+  <MakeAmmo_90mmRCR_CAN.label>Make 90mm recoilless canister shells x5</MakeAmmo_90mmRCR_CAN.label>
+  <MakeAmmo_90mmRCR_CAN.description>Craft 90mm recoilless canister shell</MakeAmmo_90mmRCR_CAN.description>
+  <MakeAmmo_90mmRCR_CAN.jobString>Робить патрони 90mm recoilless canister shell</MakeAmmo_90mmRCR_CAN.jobString>
+
+
+</LanguageData>

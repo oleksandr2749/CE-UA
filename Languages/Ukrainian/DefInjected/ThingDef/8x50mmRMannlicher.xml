@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_8x50mmRMannlicher_FMJ.label>патрон 8x50мм Манліхер</Ammo_8x50mmRMannlicher_FMJ.label>
+  <Ammo_8x50mmRMannlicher_FMJ.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRMannlicher_FMJ.description>
+
+  <Ammo_8x50mmRMannlicher_AP.label>патрон 8x50мм Манліхер (Б)</Ammo_8x50mmRMannlicher_AP.label>
+  <Ammo_8x50mmRMannlicher_AP.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRMannlicher_AP.description>
+
+  <Ammo_8x50mmRMannlicher_HP.label>патрон 8x50мм Манліхер (Е)</Ammo_8x50mmRMannlicher_HP.label>
+  <Ammo_8x50mmRMannlicher_HP.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRMannlicher_HP.description>
+
+  <Ammo_8x50mmRMannlicher_Incendiary.label>патрон 8x50мм Манліхер (БЗ)</Ammo_8x50mmRMannlicher_Incendiary.label>
+  <Ammo_8x50mmRMannlicher_Incendiary.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRMannlicher_Incendiary.description>
+
+  <Ammo_8x50mmRMannlicher_HE.label>патрон 8x50мм Манліхер (БФ)</Ammo_8x50mmRMannlicher_HE.label>
+  <Ammo_8x50mmRMannlicher_HE.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRMannlicher_HE.description>
+
+  <Ammo_8x50mmRMannlicher_Sabot.label>патрон 8x50мм Манліхер (Підкаліберний)</Ammo_8x50mmRMannlicher_Sabot.label>
+  <Ammo_8x50mmRMannlicher_Sabot.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRMannlicher_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_8x50mmRMannlicher_FMJ.label>8x50mmR Mannlicher bullet</Bullet_8x50mmRMannlicher_FMJ.label>
+  <Bullet_8x50mmRMannlicher_AP.label>8x50mmR Mannlicher bullet (Б)</Bullet_8x50mmRMannlicher_AP.label>
+  <Bullet_8x50mmRMannlicher_HP.label>8x50mmR Mannlicher bullet (Е)</Bullet_8x50mmRMannlicher_HP.label>
+  <Bullet_8x50mmRMannlicher_Incendiary.label>8x50mmR Mannlicher bullet (БЗ)</Bullet_8x50mmRMannlicher_Incendiary.label>
+  <Bullet_8x50mmRMannlicher_HE.label>8x50mmR Mannlicher bullet (БФ)</Bullet_8x50mmRMannlicher_HE.label>
+  <Bullet_8x50mmRMannlicher_Sabot.label>8x50mmR Mannlicher bullet (Підкаліберний)</Bullet_8x50mmRMannlicher_Sabot.label>
+
+
+</LanguageData>

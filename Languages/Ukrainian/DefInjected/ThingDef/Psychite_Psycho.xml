@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Psycho.label>psycho</Psycho.label>
+  <Psycho.description>A coarse, powdery preparation of concentrated psychite. When snorted, it produces an intense feeling of euphoria and invigoration, dramatically reducing the user's perception of pain and sharpening their senses for a short time. The high is followed by an equally intense and very unpleasant crash. Owing to its high potency and crude preparation, psycho is even more dangerous and addictive than other drugs derived from psychoid leaves.\n\nMany tribal warriors take psycho before entering battle, heightening their senses and allowing them to briefly ignore otherwise incapacitating wounds.</Psycho.description>
+  <Psycho.ingestible.ingestCommandString>Snort {0}</Psycho.ingestible.ingestCommandString>
+  <Psycho.ingestible.ingestReportString>Snorting {0}.</Psycho.ingestible.ingestReportString>
+
+
+</LanguageData>

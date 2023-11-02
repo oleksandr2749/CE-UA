@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Work tables -->
+
+  <AmmoBench.label>збройовий стіл</AmmoBench.label>
+  <AmmoBench.description>A workstation for handloading ammo.</AmmoBench.description>
+  <AmmoBench_Blueprint.label>loading bench (blueprint)</AmmoBench_Blueprint.label>
+  <AmmoBench_Blueprint_Install.label>loading bench (blueprint)</AmmoBench_Blueprint_Install.label>
+  <AmmoBench_Frame.label>loading bench (building)</AmmoBench_Frame.label>
+  <AmmoBench_Frame.description>A workstation for handloading ammo.</AmmoBench_Frame.description>
+
+  <GunsmithingBench.label>gunsmithing bench</GunsmithingBench.label>
+  <GunsmithingBench.description>A workstation for creating and attaching attachments to weapons.</GunsmithingBench.description>
+  <GunsmithingBench_Blueprint_Install.label>gunsmithing bench (blueprint)</GunsmithingBench_Blueprint_Install.label>
+
+
+</LanguageData>

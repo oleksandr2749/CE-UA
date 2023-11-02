@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_10Gauge_Buck.label>патрон 10-го калібру (Buck)</Ammo_10Gauge_Buck.label>
+  <Ammo_10Gauge_Buck.description>Very common shotgun caliber used mostly for big game hunting.</Ammo_10Gauge_Buck.description>
+
+  <Ammo_10Gauge_Slug.label>патрон 10-го калібру (Slug)</Ammo_10Gauge_Slug.label>
+  <Ammo_10Gauge_Slug.description>Very common shotgun caliber used mostly for big game hunting.</Ammo_10Gauge_Slug.description>
+
+  <Ammo_10Gauge_Beanbag.label>патрон 10-го калібру (Bean)</Ammo_10Gauge_Beanbag.label>
+  <Ammo_10Gauge_Beanbag.description>Very common shotgun caliber used mostly for big game hunting.</Ammo_10Gauge_Beanbag.description>
+
+  <Ammo_10Gauge_ElectroSlug.label>патрон 10-го калібру (ЕМІ)</Ammo_10Gauge_ElectroSlug.label>
+  <Ammo_10Gauge_ElectroSlug.description>Very common shotgun caliber used mostly for big game hunting.</Ammo_10Gauge_ElectroSlug.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_10Gauge_Buck.label>buckshot pellet</Bullet_10Gauge_Buck.label>
+  <Bullet_10Gauge_Slug.label>shotgun slug</Bullet_10Gauge_Slug.label>
+  <Bullet_10Gauge_Beanbag.label>beanbag</Bullet_10Gauge_Beanbag.label>
+  <Bullet_10Gauge_ElectroSlug.label>ЕМІ slug</Bullet_10Gauge_ElectroSlug.label>
+
+
+</LanguageData>

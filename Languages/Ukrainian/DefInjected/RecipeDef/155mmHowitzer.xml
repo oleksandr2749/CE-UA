@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_155mmHowitzerShell_HE.label>зробити патрон 155mm HE Howitzer shells x1</MakeAmmo_155mmHowitzerShell_HE.label>
+  <MakeAmmo_155mmHowitzerShell_HE.description>Craft 1 155mm HE Howitzer shell</MakeAmmo_155mmHowitzerShell_HE.description>
+  <MakeAmmo_155mmHowitzerShell_HE.jobString>Робить патрони 155mm HE Howitzer shell</MakeAmmo_155mmHowitzerShell_HE.jobString>
+
+  <MakeAmmo_155mmHowitzerShell_Incendiary.label>зробити патрон 155mm Incendiary Howitzer shells x1</MakeAmmo_155mmHowitzerShell_Incendiary.label>
+  <MakeAmmo_155mmHowitzerShell_Incendiary.description>Craft 155mm Incendiary Howitzer shell.</MakeAmmo_155mmHowitzerShell_Incendiary.description>
+  <MakeAmmo_155mmHowitzerShell_Incendiary.jobString>Робить патрони 155mm Incendiary Howitzer shell.</MakeAmmo_155mmHowitzerShell_Incendiary.jobString>
+
+  <MakeAmmo_155mmHowitzerShell_EMP.label>зробити патрон 155mm EMP Howitzer shells x1</MakeAmmo_155mmHowitzerShell_EMP.label>
+  <MakeAmmo_155mmHowitzerShell_EMP.description>Craft 155mm EMP Howitzer shell.</MakeAmmo_155mmHowitzerShell_EMP.description>
+  <MakeAmmo_155mmHowitzerShell_EMP.jobString>Робить патрони 155mm EMP Howitzer shell.</MakeAmmo_155mmHowitzerShell_EMP.jobString>
+
+  <MakeAmmo_155mmHowitzerShell_Smoke.label>зробити патрон 155mm Smoke Howitzer shells x1</MakeAmmo_155mmHowitzerShell_Smoke.label>
+  <MakeAmmo_155mmHowitzerShell_Smoke.description>Craft 155mm Smoke Howitzer shell.</MakeAmmo_155mmHowitzerShell_Smoke.description>
+  <MakeAmmo_155mmHowitzerShell_Smoke.jobString>Робить патрони 155mm Smoke Howitzer shell.</MakeAmmo_155mmHowitzerShell_Smoke.jobString>
+
+
+</LanguageData>

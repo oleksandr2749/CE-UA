@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_MiniCannonBall_Round.label>маленьке ядро</Ammo_MiniCannonBall_Round.label>
+  <Ammo_MiniCannonBall_Round.description>A solid ball of metal, capable of delivering significant damage on a direct hit.</Ammo_MiniCannonBall_Round.description>
+
+  <Ammo_MiniCannonBall_Grape.label>маленький дрейфгагель</Ammo_MiniCannonBall_Grape.label>
+  <Ammo_MiniCannonBall_Grape.description>A canister of numerous metal balls, fired in a wide spread to deal horrific damage against enemy infantry.</Ammo_MiniCannonBall_Grape.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_MiniCannonBall_Round.label>mini round shot</Bullet_MiniCannonBall_Round.label>
+  <Bullet_MiniCannonBall_Grape.label>mini grape shot</Bullet_MiniCannonBall_Grape.label>
+
+
+</LanguageData>

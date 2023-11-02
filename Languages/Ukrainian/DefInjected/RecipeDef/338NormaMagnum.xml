@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_338Norma_FMJ.label>зробити патрон .338 Norma Magnum x200</MakeAmmo_338Norma_FMJ.label>
+  <MakeAmmo_338Norma_FMJ.description>Craft 200 .338 Norma Magnum</MakeAmmo_338Norma_FMJ.description>
+  <MakeAmmo_338Norma_FMJ.jobString>Робить патрони .338 Norma Magnum</MakeAmmo_338Norma_FMJ.jobString>
+
+  <MakeAmmo_338Norma_AP.label>зробити патрон .338 Norma Magnum (Б) x200</MakeAmmo_338Norma_AP.label>
+  <MakeAmmo_338Norma_AP.description>Craft 200 .338 Norma Magnum (Б)</MakeAmmo_338Norma_AP.description>
+  <MakeAmmo_338Norma_AP.jobString>Робить патрони .338 Norma Magnum (Б)</MakeAmmo_338Norma_AP.jobString>
+
+  <MakeAmmo_338Norma_Incendiary.label>зробити патрон .338 Norma Magnum (БЗ) x200</MakeAmmo_338Norma_Incendiary.label>
+  <MakeAmmo_338Norma_Incendiary.description>Craft 200 .338 Norma Magnum (БЗ)</MakeAmmo_338Norma_Incendiary.description>
+  <MakeAmmo_338Norma_Incendiary.jobString>Робить патрони .338 Norma Magnum (БЗ)</MakeAmmo_338Norma_Incendiary.jobString>
+
+  <MakeAmmo_338Norma_HE.label>зробити патрон .338 Norma Magnum (БФ) x200</MakeAmmo_338Norma_HE.label>
+  <MakeAmmo_338Norma_HE.description>Craft 200 .338 Norma Magnum (БФ)</MakeAmmo_338Norma_HE.description>
+  <MakeAmmo_338Norma_HE.jobString>Робить патрони .338 Norma Magnum (БФ)</MakeAmmo_338Norma_HE.jobString>
+
+  <MakeAmmo_338Norma_Sabot.label>зробити патрон .338 Norma Magnum (Підкаліберний) x200</MakeAmmo_338Norma_Sabot.label>
+  <MakeAmmo_338Norma_Sabot.description>Craft 200 .338 Norma Magnum (Підкаліберний)</MakeAmmo_338Norma_Sabot.description>
+  <MakeAmmo_338Norma_Sabot.jobString>Робить патрони .338 Norma Magnum (Підкаліберний)</MakeAmmo_338Norma_Sabot.jobString>
+
+
+</LanguageData>

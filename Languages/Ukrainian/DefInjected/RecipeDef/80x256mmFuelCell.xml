@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_80x256mmFuel_Incendiary.label>зробити патрон 80x256mm Fuel Cell x5</MakeAmmo_80x256mmFuel_Incendiary.label>
+  <MakeAmmo_80x256mmFuel_Incendiary.description>Craft 5 80x256mm Fuel Cell</MakeAmmo_80x256mmFuel_Incendiary.description>
+  <MakeAmmo_80x256mmFuel_Incendiary.jobString>Робить патрони 80x256mm Fuel Cell</MakeAmmo_80x256mmFuel_Incendiary.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_20x42mm_AP.label>зробити патрон 20x42mm (Б) x100</MakeAmmo_20x42mm_AP.label>
+  <MakeAmmo_20x42mm_AP.description>Craft 100 20x42mm (Б)</MakeAmmo_20x42mm_AP.description>
+  <MakeAmmo_20x42mm_AP.jobString>Робить патрони 20x42mm (Б)</MakeAmmo_20x42mm_AP.jobString>
+
+  <MakeAmmo_20x42mm_Incendiary.label>зробити патрон 20x42mm (БЗ) x100</MakeAmmo_20x42mm_Incendiary.label>
+  <MakeAmmo_20x42mm_Incendiary.description>Craft 100 20x42mm (БЗ)</MakeAmmo_20x42mm_Incendiary.description>
+  <MakeAmmo_20x42mm_Incendiary.jobString>Робить патрони 20x42mm (БЗ)</MakeAmmo_20x42mm_Incendiary.jobString>
+
+  <MakeAmmo_20x42mm_APHE.label>зробити патрон 20x42mm (БФ) x100</MakeAmmo_20x42mm_APHE.label>
+  <MakeAmmo_20x42mm_APHE.description>Craft 100 20x42mm (БФ)</MakeAmmo_20x42mm_APHE.description>
+  <MakeAmmo_20x42mm_APHE.jobString>Робить патрони 20x42mm (БФ)</MakeAmmo_20x42mm_APHE.jobString>
+
+  <MakeAmmo_20x42mmGrenade_HE.label>зробити патрон 20x42mm HE grenades x100</MakeAmmo_20x42mmGrenade_HE.label>
+  <MakeAmmo_20x42mmGrenade_HE.description>Craft 100 20x42mm HE grenade</MakeAmmo_20x42mmGrenade_HE.description>
+  <MakeAmmo_20x42mmGrenade_HE.jobString>Робить патрони 20x42mm HE grenade</MakeAmmo_20x42mmGrenade_HE.jobString>
+
+  <MakeAmmo_20x42mmGrenade_EMP.label>зробити патрон 20x42mm EMP grenades x100</MakeAmmo_20x42mmGrenade_EMP.label>
+  <MakeAmmo_20x42mmGrenade_EMP.description>Craft 100 20x42mm EMP grenade</MakeAmmo_20x42mmGrenade_EMP.description>
+  <MakeAmmo_20x42mmGrenade_EMP.jobString>Робить патрони 20x42mm EMP grenade</MakeAmmo_20x42mmGrenade_EMP.jobString>
+
+  <MakeAmmo_20x42mmGrenade_Smoke.label>зробити патрон 20x42mm smoke grenades x100</MakeAmmo_20x42mmGrenade_Smoke.label>
+  <MakeAmmo_20x42mmGrenade_Smoke.description>Craft 100 20x42mm smoke grenade</MakeAmmo_20x42mmGrenade_Smoke.description>
+  <MakeAmmo_20x42mmGrenade_Smoke.jobString>Робить патрони 20x42mm smoke grenade</MakeAmmo_20x42mmGrenade_Smoke.jobString>
+
+
+</LanguageData>

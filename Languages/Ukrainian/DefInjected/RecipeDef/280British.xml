@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_280British_FMJ.label>зробити патрон .280 British Cartridge x500</MakeAmmo_280British_FMJ.label>
+  <MakeAmmo_280British_FMJ.description>Виготовити п'ятсот патронів .280 British Cartridge</MakeAmmo_280British_FMJ.description>
+  <MakeAmmo_280British_FMJ.jobString>Робить патрони .280 British Cartridge</MakeAmmo_280British_FMJ.jobString>
+
+  <MakeAmmo_280British_AP.label>зробити патрон .280 British Cartridge (Б) x500</MakeAmmo_280British_AP.label>
+  <MakeAmmo_280British_AP.description>Виготовити п'ятсот патронів .280 British Cartridge (Б)</MakeAmmo_280British_AP.description>
+  <MakeAmmo_280British_AP.jobString>Робить патрони .280 British Cartridge (Б)</MakeAmmo_280British_AP.jobString>
+
+  <MakeAmmo_280British_HP.label>зробити патрон .280 British Cartridge (Е) x500</MakeAmmo_280British_HP.label>
+  <MakeAmmo_280British_HP.description>Виготовити п'ятсот патронів .280 British Cartridge (Е)</MakeAmmo_280British_HP.description>
+  <MakeAmmo_280British_HP.jobString>Робить патрони .280 British Cartridge (Е)</MakeAmmo_280British_HP.jobString>
+
+  <MakeAmmo_280British_Incendiary.label>зробити патрон .280 British (БЗ) x500</MakeAmmo_280British_Incendiary.label>
+  <MakeAmmo_280British_Incendiary.description>Виготовити п'ятсот патронів .280 British (БЗ)</MakeAmmo_280British_Incendiary.description>
+  <MakeAmmo_280British_Incendiary.jobString>Робить патрони .280 British (БЗ)</MakeAmmo_280British_Incendiary.jobString>
+
+  <MakeAmmo_280British_HE.label>зробити патрон .280 British (БФ) x500</MakeAmmo_280British_HE.label>
+  <MakeAmmo_280British_HE.description>Виготовити п'ятсот патронів .280 British (БФ)</MakeAmmo_280British_HE.description>
+  <MakeAmmo_280British_HE.jobString>Робить патрони .280 British (БФ)</MakeAmmo_280British_HE.jobString>
+
+  <MakeAmmo_280British_Sabot.label>зробити патрон .280 British (Підкаліберний) x500</MakeAmmo_280British_Sabot.label>
+  <MakeAmmo_280British_Sabot.description>Виготовити п'ятсот патронів .280 British (Підкаліберний)</MakeAmmo_280British_Sabot.description>
+  <MakeAmmo_280British_Sabot.jobString>Робить патрони .280 British (Підкаліберний)</MakeAmmo_280British_Sabot.jobString>
+
+
+</LanguageData>

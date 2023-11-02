@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_8x40mmCharged.label>енергопатрон 8x40мм</Ammo_8x40mmCharged.label>
+  <Ammo_8x40mmCharged.description>Mechanoid-built high power charged shot ammo used in long range assault weapons.</Ammo_8x40mmCharged.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_8x40mmCharged.label>8x40mm Charged bullet</Bullet_8x40mmCharged.label>
+
+
+</LanguageData>

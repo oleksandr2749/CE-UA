@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_105mmHowitzerShell_HE.label>зробити патрон 105mm HE Howitzer shells x2</MakeAmmo_105mmHowitzerShell_HE.label>
+  <MakeAmmo_105mmHowitzerShell_HE.description>Craft 2 105mm HE Howitzer shell</MakeAmmo_105mmHowitzerShell_HE.description>
+  <MakeAmmo_105mmHowitzerShell_HE.jobString>Робить патрони 105mm HE Howitzer shell</MakeAmmo_105mmHowitzerShell_HE.jobString>
+
+  <MakeAmmo_105mmHowitzerShell_HEAT.label>зробити патрон 105mm HEAT Howitzer shells x2</MakeAmmo_105mmHowitzerShell_HEAT.label>
+  <MakeAmmo_105mmHowitzerShell_HEAT.description>Craft 2 105mm HEAT Howitzer shell</MakeAmmo_105mmHowitzerShell_HEAT.description>
+  <MakeAmmo_105mmHowitzerShell_HEAT.jobString>Робить патрони 105mm HEAT Howitzer shell</MakeAmmo_105mmHowitzerShell_HEAT.jobString>
+
+  <MakeAmmo_105mmHowitzerShell_Incendiary.label>зробити патрон 105mm Incendiary Howitzer shells x2</MakeAmmo_105mmHowitzerShell_Incendiary.label>
+  <MakeAmmo_105mmHowitzerShell_Incendiary.description>Craft 2 105mm Incendiary Howitzer shell</MakeAmmo_105mmHowitzerShell_Incendiary.description>
+  <MakeAmmo_105mmHowitzerShell_Incendiary.jobString>Робить патрони 105mm Incendiary Howitzer shell</MakeAmmo_105mmHowitzerShell_Incendiary.jobString>
+
+  <MakeAmmo_105mmHowitzerShell_EMP.label>зробити патрон 105mm EMP Howitzer shells x2</MakeAmmo_105mmHowitzerShell_EMP.label>
+  <MakeAmmo_105mmHowitzerShell_EMP.description>Craft 2 105mm EMP Howitzer shell</MakeAmmo_105mmHowitzerShell_EMP.description>
+  <MakeAmmo_105mmHowitzerShell_EMP.jobString>Робить патрони 105mm EMP Howitzer shell</MakeAmmo_105mmHowitzerShell_EMP.jobString>
+
+  <MakeAmmo_105mmHowitzerShell_Smoke.label>зробити патрон 105mm Smoke Howitzer shells x2</MakeAmmo_105mmHowitzerShell_Smoke.label>
+  <MakeAmmo_105mmHowitzerShell_Smoke.description>Craft 2 105mm Smoke Howitzer shell</MakeAmmo_105mmHowitzerShell_Smoke.description>
+  <MakeAmmo_105mmHowitzerShell_Smoke.jobString>Робить патрони 105mm Smoke Howitzer shell</MakeAmmo_105mmHowitzerShell_Smoke.jobString>
+
+
+</LanguageData>

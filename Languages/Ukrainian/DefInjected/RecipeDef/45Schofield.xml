@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Standard manufacture -->
+
+  <MakeAmmo_45Schofield_FMJ.label>зробити патрон .45 Schofield x500</MakeAmmo_45Schofield_FMJ.label>
+  <MakeAmmo_45Schofield_FMJ.description>Виготовити п'ятсот патронів .45 Schofield</MakeAmmo_45Schofield_FMJ.description>
+  <MakeAmmo_45Schofield_FMJ.jobString>Робить патрони .45 Schofield</MakeAmmo_45Schofield_FMJ.jobString>
+
+  <MakeAmmo_45Schofield_AP.label>зробити патрон .45 Schofield (Б) x500</MakeAmmo_45Schofield_AP.label>
+  <MakeAmmo_45Schofield_AP.description>Виготовити п'ятсот патронів .45 Schofield (Б)</MakeAmmo_45Schofield_AP.description>
+  <MakeAmmo_45Schofield_AP.jobString>Робить патрони .45 Schofield (Б)</MakeAmmo_45Schofield_AP.jobString>
+
+  <MakeAmmo_45Schofield_HP.label>зробити патрон .45 Schofield (Е) x500</MakeAmmo_45Schofield_HP.label>
+  <MakeAmmo_45Schofield_HP.description>Виготовити п'ятсот патронів .45 Schofield (Е)</MakeAmmo_45Schofield_HP.description>
+  <MakeAmmo_45Schofield_HP.jobString>Робить патрони .45 Schofield (Е)</MakeAmmo_45Schofield_HP.jobString>
+
+
+</LanguageData>

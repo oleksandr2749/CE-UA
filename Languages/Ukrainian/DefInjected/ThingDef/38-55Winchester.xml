@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_3855Winchester_FMJ.label>патрон 9,5х53мм</Ammo_3855Winchester_FMJ.label>
+  <Ammo_3855Winchester_FMJ.description>Old school lever-gun cartridge that offered somewhat similar performance to black powder .45-70 Gov't loads in smaller bore rifles.</Ammo_3855Winchester_FMJ.description>
+
+  <Ammo_3855Winchester_AP.label>патрон 9,5х53мм (Б)</Ammo_3855Winchester_AP.label>
+  <Ammo_3855Winchester_AP.description>Old school lever-gun cartridge that offered somewhat similar performance to black powder .45-70 Gov't loads in smaller bore rifles.</Ammo_3855Winchester_AP.description>
+
+  <Ammo_3855Winchester_HP.label>патрон 9,5х53мм (Е)</Ammo_3855Winchester_HP.label>
+  <Ammo_3855Winchester_HP.description>Old school lever-gun cartridge that offered somewhat similar performance to black powder .45-70 Gov't loads in smaller bore rifles.</Ammo_3855Winchester_HP.description>
+
+  <Ammo_3855Winchester_Incendiary.label>патрон 9,5х53мм (БЗ)</Ammo_3855Winchester_Incendiary.label>
+  <Ammo_3855Winchester_Incendiary.description>Old school lever-gun cartridge that offered somewhat similar performance to black powder .45-70 Gov't loads in smaller bore rifles.</Ammo_3855Winchester_Incendiary.description>
+
+  <Ammo_3855Winchester_HE.label>патрон 9,5х53мм (БФ)</Ammo_3855Winchester_HE.label>
+  <Ammo_3855Winchester_HE.description>Old school lever-gun cartridge that offered somewhat similar performance to black powder .45-70 Gov't loads in smaller bore rifles.</Ammo_3855Winchester_HE.description>
+
+  <Ammo_3855Winchester_Sabot.label>патрон 9,5х53мм (Підкаліберний)</Ammo_3855Winchester_Sabot.label>
+  <Ammo_3855Winchester_Sabot.description>Old school lever-gun cartridge that offered somewhat similar performance to black powder .45-70 Gov't loads in smaller bore rifles.</Ammo_3855Winchester_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_3855Winchester_FMJ.label>.38-55 Winchester cartridge</Bullet_3855Winchester_FMJ.label>
+  <Bullet_3855Winchester_AP.label>.38-55 Winchester cartridge (Б)</Bullet_3855Winchester_AP.label>
+  <Bullet_3855Winchester_HP.label>.38-55 Winchester cartridge (Е)</Bullet_3855Winchester_HP.label>
+  <Bullet_3855Winchester_Incendiary.label>.38-55 bullet (БЗ)</Bullet_3855Winchester_Incendiary.label>
+  <Bullet_3855Winchester_HE.label>.38-55 bullet (БФ)</Bullet_3855Winchester_HE.label>
+  <Bullet_3855Winchester_Sabot.label>.38-55 bullet (Підкаліберний)</Bullet_3855Winchester_Sabot.label>
+
+
+</LanguageData>

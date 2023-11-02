@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SmokeSensitivity.label>чутливість до диму</SmokeSensitivity.label>
+  <SmokeSensitivity.description>Множник впливу вдихання диму на цю істоту.</SmokeSensitivity.description>
+
+
+</LanguageData>

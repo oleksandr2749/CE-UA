@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_22Hornet_FMJ.label>патрон 5,5х35</Ammo_22Hornet_FMJ.label>
+  <Ammo_22Hornet_FMJ.description>One of the earliest and fastest .22 caliber centerfire cartridges.</Ammo_22Hornet_FMJ.description>
+
+  <Ammo_22Hornet_AP.label>патрон 5,5х35 (Б)</Ammo_22Hornet_AP.label>
+  <Ammo_22Hornet_AP.description>One of the earliest and fastest .22 caliber centerfire cartridges.</Ammo_22Hornet_AP.description>
+
+  <Ammo_22Hornet_HP.label>патрон 5,5х35 (Е)</Ammo_22Hornet_HP.label>
+  <Ammo_22Hornet_HP.description>One of the earliest and fastest .22 caliber centerfire cartridges.</Ammo_22Hornet_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_22Hornet_FMJ.label>.22 Hornet bullet</Bullet_22Hornet_FMJ.label>
+  <Bullet_22Hornet_AP.label>.22 Hornet bullet (Б)</Bullet_22Hornet_AP.label>
+  <Bullet_22Hornet_HP.label>.22 Hornet bullet (Е)</Bullet_22Hornet_HP.label>
+
+
+</LanguageData>

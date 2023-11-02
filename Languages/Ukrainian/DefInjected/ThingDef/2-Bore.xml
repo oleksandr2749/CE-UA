@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_2Bore_FMJ.label>патрон 2-го калібру</Ammo_2Bore_FMJ.label>
+  <Ammo_2Bore_FMJ.description>An extremely large caliber sporting cartridge, almost impractical for any purpose, but capable of bringing down large targets like elephants or rhinoceroses.</Ammo_2Bore_FMJ.description>
+
+  <Ammo_2Bore_AP.label>патрон 2-го калібру (Б)</Ammo_2Bore_AP.label>
+  <Ammo_2Bore_AP.description>An extremely large caliber sporting cartridge, almost impractical for any purpose, but capable of bringing down large targets like elephants or rhinoceroses.</Ammo_2Bore_AP.description>
+
+  <Ammo_2Bore_Incendiary.label>патрон 2-го калібру (БТ)</Ammo_2Bore_Incendiary.label>
+  <Ammo_2Bore_Incendiary.description>An extremely large caliber sporting cartridge, almost impractical for any purpose, but capable of bringing down large targets like elephants or rhinoceroses.</Ammo_2Bore_Incendiary.description>
+
+  <Ammo_2Bore_HE.label>патрон 2-го калібру (БФ)</Ammo_2Bore_HE.label>
+  <Ammo_2Bore_HE.description>An extremely large caliber sporting cartridge, almost impractical for any purpose, but capable of bringing down large targets like elephants or rhinoceroses.</Ammo_2Bore_HE.description>
+
+  <Ammo_2Bore_Sabot.label>патрон 2-го калібру (Підкаліберний)</Ammo_2Bore_Sabot.label>
+  <Ammo_2Bore_Sabot.description>An extremely large caliber sporting cartridge, almost impractical for any purpose, but capable of bringing down large targets like elephants or rhinoceroses.</Ammo_2Bore_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_2Bore_FMJ.label>2-Bore bullet</Bullet_2Bore_FMJ.label>
+  <Bullet_2Bore_AP.label>2-Bore bullet (Б)</Bullet_2Bore_AP.label>
+  <Bullet_2Bore_Incendiary.label>2-Bore bullet (БЗ)</Bullet_2Bore_Incendiary.label>
+  <Bullet_2Bore_HE.label>2-Bore bullet (БФ)</Bullet_2Bore_HE.label>
+  <Bullet_2Bore_Sabot.label>2-Bore bullet (Підкаліберний)</Bullet_2Bore_Sabot.label>
+
+
+</LanguageData>

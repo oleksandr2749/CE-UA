@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_50mmType89MortarShell_HE.label>зробити патрон 50mm type 89 HE mortar shells x5</MakeAmmo_50mmType89MortarShell_HE.label>
+  <MakeAmmo_50mmType89MortarShell_HE.description>Craft 5 50mm type 89 HE mortar shell</MakeAmmo_50mmType89MortarShell_HE.description>
+  <MakeAmmo_50mmType89MortarShell_HE.jobString>Робить патрони 50mm type 89 HE mortar shell</MakeAmmo_50mmType89MortarShell_HE.jobString>
+
+  <MakeAmmo_50mmType89MortarShell_Incendiary.label>зробити патрон 50mm type 89 incendiary mortar shells x5</MakeAmmo_50mmType89MortarShell_Incendiary.label>
+  <MakeAmmo_50mmType89MortarShell_Incendiary.description>Craft 5 50mm type 89 incendiary mortar shell</MakeAmmo_50mmType89MortarShell_Incendiary.description>
+  <MakeAmmo_50mmType89MortarShell_Incendiary.jobString>Робить патрони 50mm type 89 incendiary mortar shell</MakeAmmo_50mmType89MortarShell_Incendiary.jobString>
+
+  <MakeAmmo_50mmType89MortarShell_EMP.label>зробити патрон 50mm type 89 EMP mortar shells x5</MakeAmmo_50mmType89MortarShell_EMP.label>
+  <MakeAmmo_50mmType89MortarShell_EMP.description>Craft 5 50mm type 89 EMP mortar shell</MakeAmmo_50mmType89MortarShell_EMP.description>
+  <MakeAmmo_50mmType89MortarShell_EMP.jobString>Робить патрони 50mm type 89 EMP mortar shell</MakeAmmo_50mmType89MortarShell_EMP.jobString>
+
+  <MakeAmmo_50mmType89MortarShell_Smoke.label>зробити патрон 50mm type 89 smoke mortar shells x5</MakeAmmo_50mmType89MortarShell_Smoke.label>
+  <MakeAmmo_50mmType89MortarShell_Smoke.description>Craft 5 50mm type 89 smoke mortar shell</MakeAmmo_50mmType89MortarShell_Smoke.description>
+  <MakeAmmo_50mmType89MortarShell_Smoke.jobString>Робить патрони 50mm type 89 smoke mortar shell</MakeAmmo_50mmType89MortarShell_Smoke.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_23x152mmB_AP.label>патрон 23x152мм (Б)</Ammo_23x152mmB_AP.label>
+  <Ammo_23x152mmB_AP.description>Large caliber cartridge used by autocannons.</Ammo_23x152mmB_AP.description>
+
+  <Ammo_23x152mmB_Incendiary.label>патрон 23x152мм (БЗ)</Ammo_23x152mmB_Incendiary.label>
+  <Ammo_23x152mmB_Incendiary.description>Large caliber cartridge used by autocannons.</Ammo_23x152mmB_Incendiary.description>
+
+  <Ammo_23x152mmB_APHE.label>патрон 23x152мм (БФ)</Ammo_23x152mmB_APHE.label>
+  <Ammo_23x152mmB_APHE.description>Large caliber cartridge used by autocannons.</Ammo_23x152mmB_APHE.description>
+
+  <Ammo_23x152mmB_Sabot.label>патрон 23x152мм (Підкаліберний)</Ammo_23x152mmB_Sabot.label>
+  <Ammo_23x152mmB_Sabot.description>Large caliber cartridge used by autocannons.</Ammo_23x152mmB_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_23x152mmB_AP.label>23x152mmB bullet (Б)</Bullet_23x152mmB_AP.label>
+  <Bullet_23x152mmB_Incendiary.label>23x152mmB bullet (БЗ)</Bullet_23x152mmB_Incendiary.label>
+  <Bullet_23x152mmB_APHE.label>23x152mmB bullet (БФ)</Bullet_23x152mmB_APHE.label>
+  <Bullet_23x152mmB_Sabot.label>23x152mmB bullet (Підкаліберний)</Bullet_23x152mmB_Sabot.label>
+
+
+</LanguageData>

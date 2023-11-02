@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_AntiMateriel_FMJ.label>зробити патрон anti-materiel x200</MakeAmmo_AntiMateriel_FMJ.label>
+  <MakeAmmo_AntiMateriel_FMJ.description>Craft 200 anti-materiel</MakeAmmo_AntiMateriel_FMJ.description>
+  <MakeAmmo_AntiMateriel_FMJ.jobString>Робить патрони anti-materiel</MakeAmmo_AntiMateriel_FMJ.jobString>
+
+  <MakeAmmo_AntiMateriel_AP.label>зробити патрон anti-materiel (Б) x200</MakeAmmo_AntiMateriel_AP.label>
+  <MakeAmmo_AntiMateriel_AP.description>Craft 200 anti-materiel (Б)</MakeAmmo_AntiMateriel_AP.description>
+  <MakeAmmo_AntiMateriel_AP.jobString>Робить патрони anti-materiel (Б)</MakeAmmo_AntiMateriel_AP.jobString>
+
+  <MakeAmmo_AntiMateriel_Incendiary.label>зробити патрон anti-materiel (БЗ) x200</MakeAmmo_AntiMateriel_Incendiary.label>
+  <MakeAmmo_AntiMateriel_Incendiary.description>Craft 200 anti-materiel (БЗ)</MakeAmmo_AntiMateriel_Incendiary.description>
+  <MakeAmmo_AntiMateriel_Incendiary.jobString>Робить патрони anti-materiel (БЗ)</MakeAmmo_AntiMateriel_Incendiary.jobString>
+
+  <MakeAmmo_AntiMateriel_HE.label>зробити патрон anti-materiel (HE) x200</MakeAmmo_AntiMateriel_HE.label>
+  <MakeAmmo_AntiMateriel_HE.description>Craft 200 anti-materiel (HE)</MakeAmmo_AntiMateriel_HE.description>
+  <MakeAmmo_AntiMateriel_HE.jobString>Робить патрони anti-materiel (HE)</MakeAmmo_AntiMateriel_HE.jobString>
+
+  <MakeAmmo_AntiMateriel_Sabot.label>зробити патрон anti-materiel (Підкаліберний) x200</MakeAmmo_AntiMateriel_Sabot.label>
+  <MakeAmmo_AntiMateriel_Sabot.description>Craft 200 anti-materiel (Підкаліберний)</MakeAmmo_AntiMateriel_Sabot.description>
+  <MakeAmmo_AntiMateriel_Sabot.jobString>Робить патрони anti-materiel (Підкаліберний)</MakeAmmo_AntiMateriel_Sabot.jobString>
+
+
+</LanguageData>

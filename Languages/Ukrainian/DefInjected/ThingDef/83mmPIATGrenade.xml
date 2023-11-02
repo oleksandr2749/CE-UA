@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_83mmPIATGrenade_HEAT.label>реактивний снаряд 83мм (Кумулятивний)</Ammo_83mmPIATGrenade_HEAT.label>
+  <Ammo_83mmPIATGrenade_HEAT.description>Large spigot grenade designed to be fired at tanks.</Ammo_83mmPIATGrenade_HEAT.description>
+
+  <Ammo_83mmPIATGrenade_HE.label>реактивний снаряд 83мм (Фугасний)</Ammo_83mmPIATGrenade_HE.label>
+  <Ammo_83mmPIATGrenade_HE.description>Large spigot grenade designed to be fired at tanks.</Ammo_83mmPIATGrenade_HE.description>
+
+  <Ammo_83mmPIATGrenade_EMP.label>реактивний снаряд 83мм (ЕМІ)</Ammo_83mmPIATGrenade_EMP.label>
+  <Ammo_83mmPIATGrenade_EMP.description>Large spigot grenade designed to be fired at tanks.</Ammo_83mmPIATGrenade_EMP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_83mmPIATGrenade_HEAT.label>83mm PIAT grenade (Кумулятивний)</Bullet_83mmPIATGrenade_HEAT.label>
+  <Bullet_83mmPIATGrenade_HE.label>83mm PIAT grenade (Фугасний)</Bullet_83mmPIATGrenade_HE.label>
+  <Bullet_83mmPIATGrenade_EMP.label>83mm PIAT grenade (ЕМІ)</Bullet_83mmPIATGrenade_EMP.label>
+
+
+</LanguageData>

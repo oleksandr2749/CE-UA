@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CE_Mercenary_MachineGunner.label>кулеметник-найманець</CE_Mercenary_MachineGunner.label>
+  <CE_Mercenary_MachineGunner.labelPlural>кулеметники-найманці</CE_Mercenary_MachineGunner.labelPlural>
+
+
+  <!-- Tribals -->
+
+  <CE_Tribal_Grenadier.label>буммер</CE_Tribal_Grenadier.label>
+  <CE_Tribal_Grenadier.labelPlural>бумери</CE_Tribal_Grenadier.labelPlural>
+
+  <CE_Tribal_Gunner.label>громовержець</CE_Tribal_Gunner.label>
+  <CE_Tribal_Gunner.labelPlural>громовержці</CE_Tribal_Gunner.labelPlural>
+
+
+</LanguageData>

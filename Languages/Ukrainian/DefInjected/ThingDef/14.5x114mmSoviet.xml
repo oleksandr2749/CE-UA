@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_145x114mm_FMJ.label>патрон 14,5x114мм</Ammo_145x114mm_FMJ.label>
+  <Ammo_145x114mm_FMJ.description>Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.</Ammo_145x114mm_FMJ.description>
+
+  <Ammo_145x114mm_AP.label>патрон 14,5x114мм (Б)</Ammo_145x114mm_AP.label>
+  <Ammo_145x114mm_AP.description>Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.</Ammo_145x114mm_AP.description>
+
+  <Ammo_145x114mm_Incendiary.label>патрон 14,5x114мм (БЗ)</Ammo_145x114mm_Incendiary.label>
+  <Ammo_145x114mm_Incendiary.description>Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.</Ammo_145x114mm_Incendiary.description>
+
+  <Ammo_145x114mm_HE.label>патрон 14,5x114мм (БФ)</Ammo_145x114mm_HE.label>
+  <Ammo_145x114mm_HE.description>Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.</Ammo_145x114mm_HE.description>
+
+  <Ammo_145x114mm_Sabot.label>патрон 14,5x114мм (Підкаліберний)</Ammo_145x114mm_Sabot.label>
+  <Ammo_145x114mm_Sabot.description>Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.</Ammo_145x114mm_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_145x114mm_FMJ.label>14.5x114mm bullet</Bullet_145x114mm_FMJ.label>
+  <Bullet_145x114mm_AP.label>14.5x114mm bullet (Б)</Bullet_145x114mm_AP.label>
+  <Bullet_145x114mm_Incendiary.label>14.5x114mm bullet (БЗ)</Bullet_145x114mm_Incendiary.label>
+  <Bullet_145x114mm_HE.label>14.5x114mm bullet (БФ)</Bullet_145x114mm_HE.label>
+  <Bullet_145x114mm_Sabot.label>14.5x114mm bullet (Підкаліберний)</Bullet_145x114mm_Sabot.label>
+
+
+</LanguageData>

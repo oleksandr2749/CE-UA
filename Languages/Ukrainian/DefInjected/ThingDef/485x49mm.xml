@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_485x49mm_FMJ.label>патрон 5х49мм</Ammo_485x49mm_FMJ.label>
+  <Ammo_485x49mm_FMJ.description>Prototype intermediate rifle cartridge used in various small arms.</Ammo_485x49mm_FMJ.description>
+
+  <Ammo_485x49mm_AP.label>патрон 5х49мм (Б)</Ammo_485x49mm_AP.label>
+  <Ammo_485x49mm_AP.description>Prototype intermediate rifle cartridge used in various small arms.</Ammo_485x49mm_AP.description>
+
+  <Ammo_485x49mm_HP.label>патрон 5х49мм (Е)</Ammo_485x49mm_HP.label>
+  <Ammo_485x49mm_HP.description>Prototype intermediate rifle cartridge used in various small arms.</Ammo_485x49mm_HP.description>
+
+  <Ammo_485x49mm_Incendiary.label>патрон 5х49мм (БЗ)</Ammo_485x49mm_Incendiary.label>
+  <Ammo_485x49mm_Incendiary.description>Prototype intermediate rifle cartridge used in various small arms.</Ammo_485x49mm_Incendiary.description>
+
+  <Ammo_485x49mm_HE.label>патрон 5х49мм (БФ)</Ammo_485x49mm_HE.label>
+  <Ammo_485x49mm_HE.description>Prototype intermediate rifle cartridge used in various small arms.</Ammo_485x49mm_HE.description>
+
+  <Ammo_485x49mm_Sabot.label>патрон 5х49мм (Підкаліберний)</Ammo_485x49mm_Sabot.label>
+  <Ammo_485x49mm_Sabot.description>Prototype intermediate rifle cartridge used in various small arms.</Ammo_485x49mm_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_485x49mm_FMJ.label>4.85x49mm cartridge</Bullet_485x49mm_FMJ.label>
+  <Bullet_485x49mm_AP.label>4.85x49mm cartridge (Б)</Bullet_485x49mm_AP.label>
+  <Bullet_485x49mm_HP.label>4.85x49mm cartridge (Е)</Bullet_485x49mm_HP.label>
+  <Bullet_485x49mm_Incendiary.label>4.85x49mm bullet (БЗ)</Bullet_485x49mm_Incendiary.label>
+  <Bullet_485x49mm_HE.label>4.85x49mm bullet (БФ)</Bullet_485x49mm_HE.label>
+  <Bullet_485x49mm_Sabot.label>4.85x49mm bullet (Підкаліберний)</Bullet_485x49mm_Sabot.label>
+
+
+</LanguageData>

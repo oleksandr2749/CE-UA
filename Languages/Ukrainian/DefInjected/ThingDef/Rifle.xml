@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_Rifle_FMJ.label>гвинтівковий патрон</Ammo_Rifle_FMJ.label>
+  <Ammo_Rifle_FMJ.description>Large rifle bullet used in machine guns, sniper rifles and battle rifles.</Ammo_Rifle_FMJ.description>
+
+  <Ammo_Rifle_AP.label>гвинтівковий патрон (Б)</Ammo_Rifle_AP.label>
+  <Ammo_Rifle_AP.description>Large rifle bullet used in machine guns, sniper rifles and battle rifles.</Ammo_Rifle_AP.description>
+
+  <Ammo_Rifle_HP.label>гвинтівковий патрон (Е)</Ammo_Rifle_HP.label>
+  <Ammo_Rifle_HP.description>Large rifle bullet used in machine guns, sniper rifles and battle rifles.</Ammo_Rifle_HP.description>
+
+  <Ammo_Rifle_Incendiary.label>гвинтівковий патрон (БЗ)</Ammo_Rifle_Incendiary.label>
+  <Ammo_Rifle_Incendiary.description>Large rifle bullet used in machine guns, sniper rifles and battle rifles.</Ammo_Rifle_Incendiary.description>
+
+  <Ammo_Rifle_HE.label>гвинтівковий патрон (Фугасний)</Ammo_Rifle_HE.label>
+  <Ammo_Rifle_HE.description>Large rifle bullet used in machine guns, sniper rifles and battle rifles.</Ammo_Rifle_HE.description>
+
+  <Ammo_Rifle_Sabot.label>гвинтівковий патрон (Підкаліберний)</Ammo_Rifle_Sabot.label>
+  <Ammo_Rifle_Sabot.description>Large rifle bullet used in machine guns, sniper rifles and battle rifles.</Ammo_Rifle_Sabot.description>
+
+
+</LanguageData>

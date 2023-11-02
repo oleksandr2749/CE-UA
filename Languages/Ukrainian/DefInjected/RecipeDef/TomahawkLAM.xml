@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_TomahawkLAM.label>зробити патрон Tomahawk Missile</MakeAmmo_TomahawkLAM.label>
+  <MakeAmmo_TomahawkLAM.description>Craft a single Tomahawk Missile.</MakeAmmo_TomahawkLAM.description>
+  <MakeAmmo_TomahawkLAM.jobString>Робить патрони Tomahawk Missile.</MakeAmmo_TomahawkLAM.jobString>
+
+
+</LanguageData>

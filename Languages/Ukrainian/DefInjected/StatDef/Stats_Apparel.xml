@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WornBulk.label>громіздкість</WornBulk.label>
+  <WornBulk.description>Наскільки громіздкий цей одяг при носінні.</WornBulk.description>
+
+  <ArmorRating_Electric.label>Електростійкість</ArmorRating_Electric.label>
+  <ArmorRating_Electric.description>Відсоткове зменшення пошкоджень від електрики, таких як ЕМІ та іонізуючих снарядів.\n\nЗначення 100% або вище робить істоту несприйнятливою до всіх електричних пошкоджень у цій ділянці тіла.</ArmorRating_Electric.description>
+
+  <ElectricDamageMultiplier.label>електропровідність</ElectricDamageMultiplier.label>
+  <ElectricDamageMultiplier.description>Множник шкоди від електричних атак для зброї виготовленої з цього матеріалу.</ElectricDamageMultiplier.description>
+
+
+</LanguageData>

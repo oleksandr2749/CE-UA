@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_44SWSpecial_FMJ.label>патрон 11х29мм</Ammo_44SWSpecial_FMJ.label>
+  <Ammo_44SWSpecial_FMJ.description>A centerfire pistol and revolver cartridge that was one of the first to be purposely designed for smokeless powder.</Ammo_44SWSpecial_FMJ.description>
+
+  <Ammo_44SWSpecial_AP.label>патрон 11х29мм (Б)</Ammo_44SWSpecial_AP.label>
+  <Ammo_44SWSpecial_AP.description>A centerfire pistol and revolver cartridge that was one of the first to be purposely designed for smokeless powder.</Ammo_44SWSpecial_AP.description>
+
+  <Ammo_44SWSpecial_HP.label>патрон 11х29мм (Е)</Ammo_44SWSpecial_HP.label>
+  <Ammo_44SWSpecial_HP.description>A centerfire pistol and revolver cartridge that was one of the first to be purposely designed for smokeless powder.</Ammo_44SWSpecial_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_44SWSpecial_FMJ.label>.44 S&amp;W Special bullet</Bullet_44SWSpecial_FMJ.label>
+  <Bullet_44SWSpecial_AP.label>.44 S&amp;W Special bullet (Б)</Bullet_44SWSpecial_AP.label>
+  <Bullet_44SWSpecial_HP.label>.44 S&amp;W Special bullet (Е)</Bullet_44SWSpecial_HP.label>
+
+
+</LanguageData>

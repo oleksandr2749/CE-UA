@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_MiniCannonBall_Round.label>зробити патрон mini round shot cannon balls x50</MakeAmmo_MiniCannonBall_Round.label>
+  <MakeAmmo_MiniCannonBall_Round.description>Craft 50 mini round shot cannon ball</MakeAmmo_MiniCannonBall_Round.description>
+  <MakeAmmo_MiniCannonBall_Round.jobString>Робить патрони mini round shot cannon ball</MakeAmmo_MiniCannonBall_Round.jobString>
+
+  <MakeAmmo_MiniCannonBall_Grape.label>Make mini grape shot cannon shells x50</MakeAmmo_MiniCannonBall_Grape.label>
+  <MakeAmmo_MiniCannonBall_Grape.description>Craft 50 mini grape shot cannon shell</MakeAmmo_MiniCannonBall_Grape.description>
+  <MakeAmmo_MiniCannonBall_Grape.jobString>Робить патрони mini grape shot cannon shell</MakeAmmo_MiniCannonBall_Grape.jobString>
+
+
+</LanguageData>

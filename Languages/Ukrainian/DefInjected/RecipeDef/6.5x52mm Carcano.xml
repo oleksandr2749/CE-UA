@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_65x52mmCarcano_FMJ.label>зробити патрон 6,75x52мм x500</MakeAmmo_65x52mmCarcano_FMJ.label>
+  <MakeAmmo_65x52mmCarcano_FMJ.description>Виготовити п'ятсот патронів 6,75x52мм</MakeAmmo_65x52mmCarcano_FMJ.description>
+  <MakeAmmo_65x52mmCarcano_FMJ.jobString>Робить патрони 6,75x52мм</MakeAmmo_65x52mmCarcano_FMJ.jobString>
+
+  <MakeAmmo_65x52mmCarcano_AP.label>зробити патрон 6,75x52мм (Б) x500</MakeAmmo_65x52mmCarcano_AP.label>
+  <MakeAmmo_65x52mmCarcano_AP.description>Виготовити п'ятсот патронів 6,75x52мм (Б)</MakeAmmo_65x52mmCarcano_AP.description>
+  <MakeAmmo_65x52mmCarcano_AP.jobString>Робить патрони 6,75x52мм (Б)</MakeAmmo_65x52mmCarcano_AP.jobString>
+
+  <MakeAmmo_65x52mmCarcano_HP.label>зробити патрон 6,75x52мм (Е) x500</MakeAmmo_65x52mmCarcano_HP.label>
+  <MakeAmmo_65x52mmCarcano_HP.description>Виготовити п'ятсот патронів 6,75x52мм (Е)</MakeAmmo_65x52mmCarcano_HP.description>
+  <MakeAmmo_65x52mmCarcano_HP.jobString>Робить патрони 6,75x52мм (Е)</MakeAmmo_65x52mmCarcano_HP.jobString>
+
+  <MakeAmmo_65x52mmCarcano_Incendiary.label>зробити патрон 6,75x52мм (БЗ) x500</MakeAmmo_65x52mmCarcano_Incendiary.label>
+  <MakeAmmo_65x52mmCarcano_Incendiary.description>Виготовити п'ятсот патронів 6,75x52мм (БЗ)</MakeAmmo_65x52mmCarcano_Incendiary.description>
+  <MakeAmmo_65x52mmCarcano_Incendiary.jobString>Робить патрони 6,75x52мм (БЗ)</MakeAmmo_65x52mmCarcano_Incendiary.jobString>
+
+  <MakeAmmo_65x52mmCarcano_HE.label>зробити патрон 6,75x52мм (БФ) x500</MakeAmmo_65x52mmCarcano_HE.label>
+  <MakeAmmo_65x52mmCarcano_HE.description>Виготовити п'ятсот патронів 6,75x52мм (БФ)</MakeAmmo_65x52mmCarcano_HE.description>
+  <MakeAmmo_65x52mmCarcano_HE.jobString>Робить патрони 6,75x52мм (БФ)</MakeAmmo_65x52mmCarcano_HE.jobString>
+
+  <MakeAmmo_65x52mmCarcano_Sabot.label>зробити патрон 6,75x52мм (Підкаліберний) x500</MakeAmmo_65x52mmCarcano_Sabot.label>
+  <MakeAmmo_65x52mmCarcano_Sabot.description>Виготовити п'ятсот патронів 6,75x52мм (Підкаліберний)</MakeAmmo_65x52mmCarcano_Sabot.description>
+  <MakeAmmo_65x52mmCarcano_Sabot.jobString>Робить патрони 6,75x52мм (Підкаліберний)</MakeAmmo_65x52mmCarcano_Sabot.jobString>
+
+
+</LanguageData>

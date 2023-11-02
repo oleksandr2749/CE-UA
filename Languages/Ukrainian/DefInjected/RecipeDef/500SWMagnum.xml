@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_500SWMagnum_FMJ.label>зробити патрон .500 S&amp;W Magnum x500</MakeAmmo_500SWMagnum_FMJ.label>
+  <MakeAmmo_500SWMagnum_FMJ.description>Виготовити п'ятсот патронів .500 S&amp;W Magnum</MakeAmmo_500SWMagnum_FMJ.description>
+  <MakeAmmo_500SWMagnum_FMJ.jobString>Робить патрони .500 S&amp;W Magnum</MakeAmmo_500SWMagnum_FMJ.jobString>
+
+  <MakeAmmo_500SWMagnum_AP.label>зробити патрон .500 S&amp;W Magnum (Б) x500</MakeAmmo_500SWMagnum_AP.label>
+  <MakeAmmo_500SWMagnum_AP.description>Виготовити п'ятсот патронів .500 S&amp;W Magnum (Б)</MakeAmmo_500SWMagnum_AP.description>
+  <MakeAmmo_500SWMagnum_AP.jobString>Робить патрони .500 S&amp;W Magnum (Б)</MakeAmmo_500SWMagnum_AP.jobString>
+
+  <MakeAmmo_500SWMagnum_HP.label>зробити патрон .500 S&amp;W Magnum (Е) x500</MakeAmmo_500SWMagnum_HP.label>
+  <MakeAmmo_500SWMagnum_HP.description>Виготовити п'ятсот патронів .500 S&amp;W Magnum (Е)</MakeAmmo_500SWMagnum_HP.description>
+  <MakeAmmo_500SWMagnum_HP.jobString>Робить патрони .500 S&amp;W Magnum (Е)</MakeAmmo_500SWMagnum_HP.jobString>
+
+
+</LanguageData>

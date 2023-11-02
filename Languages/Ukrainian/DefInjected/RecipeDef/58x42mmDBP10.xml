@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_58x42mmDBP10_FMJ.label>зробити патрон 5.8x42mm DBP10 x500</MakeAmmo_58x42mmDBP10_FMJ.label>
+  <MakeAmmo_58x42mmDBP10_FMJ.description>Виготовити п'ятсот патронів 5.8x42mm DBP10</MakeAmmo_58x42mmDBP10_FMJ.description>
+  <MakeAmmo_58x42mmDBP10_FMJ.jobString>Робить патрони 5.8x42mm DBP10</MakeAmmo_58x42mmDBP10_FMJ.jobString>
+
+  <MakeAmmo_58x42mmDBP10_AP.label>зробити патрон 5.8x42mm DBP10 (Б) x500</MakeAmmo_58x42mmDBP10_AP.label>
+  <MakeAmmo_58x42mmDBP10_AP.description>Виготовити п'ятсот патронів 5.8x42mm DBP10 (Б)</MakeAmmo_58x42mmDBP10_AP.description>
+  <MakeAmmo_58x42mmDBP10_AP.jobString>Робить патрони 5.8x42mm DBP10 (Б)</MakeAmmo_58x42mmDBP10_AP.jobString>
+
+  <MakeAmmo_58x42mmDBP10_HP.label>зробити патрон 5.8x42mm DBP10 (Е) x500</MakeAmmo_58x42mmDBP10_HP.label>
+  <MakeAmmo_58x42mmDBP10_HP.description>Виготовити п'ятсот патронів 5.8x42mm DBP10 (Е)</MakeAmmo_58x42mmDBP10_HP.description>
+  <MakeAmmo_58x42mmDBP10_HP.jobString>Робить патрони 5.8x42mm DBP10 (Е)</MakeAmmo_58x42mmDBP10_HP.jobString>
+
+  <MakeAmmo_58x42mmDBP10_Incendiary.label>зробити патрон 5.8x42mm DBP10 (БЗ) x500</MakeAmmo_58x42mmDBP10_Incendiary.label>
+  <MakeAmmo_58x42mmDBP10_Incendiary.description>Виготовити п'ятсот патронів 5.8x42mm DBP10 (БЗ)</MakeAmmo_58x42mmDBP10_Incendiary.description>
+  <MakeAmmo_58x42mmDBP10_Incendiary.jobString>Робить патрони 5.8x42mm DBP10 (БЗ)</MakeAmmo_58x42mmDBP10_Incendiary.jobString>
+
+  <MakeAmmo_58x42mmDBP10_HE.label>зробити патрон 5.8x42mm DBP10 (БФ) x500</MakeAmmo_58x42mmDBP10_HE.label>
+  <MakeAmmo_58x42mmDBP10_HE.description>Виготовити п'ятсот патронів 5.8x42mm DBP10 (БФ)</MakeAmmo_58x42mmDBP10_HE.description>
+  <MakeAmmo_58x42mmDBP10_HE.jobString>Робить патрони 5.8x42mm DBP10 (БФ)</MakeAmmo_58x42mmDBP10_HE.jobString>
+
+  <MakeAmmo_58x42mmDBP10_Sabot.label>зробити патрон 5.8x42mm DBP10 (Підкаліберний) x500</MakeAmmo_58x42mmDBP10_Sabot.label>
+  <MakeAmmo_58x42mmDBP10_Sabot.description>Виготовити п'ятсот патронів 5.8x42mm DBP10 (Підкаліберний)</MakeAmmo_58x42mmDBP10_Sabot.description>
+  <MakeAmmo_58x42mmDBP10_Sabot.jobString>Робить патрони 5.8x42mm DBP10 (Підкаліберний)</MakeAmmo_58x42mmDBP10_Sabot.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_Pistol_FMJ.label>зробити патрон pistol x500</MakeAmmo_Pistol_FMJ.label>
+  <MakeAmmo_Pistol_FMJ.description>Виготовити п'ятсот патронів pistol</MakeAmmo_Pistol_FMJ.description>
+  <MakeAmmo_Pistol_FMJ.jobString>Робить патрони pistol</MakeAmmo_Pistol_FMJ.jobString>
+
+  <MakeAmmo_Pistol_AP.label>зробити патрон pistol (Б) x500</MakeAmmo_Pistol_AP.label>
+  <MakeAmmo_Pistol_AP.description>Виготовити п'ятсот патронів pistol (Б)</MakeAmmo_Pistol_AP.description>
+  <MakeAmmo_Pistol_AP.jobString>Робить патрони pistol (Б)</MakeAmmo_Pistol_AP.jobString>
+
+  <MakeAmmo_Pistol_HP.label>зробити патрон pistol (Е) x500</MakeAmmo_Pistol_HP.label>
+  <MakeAmmo_Pistol_HP.description>Виготовити п'ятсот патронів pistol (Е)</MakeAmmo_Pistol_HP.description>
+  <MakeAmmo_Pistol_HP.jobString>Робить патрони pistol (Е)</MakeAmmo_Pistol_HP.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_RifleIntermediate_FMJ.label>зробити патрон intermediate rifle x500</MakeAmmo_RifleIntermediate_FMJ.label>
+  <MakeAmmo_RifleIntermediate_FMJ.description>Виготовити п'ятсот патронів intermediate rifle</MakeAmmo_RifleIntermediate_FMJ.description>
+  <MakeAmmo_RifleIntermediate_FMJ.jobString>Робить патрони intermediate rifle</MakeAmmo_RifleIntermediate_FMJ.jobString>
+
+  <MakeAmmo_RifleIntermediate_AP.label>зробити патрон intermediate rifle (Б) x500</MakeAmmo_RifleIntermediate_AP.label>
+  <MakeAmmo_RifleIntermediate_AP.description>Виготовити п'ятсот патронів intermediate rifle (Б)</MakeAmmo_RifleIntermediate_AP.description>
+  <MakeAmmo_RifleIntermediate_AP.jobString>Робить патрони intermediate rifle (Б)</MakeAmmo_RifleIntermediate_AP.jobString>
+
+  <MakeAmmo_RifleIntermediate_HP.label>зробити патрон intermediate rifle (Е) x500</MakeAmmo_RifleIntermediate_HP.label>
+  <MakeAmmo_RifleIntermediate_HP.description>Виготовити п'ятсот патронів intermediate rifle (Е)</MakeAmmo_RifleIntermediate_HP.description>
+  <MakeAmmo_RifleIntermediate_HP.jobString>Робить патрони intermediate rifle (Е)</MakeAmmo_RifleIntermediate_HP.jobString>
+
+  <MakeAmmo_RifleIntermediate_Incendiary.label>зробити патрон intermediate rifle (БЗ) x500</MakeAmmo_RifleIntermediate_Incendiary.label>
+  <MakeAmmo_RifleIntermediate_Incendiary.description>Виготовити п'ятсот патронів intermediate rifle (БЗ)</MakeAmmo_RifleIntermediate_Incendiary.description>
+  <MakeAmmo_RifleIntermediate_Incendiary.jobString>Робить патрони intermediate rifle (БЗ)</MakeAmmo_RifleIntermediate_Incendiary.jobString>
+
+  <MakeAmmo_RifleIntermediate_HE.label>зробити патрон intermediate rifle (HE) x500</MakeAmmo_RifleIntermediate_HE.label>
+  <MakeAmmo_RifleIntermediate_HE.description>Виготовити п'ятсот патронів intermediate rifle (HE)</MakeAmmo_RifleIntermediate_HE.description>
+  <MakeAmmo_RifleIntermediate_HE.jobString>Робить патрони intermediate rifle (HE)</MakeAmmo_RifleIntermediate_HE.jobString>
+
+  <MakeAmmo_RifleIntermediate_Sabot.label>зробити патрон intermediate rifle (Підкаліберний) x500</MakeAmmo_RifleIntermediate_Sabot.label>
+  <MakeAmmo_RifleIntermediate_Sabot.description>Виготовити п'ятсот патронів intermediate rifle (Підкаліберний)</MakeAmmo_RifleIntermediate_Sabot.description>
+  <MakeAmmo_RifleIntermediate_Sabot.jobString>Робить патрони intermediate rifle (Підкаліберний)</MakeAmmo_RifleIntermediate_Sabot.jobString>
+
+
+</LanguageData>

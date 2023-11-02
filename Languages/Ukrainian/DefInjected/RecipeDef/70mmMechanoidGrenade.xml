@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_70mmMechanoidGrenade_HE.label>зробити патрон 70mm Mechanoid HE Grenade x5</MakeAmmo_70mmMechanoidGrenade_HE.label>
+  <MakeAmmo_70mmMechanoidGrenade_HE.description>Craft 5 70mm Mechanoid HE Grenade</MakeAmmo_70mmMechanoidGrenade_HE.description>
+  <MakeAmmo_70mmMechanoidGrenade_HE.jobString>Робить патрони 70mm Mechanoid HE Grenade</MakeAmmo_70mmMechanoidGrenade_HE.jobString>
+
+  <MakeAmmo_70mmMechanoidGrenade_EMP.label>зробити патрон 70mm Mechanoid EMP Grenade x5</MakeAmmo_70mmMechanoidGrenade_EMP.label>
+  <MakeAmmo_70mmMechanoidGrenade_EMP.description>Craft 5 70mm Mechanoid EMP Grenade</MakeAmmo_70mmMechanoidGrenade_EMP.description>
+  <MakeAmmo_70mmMechanoidGrenade_EMP.jobString>Робить патрони 70mm Mechanoid EMP Grenade</MakeAmmo_70mmMechanoidGrenade_EMP.jobString>
+
+
+</LanguageData>

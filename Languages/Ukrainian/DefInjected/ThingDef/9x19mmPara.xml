@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_9x19mmPara_FMJ.label>патрон 9x19мм</Ammo_9x19mmPara_FMJ.label>
+  <Ammo_9x19mmPara_FMJ.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_9x19mmPara_FMJ.description>
+
+  <Ammo_9x19mmPara_AP.label>патрон 9x19мм (Б)</Ammo_9x19mmPara_AP.label>
+  <Ammo_9x19mmPara_AP.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_9x19mmPara_AP.description>
+
+  <Ammo_9x19mmPara_HP.label>патрон 9x19мм (Е)</Ammo_9x19mmPara_HP.label>
+  <Ammo_9x19mmPara_HP.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_9x19mmPara_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_9x19mmPara_FMJ.label>9mm Para bullet</Bullet_9x19mmPara_FMJ.label>
+  <Bullet_9x19mmPara_AP.label>9mm Para bullet (Б)</Bullet_9x19mmPara_AP.label>
+  <Bullet_9x19mmPara_HP.label>9mm Para bullet (Е)</Bullet_9x19mmPara_HP.label>
+  <Bullet_9x19mmParaSD_FMJ.label>9mm Para bullet</Bullet_9x19mmParaSD_FMJ.label>
+  <Bullet_9x19mmParaSD_AP.label>9mm Para bullet (Б)</Bullet_9x19mmParaSD_AP.label>
+  <Bullet_9x19mmParaSD_HP.label>9mm Para bullet (Е)</Bullet_9x19mmParaSD_HP.label>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_338Norma_FMJ.label>патрон 8,6х63мм</Ammo_338Norma_FMJ.label>
+  <Ammo_338Norma_FMJ.description>Wildcat cartridge designed for long-range sport shooting.</Ammo_338Norma_FMJ.description>
+
+  <Ammo_338Norma_AP.label>патрон 8,6х63мм (Б)</Ammo_338Norma_AP.label>
+  <Ammo_338Norma_AP.description>Wildcat cartridge designed for long-range sport shooting.</Ammo_338Norma_AP.description>
+
+  <Ammo_338Norma_Incendiary.label>патрон 8,6х63мм (БЗ)</Ammo_338Norma_Incendiary.label>
+  <Ammo_338Norma_Incendiary.description>Wildcat cartridge designed for long-range sport shooting.</Ammo_338Norma_Incendiary.description>
+
+  <Ammo_338Norma_HE.label>патрон 8,6х63мм (БФ)</Ammo_338Norma_HE.label>
+  <Ammo_338Norma_HE.description>Wildcat cartridge designed for long-range sport shooting.</Ammo_338Norma_HE.description>
+
+  <Ammo_338Norma_Sabot.label>патрон 8,6х63мм (Підкаліберний)</Ammo_338Norma_Sabot.label>
+  <Ammo_338Norma_Sabot.description>Wildcat cartridge designed for long-range sport shooting.</Ammo_338Norma_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_338Norma_FMJ.label>.338 Norma Magnum bullet</Bullet_338Norma_FMJ.label>
+  <Bullet_338Norma_AP.label>.338 Norma Magnum bullet (Б)</Bullet_338Norma_AP.label>
+  <Bullet_338Norma_Incendiary.label>.338 Norma Magnum bullet (БЗ)</Bullet_338Norma_Incendiary.label>
+  <Bullet_338Norma_HE.label>.338 Norma Magnum bullet (БФ)</Bullet_338Norma_HE.label>
+  <Bullet_338Norma_Sabot.label>.338 Norma Magnum bullet (Підкаліберний)</Bullet_338Norma_Sabot.label>
+
+
+</LanguageData>

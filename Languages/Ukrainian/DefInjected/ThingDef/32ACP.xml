@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_32ACP_FMJ.label>патрон 8х17мм</Ammo_32ACP_FMJ.label>
+  <Ammo_32ACP_FMJ.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_32ACP_FMJ.description>
+
+  <Ammo_32ACP_AP.label>патрон 8х17мм (Б)</Ammo_32ACP_AP.label>
+  <Ammo_32ACP_AP.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_32ACP_AP.description>
+
+  <Ammo_32ACP_HP.label>патрон 8х17мм (Е)</Ammo_32ACP_HP.label>
+  <Ammo_32ACP_HP.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_32ACP_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_32ACP_FMJ.label>.32 ACP bullet</Bullet_32ACP_FMJ.label>
+  <Bullet_32ACP_AP.label>.32 ACP bullet (Б)</Bullet_32ACP_AP.label>
+  <Bullet_32ACP_HP.label>.32 ACP bullet (Е)</Bullet_32ACP_HP.label>
+
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_9x21mmGyurza_FMJ.label>патрон 9x21мм</Ammo_9x21mmGyurza_FMJ.label>
+  <Ammo_9x21mmGyurza_FMJ.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_9x21mmGyurza_FMJ.description>
+
+  <Ammo_9x21mmGyurza_AP.label>патрон 9x21мм (Б)</Ammo_9x21mmGyurza_AP.label>
+  <Ammo_9x21mmGyurza_AP.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_9x21mmGyurza_AP.description>
+
+  <Ammo_9x21mmGyurza_HP.label>патрон 9x21мм (Б)</Ammo_9x21mmGyurza_HP.label>
+  <Ammo_9x21mmGyurza_HP.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_9x21mmGyurza_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_9x21mmGyurza_FMJ.label>9mm Gyurza bullet</Bullet_9x21mmGyurza_FMJ.label>
+  <Bullet_9x21mmGyurza_AP.label>9mm Gyurza bullet (Б)</Bullet_9x21mmGyurza_AP.label>
+  <Bullet_9x21mmGyurza_HP.label>9mm Gyurza bullet (Е)</Bullet_9x21mmGyurza_HP.label>
+
+
+</LanguageData>

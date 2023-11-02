@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_303British_FMJ.label>зробити патрон .303 British x500</MakeAmmo_303British_FMJ.label>
+  <MakeAmmo_303British_FMJ.description>Виготовити п'ятсот патронів .303 British</MakeAmmo_303British_FMJ.description>
+  <MakeAmmo_303British_FMJ.jobString>Робить патрони .303 British</MakeAmmo_303British_FMJ.jobString>
+
+  <MakeAmmo_303British_AP.label>зробити патрон .303 British (Б) x500</MakeAmmo_303British_AP.label>
+  <MakeAmmo_303British_AP.description>Виготовити п'ятсот патронів .303 British (Б)</MakeAmmo_303British_AP.description>
+  <MakeAmmo_303British_AP.jobString>Робить патрони .303 British (Б)</MakeAmmo_303British_AP.jobString>
+
+  <MakeAmmo_303British_HP.label>зробити патрон .303 British (Е) x500</MakeAmmo_303British_HP.label>
+  <MakeAmmo_303British_HP.description>Виготовити п'ятсот патронів .303 British (Е)</MakeAmmo_303British_HP.description>
+  <MakeAmmo_303British_HP.jobString>Робить патрони .303 British (Е)</MakeAmmo_303British_HP.jobString>
+
+  <MakeAmmo_303British_Incendiary.label>зробити патрон .303 British (БЗ) x500</MakeAmmo_303British_Incendiary.label>
+  <MakeAmmo_303British_Incendiary.description>Виготовити п'ятсот патронів .303 British (БЗ)</MakeAmmo_303British_Incendiary.description>
+  <MakeAmmo_303British_Incendiary.jobString>Робить патрони .303 British (БЗ)</MakeAmmo_303British_Incendiary.jobString>
+
+  <MakeAmmo_303British_HE.label>зробити патрон .303 British (БФ) x500</MakeAmmo_303British_HE.label>
+  <MakeAmmo_303British_HE.description>Виготовити п'ятсот патронів .303 British (БФ)</MakeAmmo_303British_HE.description>
+  <MakeAmmo_303British_HE.jobString>Робить патрони .303 British (БФ)</MakeAmmo_303British_HE.jobString>
+
+  <MakeAmmo_303British_Sabot.label>зробити патрон .303 British (Підкаліберний) x500</MakeAmmo_303British_Sabot.label>
+  <MakeAmmo_303British_Sabot.description>Виготовити п'ятсот патронів .303 British (Підкаліберний)</MakeAmmo_303British_Sabot.description>
+  <MakeAmmo_303British_Sabot.jobString>Робить патрони .303 British (Підкаліберний)</MakeAmmo_303British_Sabot.jobString>
+
+
+</LanguageData>

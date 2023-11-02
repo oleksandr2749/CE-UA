@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_90mmCannonShell_HEAT.label>снаряд 90мм (Кумулятивний)</Ammo_90mmCannonShell_HEAT.label>
+  <Ammo_90mmCannonShell_HEAT.description>Relatively small cannon shell.</Ammo_90mmCannonShell_HEAT.description>
+
+  <Ammo_90mmCannonShell_HE.label>снаряд 90мм (Фугасний)</Ammo_90mmCannonShell_HE.label>
+  <Ammo_90mmCannonShell_HE.description>Relatively small cannon shell.</Ammo_90mmCannonShell_HE.description>
+
+  <Ammo_90mmCannonShell_HE_TFuzed.label>снаряд 90мм (Фугасний Time-Fuzed)</Ammo_90mmCannonShell_HE_TFuzed.label>
+  <Ammo_90mmCannonShell_HE_TFuzed.description>Relatively small cannon shell.</Ammo_90mmCannonShell_HE_TFuzed.description>
+
+  <Ammo_90mmCannonShell_EMP.label>снаряд 90мм (ЕМІ)</Ammo_90mmCannonShell_EMP.label>
+  <Ammo_90mmCannonShell_EMP.description>Relatively small cannon shell.</Ammo_90mmCannonShell_EMP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_90mmCannonShell_HEAT.label>90mm cannon shell (Кумулятивний)</Bullet_90mmCannonShell_HEAT.label>
+  <Bullet_90mmCannonShell_HE.label>90mm cannon shell (Фугасний)</Bullet_90mmCannonShell_HE.label>
+  <Bullet_90mmCannonShell_HE_TFuzed.label>90mm cannon shell (Фугасний Time-Fuzed)</Bullet_90mmCannonShell_HE_TFuzed.label>
+  <Bullet_90mmCannonShell_EMP.label>90mm cannon shell (ЕМІ)</Bullet_90mmCannonShell_EMP.label>
+
+
+</LanguageData>

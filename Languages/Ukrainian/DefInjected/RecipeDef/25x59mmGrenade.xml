@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_25x59mmGrenade_HE.label>зробити патрон 25x59mm HE grenades x100</MakeAmmo_25x59mmGrenade_HE.label>
+  <MakeAmmo_25x59mmGrenade_HE.description>Craft 100 25x59mm HE grenade</MakeAmmo_25x59mmGrenade_HE.description>
+  <MakeAmmo_25x59mmGrenade_HE.jobString>Робить патрони 25x59mm HE grenade</MakeAmmo_25x59mmGrenade_HE.jobString>
+
+  <MakeAmmo_25x59mmGrenade_HE_TFuzed.label>зробити патрон 25x59mm HE Time-Fuzed grenades x100</MakeAmmo_25x59mmGrenade_HE_TFuzed.label>
+  <MakeAmmo_25x59mmGrenade_HE_TFuzed.description>Craft 100 25x59mm HE Time-Fuzed grenade</MakeAmmo_25x59mmGrenade_HE_TFuzed.description>
+  <MakeAmmo_25x59mmGrenade_HE_TFuzed.jobString>Робить патрони 25x59mm HE Time-Fuzed grenade</MakeAmmo_25x59mmGrenade_HE_TFuzed.jobString>
+
+  <MakeAmmo_25x59mmGrenade_HEDP.label>зробити патрон 25x59mm HEDP grenades x100</MakeAmmo_25x59mmGrenade_HEDP.label>
+  <MakeAmmo_25x59mmGrenade_HEDP.description>Craft 100 25x59mm HEDP grenade</MakeAmmo_25x59mmGrenade_HEDP.description>
+  <MakeAmmo_25x59mmGrenade_HEDP.jobString>Робить патрони 25x59mm HEDP grenade</MakeAmmo_25x59mmGrenade_HEDP.jobString>
+
+  <MakeAmmo_25x59mmGrenade_EMP.label>зробити патрон 25x59mm EMP grenades x100</MakeAmmo_25x59mmGrenade_EMP.label>
+  <MakeAmmo_25x59mmGrenade_EMP.description>Craft 100 25x59mm EMP grenade</MakeAmmo_25x59mmGrenade_EMP.description>
+  <MakeAmmo_25x59mmGrenade_EMP.jobString>Робить патрони 25x59mm EMP grenade</MakeAmmo_25x59mmGrenade_EMP.jobString>
+
+  <MakeAmmo_25x59mmGrenade_Smoke.label>зробити патрон 25x59mm smoke grenades x100</MakeAmmo_25x59mmGrenade_Smoke.label>
+  <MakeAmmo_25x59mmGrenade_Smoke.description>Craft 100 25x59mm smoke grenade</MakeAmmo_25x59mmGrenade_Smoke.description>
+  <MakeAmmo_25x59mmGrenade_Smoke.jobString>Робить патрони 25x59mm smoke grenade</MakeAmmo_25x59mmGrenade_Smoke.jobString>
+
+
+</LanguageData>

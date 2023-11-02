@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_20x105mmCharged.label>зробити патрон 20x105mm Charged x100</MakeAmmo_20x105mmCharged.label>
+  <MakeAmmo_20x105mmCharged.description>Craft 100 20x105mm Charged</MakeAmmo_20x105mmCharged.description>
+  <MakeAmmo_20x105mmCharged.jobString>Робить патрони 20x105mm Charged</MakeAmmo_20x105mmCharged.jobString>
+
+  <MakeAmmo_20x105mmCharged_AP.label>зробити патрон 20x105mm Charged (Conc.) x100</MakeAmmo_20x105mmCharged_AP.label>
+  <MakeAmmo_20x105mmCharged_AP.description>Craft 100 20x105mm Charged (Conc.)</MakeAmmo_20x105mmCharged_AP.description>
+  <MakeAmmo_20x105mmCharged_AP.jobString>Робить патрони 20x105mm Charged (Conc.)</MakeAmmo_20x105mmCharged_AP.jobString>
+
+  <MakeAmmo_20x105mmCharged_Ion.label>зробити патрон 20x105mm Charged (Ion) x100</MakeAmmo_20x105mmCharged_Ion.label>
+  <MakeAmmo_20x105mmCharged_Ion.description>Craft 100 20x105mm Charged (Ion)</MakeAmmo_20x105mmCharged_Ion.description>
+  <MakeAmmo_20x105mmCharged_Ion.jobString>Робить патрони 20x105mm Charged (Ion)</MakeAmmo_20x105mmCharged_Ion.jobString>
+
+
+</LanguageData>

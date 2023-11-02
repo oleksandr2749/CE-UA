@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_8x35mmCharged.label>зробити енергоптарон 8x35мм x500</MakeAmmo_8x35mmCharged.label>
+  <MakeAmmo_8x35mmCharged.description>Виготовити п'ятсот патронів 8x35mm Charged</MakeAmmo_8x35mmCharged.description>
+  <MakeAmmo_8x35mmCharged.jobString>Робить енергоптарон 8x35мм</MakeAmmo_8x35mmCharged.jobString>
+
+  <MakeAmmo_8x35mmCharged_AP.label>зробити енергоптарон 8x35мм (Conc.) x500</MakeAmmo_8x35mmCharged_AP.label>
+  <MakeAmmo_8x35mmCharged_AP.description>Виготовити п'ятсот патронів 8x35mm Charged (Conc.)</MakeAmmo_8x35mmCharged_AP.description>
+  <MakeAmmo_8x35mmCharged_AP.jobString>Робить енергоптарон 8x35мм (Conc.)</MakeAmmo_8x35mmCharged_AP.jobString>
+
+  <MakeAmmo_8x35mmCharged_Ion.label>зробити енергоптарон 8x35мм (Ion) x500</MakeAmmo_8x35mmCharged_Ion.label>
+  <MakeAmmo_8x35mmCharged_Ion.description>Виготовити п'ятсот патронів 8x35mm Charged (Ion)</MakeAmmo_8x35mmCharged_Ion.description>
+  <MakeAmmo_8x35mmCharged_Ion.jobString>Робить енергоптарон 8x35мм (Ion)</MakeAmmo_8x35mmCharged_Ion.jobString>
+
+
+</LanguageData>

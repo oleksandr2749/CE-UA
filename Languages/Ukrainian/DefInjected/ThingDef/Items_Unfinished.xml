@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UnfinishedAmmo.label>Незавершені патрони</UnfinishedAmmo.label>
+  <UnfinishedArrows.label>Незавершені стріли</UnfinishedArrows.label>
+  <UnfinishedTurretGun.label>Незавершена турель</UnfinishedTurretGun.label>
+  <UnfinishedShield.label>Незавершений щит</UnfinishedShield.label>
+
+  <UnfinishedSteeledTechArmor.label>unfinished hard metal armor</UnfinishedSteeledTechArmor.label>
+  <UnfinishedSteeledTechArmor.description>An unfinished piece of hard metal armor.</UnfinishedSteeledTechArmor.description>
+
+  <UnfinishedArmoredApparel.label>unfinished armored apparel</UnfinishedArmoredApparel.label>
+  <UnfinishedArmoredApparel.description>An unfinished piece of an armored apparel.</UnfinishedArmoredApparel.description>
+
+
+  <!-- Minified things -->
+
+  <MinifiedTurretGun.label>improvised turret</MinifiedTurretGun.label>
+
+
+</LanguageData>

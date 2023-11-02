@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_762x54mmR_FMJ.label>патрон 7,92х54</Ammo_762x54mmR_FMJ.label>
+  <Ammo_762x54mmR_FMJ.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_FMJ.description>
+
+  <Ammo_762x54mmR_AP.label>патрон 7,92х54 (Б)</Ammo_762x54mmR_AP.label>
+  <Ammo_762x54mmR_AP.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_AP.description>
+
+  <Ammo_762x54mmR_HP.label>патрон 7,92х54 (Е)</Ammo_762x54mmR_HP.label>
+  <Ammo_762x54mmR_HP.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_HP.description>
+
+  <Ammo_762x54mmR_Incendiary.label>патрон 7,92х54 (БЗ)</Ammo_762x54mmR_Incendiary.label>
+  <Ammo_762x54mmR_Incendiary.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_Incendiary.description>
+
+  <Ammo_762x54mmR_HE.label>патрон 7,92х54 (БФ)</Ammo_762x54mmR_HE.label>
+  <Ammo_762x54mmR_HE.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_HE.description>
+
+  <Ammo_762x54mmR_Sabot.label>патрон 7,92х54 (Підкаліберний)</Ammo_762x54mmR_Sabot.label>
+  <Ammo_762x54mmR_Sabot.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_762x54mmR_FMJ.label>7.62mmR bullet</Bullet_762x54mmR_FMJ.label>
+  <Bullet_762x54mmR_AP.label>7.62mmR bullet (Б)</Bullet_762x54mmR_AP.label>
+  <Bullet_762x54mmR_HP.label>7.62mmR bullet (Е)</Bullet_762x54mmR_HP.label>
+  <Bullet_762x54mmR_Incendiary.label>7.62mmR bullet (БЗ)</Bullet_762x54mmR_Incendiary.label>
+  <Bullet_762x54mmR_HE.label>7.62mmR bullet (БФ)</Bullet_762x54mmR_HE.label>
+  <Bullet_762x54mmR_Sabot.label>7.62mmR bullet (Підкаліберний)</Bullet_762x54mmR_Sabot.label>
+
+
+</LanguageData>

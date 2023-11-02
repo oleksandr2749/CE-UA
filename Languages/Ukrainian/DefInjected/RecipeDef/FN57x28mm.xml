@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_FN57x28mm_FMJ.label>зробити патрон FN 5.7x28mm x500</MakeAmmo_FN57x28mm_FMJ.label>
+  <MakeAmmo_FN57x28mm_FMJ.description>Виготовити п'ятсот патронів FN 5.7x28mm</MakeAmmo_FN57x28mm_FMJ.description>
+  <MakeAmmo_FN57x28mm_FMJ.jobString>Робить патрони FN 5.7x28mm</MakeAmmo_FN57x28mm_FMJ.jobString>
+
+  <MakeAmmo_FN57x28mm_AP.label>зробити патрон FN 5.7x28mm (Б) x500</MakeAmmo_FN57x28mm_AP.label>
+  <MakeAmmo_FN57x28mm_AP.description>Виготовити п'ятсот патронів FN 5.7x28mm (Б)</MakeAmmo_FN57x28mm_AP.description>
+  <MakeAmmo_FN57x28mm_AP.jobString>Робить патрони FN 5.7x28mm (Б)</MakeAmmo_FN57x28mm_AP.jobString>
+
+  <MakeAmmo_FN57x28mm_HP.label>зробити патрон FN 5.7x28mm (Е) x500</MakeAmmo_FN57x28mm_HP.label>
+  <MakeAmmo_FN57x28mm_HP.description>Виготовити п'ятсот патронів FN 5.7x28mm (Е)</MakeAmmo_FN57x28mm_HP.description>
+  <MakeAmmo_FN57x28mm_HP.jobString>Робить патрони FN 5.7x28mm (Е)</MakeAmmo_FN57x28mm_HP.jobString>
+
+
+</LanguageData>

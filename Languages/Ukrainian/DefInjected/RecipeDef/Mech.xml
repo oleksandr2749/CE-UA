@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_MechCharged.label>зробити патрон Mech Charged x200</MakeAmmo_MechCharged.label>
+  <MakeAmmo_MechCharged.description>Craft 200 Mech Charged</MakeAmmo_MechCharged.description>
+  <MakeAmmo_MechCharged.jobString>Робить патрони Mech Charged</MakeAmmo_MechCharged.jobString>
+
+  <MakeAmmo_MechShell.label>зробити патрон Mech Shell x5</MakeAmmo_MechShell.label>
+  <MakeAmmo_MechShell.description>Craft 5 Mech Shell</MakeAmmo_MechShell.description>
+  <MakeAmmo_MechShell.jobString>Робить патрони Mech Shell</MakeAmmo_MechShell.jobString>
+
+
+</LanguageData>

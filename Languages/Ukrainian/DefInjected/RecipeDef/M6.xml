@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_M6_HEAT.label>зробити патрон M6 HEAT rockets x5</MakeAmmo_M6_HEAT.label>
+  <MakeAmmo_M6_HEAT.description>Craft 5 M6 HEAT rocket</MakeAmmo_M6_HEAT.description>
+  <MakeAmmo_M6_HEAT.jobString>Робить патрони M6 HEAT rocket</MakeAmmo_M6_HEAT.jobString>
+
+
+</LanguageData>

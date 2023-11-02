@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_556x45mmNATO_FMJ.label>патрон 5,70х45мм</Ammo_556x45mmNATO_FMJ.label>
+  <Ammo_556x45mmNATO_FMJ.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_FMJ.description>
+
+  <Ammo_556x45mmNATO_AP.label>патрон 5,70х45мм (Б)</Ammo_556x45mmNATO_AP.label>
+  <Ammo_556x45mmNATO_AP.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_AP.description>
+
+  <Ammo_556x45mmNATO_HP.label>патрон 5,70х45мм (Е)</Ammo_556x45mmNATO_HP.label>
+  <Ammo_556x45mmNATO_HP.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_HP.description>
+
+  <Ammo_556x45mmNATO_Incendiary.label>патрон 5,70х45мм (БЗ)</Ammo_556x45mmNATO_Incendiary.label>
+  <Ammo_556x45mmNATO_Incendiary.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_Incendiary.description>
+
+  <Ammo_556x45mmNATO_HE.label>патрон 5,70х45мм (БФ)</Ammo_556x45mmNATO_HE.label>
+  <Ammo_556x45mmNATO_HE.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_HE.description>
+
+  <Ammo_556x45mmNATO_Sabot.label>патрон 5,70х45мм (Підкаліберний)</Ammo_556x45mmNATO_Sabot.label>
+  <Ammo_556x45mmNATO_Sabot.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_556x45mmNATO_FMJ.label>5.56mm NATO bullet</Bullet_556x45mmNATO_FMJ.label>
+  <Bullet_556x45mmNATO_AP.label>5.56mm NATO bullet (Б)</Bullet_556x45mmNATO_AP.label>
+  <Bullet_556x45mmNATO_HP.label>5.56mm NATO bullet (Е)</Bullet_556x45mmNATO_HP.label>
+  <Bullet_556x45mmNATO_Incendiary.label>5.56mm NATO bullet (БЗ)</Bullet_556x45mmNATO_Incendiary.label>
+  <Bullet_556x45mmNATO_HE.label>5.56mm NATO bullet (БФ)</Bullet_556x45mmNATO_HE.label>
+  <Bullet_556x45mmNATO_Sabot.label>5.56mm NATO bullet (Підкаліберний)</Bullet_556x45mmNATO_Sabot.label>
+
+
+  <!-- Short barrel -->
+
+  <Bullet_556x45mmNATO_FMJ_SB.label>5.56mm NATO bullet</Bullet_556x45mmNATO_FMJ_SB.label>
+  <Bullet_556x45mmNATO_AP_SB.label>5.56mm NATO bullet (Б)</Bullet_556x45mmNATO_AP_SB.label>
+  <Bullet_556x45mmNATO_HP_SB.label>5.56mm NATO bullet (Е)</Bullet_556x45mmNATO_HP_SB.label>
+  <Bullet_556x45mmNATO_Incendiary_SB.label>5.56mm NATO bullet (БЗ)</Bullet_556x45mmNATO_Incendiary_SB.label>
+  <Bullet_556x45mmNATO_HE_SB.label>5.56mm NATO bullet (БФ)</Bullet_556x45mmNATO_HE_SB.label>
+  <Bullet_556x45mmNATO_Sabot_SB.label>5.56mm NATO bullet (Підкаліберний)</Bullet_556x45mmNATO_Sabot_SB.label>
+
+
+</LanguageData>

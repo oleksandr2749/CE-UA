@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_792x33mmKurz_FMJ.label>патрон 8,22х33мм</Ammo_792x33mmKurz_FMJ.label>
+  <Ammo_792x33mmKurz_FMJ.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_792x33mmKurz_FMJ.description>
+
+  <Ammo_792x33mmKurz_AP.label>патрон 8,22х33мм (Б)</Ammo_792x33mmKurz_AP.label>
+  <Ammo_792x33mmKurz_AP.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_792x33mmKurz_AP.description>
+
+  <Ammo_792x33mmKurz_HP.label>патрон 8,22х33мм (Е)</Ammo_792x33mmKurz_HP.label>
+  <Ammo_792x33mmKurz_HP.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_792x33mmKurz_HP.description>
+
+  <Ammo_792x33mmKurz_Incendiary.label>патрон 8,22х33мм (БЗ)</Ammo_792x33mmKurz_Incendiary.label>
+  <Ammo_792x33mmKurz_Incendiary.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_792x33mmKurz_Incendiary.description>
+
+  <Ammo_792x33mmKurz_HE.label>патрон 8,22х33мм (БФ)</Ammo_792x33mmKurz_HE.label>
+  <Ammo_792x33mmKurz_HE.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_792x33mmKurz_HE.description>
+
+  <Ammo_792x33mmKurz_Sabot.label>патрон 8,22х33мм (Підкаліберний)</Ammo_792x33mmKurz_Sabot.label>
+  <Ammo_792x33mmKurz_Sabot.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_792x33mmKurz_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_792x33mmKurz_FMJ.label>7.92mm Kurz bullet</Bullet_792x33mmKurz_FMJ.label>
+  <Bullet_792x33mmKurz_AP.label>7.92mm Kurz bullet (Б)</Bullet_792x33mmKurz_AP.label>
+  <Bullet_792x33mmKurz_HP.label>7.92mm Kurz bullet (Е)</Bullet_792x33mmKurz_HP.label>
+  <Bullet_792x33mmKurz_Incendiary.label>7.92mm Kurz bullet (БЗ)</Bullet_792x33mmKurz_Incendiary.label>
+  <Bullet_792x33mmKurz_HE.label>7.92mm Kurz bullet (БФ)</Bullet_792x33mmKurz_HE.label>
+  <Bullet_792x33mmKurz_Sabot.label>7.92mm Kurz bullet (Підкаліберний)</Bullet_792x33mmKurz_Sabot.label>
+
+
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_243Winchester_FMJ.label>патрон 6х52мм</Ammo_243Winchester_FMJ.label>
+  <Ammo_243Winchester_FMJ.description>A versatile centerfire rifle cartridge optimized for hunting medium-sized game.</Ammo_243Winchester_FMJ.description>
+
+  <Ammo_243Winchester_AP.label>патрон 6х52мм (Б)</Ammo_243Winchester_AP.label>
+  <Ammo_243Winchester_AP.description>A versatile centerfire rifle cartridge optimized for hunting medium-sized game.</Ammo_243Winchester_AP.description>
+
+  <Ammo_243Winchester_HP.label>патрон 6х52мм (Е)</Ammo_243Winchester_HP.label>
+  <Ammo_243Winchester_HP.description>A versatile centerfire rifle cartridge optimized for hunting medium-sized game.</Ammo_243Winchester_HP.description>
+
+  <Ammo_243Winchester_Incendiary.label>патрон 6х52мм (БЗ)</Ammo_243Winchester_Incendiary.label>
+  <Ammo_243Winchester_Incendiary.description>A versatile centerfire rifle cartridge optimized for hunting medium-sized game.</Ammo_243Winchester_Incendiary.description>
+
+  <Ammo_243Winchester_HE.label>патрон 6х52мм (БФ)</Ammo_243Winchester_HE.label>
+  <Ammo_243Winchester_HE.description>A versatile centerfire rifle cartridge optimized for hunting medium-sized game.</Ammo_243Winchester_HE.description>
+
+  <Ammo_243Winchester_Sabot.label>патрон 6х52мм (Підкаліберний)</Ammo_243Winchester_Sabot.label>
+  <Ammo_243Winchester_Sabot.description>A versatile centerfire rifle cartridge optimized for hunting medium-sized game.</Ammo_243Winchester_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_243Winchester_FMJ.label>.243 Winchester bullet</Bullet_243Winchester_FMJ.label>
+  <Bullet_243Winchester_AP.label>.243 Winchester bullet (Б)</Bullet_243Winchester_AP.label>
+  <Bullet_243Winchester_HP.label>.243 Winchester bullet (Е)</Bullet_243Winchester_HP.label>
+  <Bullet_243Winchester_Incendiary.label>.243 Winchester bullet (БЗ)</Bullet_243Winchester_Incendiary.label>
+  <Bullet_243Winchester_HE.label>.243 Winchester bullet (БФ)</Bullet_243Winchester_HE.label>
+  <Bullet_243Winchester_Sabot.label>.243 Winchester bullet (Підкаліберний)</Bullet_243Winchester_Sabot.label>
+
+
+</LanguageData>

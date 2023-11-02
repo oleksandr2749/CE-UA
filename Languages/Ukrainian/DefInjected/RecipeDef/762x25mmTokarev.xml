@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_762x25mmTokarev_FMJ.label>зробити патрон 7.62x25mm Tokarev x500</MakeAmmo_762x25mmTokarev_FMJ.label>
+  <MakeAmmo_762x25mmTokarev_FMJ.description>Виготовити п'ятсот патронів 7.62x25mm Tokarev</MakeAmmo_762x25mmTokarev_FMJ.description>
+  <MakeAmmo_762x25mmTokarev_FMJ.jobString>Робить патрони 7.62x25mm Tokarev</MakeAmmo_762x25mmTokarev_FMJ.jobString>
+
+  <MakeAmmo_762x25mmTokarev_AP.label>зробити патрон 7.62x25mm Tokarev (Б) x500</MakeAmmo_762x25mmTokarev_AP.label>
+  <MakeAmmo_762x25mmTokarev_AP.description>Виготовити п'ятсот патронів 7.62x25mm Tokarev (Б)</MakeAmmo_762x25mmTokarev_AP.description>
+  <MakeAmmo_762x25mmTokarev_AP.jobString>Робить патрони 7.62x25mm Tokarev (Б)</MakeAmmo_762x25mmTokarev_AP.jobString>
+
+  <MakeAmmo_762x25mmTokarev_HP.label>зробити патрон 7.62x25mm Tokarev (Е) x500</MakeAmmo_762x25mmTokarev_HP.label>
+  <MakeAmmo_762x25mmTokarev_HP.description>Виготовити п'ятсот патронів 7.62x25mm Tokarev (Е)</MakeAmmo_762x25mmTokarev_HP.description>
+  <MakeAmmo_762x25mmTokarev_HP.jobString>Робить патрони 7.62x25mm Tokarev (Е)</MakeAmmo_762x25mmTokarev_HP.jobString>
+
+
+</LanguageData>

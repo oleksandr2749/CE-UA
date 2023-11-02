@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SightsEfficiency.label>sights efficiency</SightsEfficiency.label>
+  <SightsEfficiency.description>How good the sights on this weapon are. Quality sights reduce range errors and improve target leading. This is multiplied against the aiming accuracy of the shooter to calculate the amount of range and lead error.\n\nThe final modifier is calculated via this formula:\n(1.5 - aiming accuracy) / aiming efficiency\n\nLead error is calculated by multiplying this factor against total lead distance in cells. Range error is calculated by multiplying it against the total distance to the target divided by 4.</SightsEfficiency.description>
+
+  <OneHandedness.label>One-handed weapon</OneHandedness.label>
+  <OneHandedness.description>Whether or not the weapon can be used with shields</OneHandedness.description>
+
+  <UBGLInfo.label>Additional weapon info</UBGLInfo.label>
+  <UBGLInfo.description>Information about under/over barrel or otherwise mounted weapons</UBGLInfo.description>
+
+  <ShotSpread.label>spread</ShotSpread.label>
+  <ShotSpread.description>Inherent projectile spread. This represents the inherent inaccuracy of the gun and causes random conical deviation that is not influenced by skill.</ShotSpread.description>
+  <ShotSpread.formatString>{0}°</ShotSpread.formatString>
+
+  <SwayFactor.label>weapon sway</SwayFactor.label>
+  <SwayFactor.description>How difficult the gun is to keep steady. \n\nThe total sway is calculated as:\n(4.5 - shooting accuracy) * weapon sway factor\n\nAiming accuracy influences the sway reduction during aimed shots. For example, at 75% aiming accuracy sway will be reduced to 25%.</SwayFactor.description>
+
+
+  <!-- Don't do anything, only display information to the player -->
+
+  <MuzzleFlash.label>muzzle flash</MuzzleFlash.label>
+  <MuzzleFlash.description>How bright the muzzle flash is.\n\nMuzzle flashes will illuminate a shooter's position in darkness, exposing them to more accurate return fire. Brighter muzzle flashes are easier to target.\n\nPawns will remember the position of the muzzle flash for 5-10 seconds.</MuzzleFlash.description>
+
+  <Caliber.label>caliber</Caliber.label>
+  <Caliber.description>The types of ammo this gun accepts.</Caliber.description>
+
+  <BipodStats.label>Bipod stats</BipodStats.label>
+  <BipodStats.description>Stats with bipod deployed and undeployed.</BipodStats.description>
+
+  <TicksBetweenBurstShots.label>fire rate</TicksBetweenBurstShots.label>
+  <TicksBetweenBurstShots.description>The speed at this weapon launch projectiles.</TicksBetweenBurstShots.description>
+
+  <BurstShotCount.label>burst shot count</BurstShotCount.label>
+  <BurstShotCount.description>How many projectiles this weapon launch in one burst.</BurstShotCount.description>
+
+  <Recoil.label>recoil amount</Recoil.label>
+  <Recoil.description>How much will this weapon recoil upon firing.</Recoil.description>
+
+  <MagazineCapacity.label>magazine capacity</MagazineCapacity.label>
+  <MagazineCapacity.description>How many projectiles this weapon's magazine holds and how long it takes to reload it.</MagazineCapacity.description>
+
+  <ReloadTime.label>reload time</ReloadTime.label>
+  <ReloadTime.description>How long should this weapon take to reload.</ReloadTime.description>
+
+  <ammoConsumedPerShotCount.label>ammo consumed per shot</ammoConsumedPerShotCount.label>
+  <ammoConsumedPerShotCount.description>How many units of ammunition this gun consumes for each individual shot.\n\nThis applies to guns with multiple barrels that fire simultaneously with each pull of the trigger, or exotic energy weapons that use up different amounts of energy from a power cell.</ammoConsumedPerShotCount.description>
+
+  <AmmoGenPerMagOverride.label>ammo generation per magazine override</AmmoGenPerMagOverride.label>
+  <AmmoGenPerMagOverride.description>How many units of ammunition per magazine specified in pawnKindDef should a pawn bring.\n\nPurely used in pawn generation. You should not be able to read this in game.</AmmoGenPerMagOverride.description>
+
+
+</LanguageData>

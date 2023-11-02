@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_SPG9Rocket_HEAT.label>зробити патрон SPG-9 HEAT rockets x5</MakeAmmo_SPG9Rocket_HEAT.label>
+  <MakeAmmo_SPG9Rocket_HEAT.description>Craft 5 SPG-9 HEAT rocket</MakeAmmo_SPG9Rocket_HEAT.description>
+  <MakeAmmo_SPG9Rocket_HEAT.jobString>Робить патрони SPG-9 HEAT rocket</MakeAmmo_SPG9Rocket_HEAT.jobString>
+
+  <MakeAmmo_SPG9Rocket_Thermobaric.label>зробити патрон SPG-9 thermobaric rockets x5</MakeAmmo_SPG9Rocket_Thermobaric.label>
+  <MakeAmmo_SPG9Rocket_Thermobaric.description>Craft 5 SPG-9 thermobaric rocket</MakeAmmo_SPG9Rocket_Thermobaric.description>
+  <MakeAmmo_SPG9Rocket_Thermobaric.jobString>Робить патрони SPG-9 thermobaric rocket</MakeAmmo_SPG9Rocket_Thermobaric.jobString>
+
+  <MakeAmmo_SPG9Rocket_Frag.label>зробити патрон SPG-9 HE rockets x5</MakeAmmo_SPG9Rocket_Frag.label>
+  <MakeAmmo_SPG9Rocket_Frag.description>Craft 5 SPG-9 HE rocket</MakeAmmo_SPG9Rocket_Frag.description>
+  <MakeAmmo_SPG9Rocket_Frag.jobString>Робить патрони SPG-9 HE rocket</MakeAmmo_SPG9Rocket_Frag.jobString>
+
+  <MakeAmmo_SPG9Rocket_EMP.label>зробити патрон SPG-9 EMP rockets x5</MakeAmmo_SPG9Rocket_EMP.label>
+  <MakeAmmo_SPG9Rocket_EMP.description>Craft 5 SPG-9 EMP rocket</MakeAmmo_SPG9Rocket_EMP.description>
+  <MakeAmmo_SPG9Rocket_EMP.jobString>Робить патрони SPG-9 EMP rocket</MakeAmmo_SPG9Rocket_EMP.jobString>
+
+
+</LanguageData>

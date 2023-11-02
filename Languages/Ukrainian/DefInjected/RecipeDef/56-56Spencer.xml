@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_5656Spencer_FMJ.label>зробити патрон .56-56 Spencer x500</MakeAmmo_5656Spencer_FMJ.label>
+  <MakeAmmo_5656Spencer_FMJ.description>Виготовити п'ятсот патронів .56-56 Spencer</MakeAmmo_5656Spencer_FMJ.description>
+  <MakeAmmo_5656Spencer_FMJ.jobString>Робить патрони .56-56 Spencer</MakeAmmo_5656Spencer_FMJ.jobString>
+
+  <MakeAmmo_5656Spencer_AP.label>зробити патрон .56-56 Spencer (Б) x500</MakeAmmo_5656Spencer_AP.label>
+  <MakeAmmo_5656Spencer_AP.description>Виготовити п'ятсот патронів .56-56 Spencer (Б)</MakeAmmo_5656Spencer_AP.description>
+  <MakeAmmo_5656Spencer_AP.jobString>Робить патрони .56-56 Spencer (Б)</MakeAmmo_5656Spencer_AP.jobString>
+
+  <MakeAmmo_5656Spencer_HP.label>зробити патрон .56-56 Spencer (Е) x500</MakeAmmo_5656Spencer_HP.label>
+  <MakeAmmo_5656Spencer_HP.description>Виготовити п'ятсот патронів .56-56 Spencer (Е)</MakeAmmo_5656Spencer_HP.description>
+  <MakeAmmo_5656Spencer_HP.jobString>Робить патрони .56-56 Spencer (Е)</MakeAmmo_5656Spencer_HP.jobString>
+
+  <MakeAmmo_5656Spencer_Incendiary.label>зробити патрон .56-56 Spencer (БЗ) x500</MakeAmmo_5656Spencer_Incendiary.label>
+  <MakeAmmo_5656Spencer_Incendiary.description>Виготовити п'ятсот патронів .56-56 Spencer (БЗ)</MakeAmmo_5656Spencer_Incendiary.description>
+  <MakeAmmo_5656Spencer_Incendiary.jobString>Робить патрони .56-56 Spencer (БЗ)</MakeAmmo_5656Spencer_Incendiary.jobString>
+
+  <MakeAmmo_5656Spencer_HE.label>зробити патрон .56-56 Spencer (БФ) x500</MakeAmmo_5656Spencer_HE.label>
+  <MakeAmmo_5656Spencer_HE.description>Виготовити п'ятсот патронів .56-56 Spencer (БФ)</MakeAmmo_5656Spencer_HE.description>
+  <MakeAmmo_5656Spencer_HE.jobString>Робить патрони .56-56 Spencer (БФ)</MakeAmmo_5656Spencer_HE.jobString>
+
+  <MakeAmmo_5656Spencer_Sabot.label>зробити патрон .56-56 Spencer (Підкаліберний) x500</MakeAmmo_5656Spencer_Sabot.label>
+  <MakeAmmo_5656Spencer_Sabot.description>Виготовити п'ятсот патронів .56-56 Spencer (Підкаліберний)</MakeAmmo_5656Spencer_Sabot.description>
+  <MakeAmmo_5656Spencer_Sabot.jobString>Робить патрони .56-56 Spencer (Підкаліберний)</MakeAmmo_5656Spencer_Sabot.jobString>
+
+
+</LanguageData>

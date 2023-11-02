@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_357SIG_FMJ.label>патрон 9х22мм</Ammo_357SIG_FMJ.label>
+  <Ammo_357SIG_FMJ.description>A powerful cartridge designed to bring the performance of .357 Magnum to autoloaders.</Ammo_357SIG_FMJ.description>
+
+  <Ammo_357SIG_AP.label>.патрон 9х22мм (Б)</Ammo_357SIG_AP.label>
+  <Ammo_357SIG_AP.description>A powerful cartridge designed to bring the performance of .357 Magnum to autoloaders.</Ammo_357SIG_AP.description>
+
+  <Ammo_357SIG_HP.label>патрон 9х22мм (Е)</Ammo_357SIG_HP.label>
+  <Ammo_357SIG_HP.description>A powerful cartridge designed to bring the performance of .357 Magnum to autoloaders.</Ammo_357SIG_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_357SIG_FMJ.label>.357 SIG bullet</Bullet_357SIG_FMJ.label>
+  <Bullet_357SIG_AP.label>.357 SIG bullet (Б)</Bullet_357SIG_AP.label>
+  <Bullet_357SIG_HP.label>.357 SIG bullet (Е)</Bullet_357SIG_HP.label>
+
+
+</LanguageData>

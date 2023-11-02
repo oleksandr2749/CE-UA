@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_20x138mmB_AP.label>снаряд 20x138мм (Б)</Ammo_20x138mmB_AP.label>
+  <Ammo_20x138mmB_AP.description>A medium caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x138mmB_AP.description>
+
+  <Ammo_20x138mmB_Incendiary.label>снаряд 20x138мм (БЗ)</Ammo_20x138mmB_Incendiary.label>
+  <Ammo_20x138mmB_Incendiary.description>A medium caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x138mmB_Incendiary.description>
+
+  <Ammo_20x138mmB_HE.label>снаряд 20x138мм (БФ)</Ammo_20x138mmB_HE.label>
+  <Ammo_20x138mmB_HE.description>A medium caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x138mmB_HE.description>
+
+  <Ammo_20x138mmB_Sabot.label>снаряд 20x138мм (Підкаліберний)</Ammo_20x138mmB_Sabot.label>
+  <Ammo_20x138mmB_Sabot.description>A medium caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x138mmB_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_20x138mmB_AP.label>20x138mmB bullet (Б)</Bullet_20x138mmB_AP.label>
+  <Bullet_20x138mmB_Incendiary.label>20x138mmB bullet (БЗ)</Bullet_20x138mmB_Incendiary.label>
+  <Bullet_20x138mmB_HE.label>20x138mmB bullet (БФ)</Bullet_20x138mmB_HE.label>
+  <Bullet_20x138mmB_Sabot.label>20x138mmB bullet (Підкаліберний)</Bullet_20x138mmB_Sabot.label>
+
+
+</LanguageData>

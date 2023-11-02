@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_75FK_FMJ.label>зробити патрон 7,5x27мм x500</MakeAmmo_75FK_FMJ.label>
+  <MakeAmmo_75FK_FMJ.description>Виготовити п'ятсот патронів 7,5x27мм</MakeAmmo_75FK_FMJ.description>
+  <MakeAmmo_75FK_FMJ.jobString>Робить патрони 7,5x27мм</MakeAmmo_75FK_FMJ.jobString>
+
+  <MakeAmmo_75FK_AP.label>зробити патрон 7,5x27мм (Б) x500</MakeAmmo_75FK_AP.label>
+  <MakeAmmo_75FK_AP.description>Виготовити п'ятсот патронів 7,5x27мм (Б)</MakeAmmo_75FK_AP.description>
+  <MakeAmmo_75FK_AP.jobString>Робить патрони 7,5x27мм (Б)</MakeAmmo_75FK_AP.jobString>
+
+  <MakeAmmo_75FK_HP.label>зробити патрон 7,5x27мм (Е) x500</MakeAmmo_75FK_HP.label>
+  <MakeAmmo_75FK_HP.description>Виготовити п'ятсот патронів 7,5x27мм (Е)</MakeAmmo_75FK_HP.description>
+  <MakeAmmo_75FK_HP.jobString>Робить патрони 7,5x27мм (Е)</MakeAmmo_75FK_HP.jobString>
+
+
+</LanguageData>

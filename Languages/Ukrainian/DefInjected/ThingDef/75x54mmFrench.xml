@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_75x54mmFrench_FMJ.label>патрон 7,5х54мм</Ammo_75x54mmFrench_FMJ.label>
+  <Ammo_75x54mmFrench_FMJ.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_75x54mmFrench_FMJ.description>
+
+  <Ammo_75x54mmFrench_AP.label>патрон 7,5х54мм (Б)</Ammo_75x54mmFrench_AP.label>
+  <Ammo_75x54mmFrench_AP.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_75x54mmFrench_AP.description>
+
+  <Ammo_75x54mmFrench_HP.label>патрон 7,5х54мм (Е)</Ammo_75x54mmFrench_HP.label>
+  <Ammo_75x54mmFrench_HP.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_75x54mmFrench_HP.description>
+
+  <Ammo_75x54mmFrench_Incendiary.label>патрон 7,5х54мм (БЗ)</Ammo_75x54mmFrench_Incendiary.label>
+  <Ammo_75x54mmFrench_Incendiary.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_75x54mmFrench_Incendiary.description>
+
+  <Ammo_75x54mmFrench_HE.label>патрон 7,5х54мм (БФ)</Ammo_75x54mmFrench_HE.label>
+  <Ammo_75x54mmFrench_HE.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_75x54mmFrench_HE.description>
+
+  <Ammo_75x54mmFrench_Sabot.label>патрон 7,5х54мм (Підкаліберний)</Ammo_75x54mmFrench_Sabot.label>
+  <Ammo_75x54mmFrench_Sabot.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_75x54mmFrench_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_75x54mmFrench_FMJ.label>7.5mm French bullet</Bullet_75x54mmFrench_FMJ.label>
+  <Bullet_75x54mmFrench_AP.label>7.5mm French bullet (Б)</Bullet_75x54mmFrench_AP.label>
+  <Bullet_75x54mmFrench_HP.label>7.5mm French bullet (Е)</Bullet_75x54mmFrench_HP.label>
+  <Bullet_75x54mmFrench_Incendiary.label>7.5mm French bullet (БЗ)</Bullet_75x54mmFrench_Incendiary.label>
+  <Bullet_75x54mmFrench_HE.label>7.5mm French bullet (БФ)</Bullet_75x54mmFrench_HE.label>
+  <Bullet_75x54mmFrench_Sabot.label>7.5mm French bullet (Підкаліберний)</Bullet_75x54mmFrench_Sabot.label>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_PistolMagnum_FMJ.label>пістолетний патрон магнум</Ammo_PistolMagnum_FMJ.label>
+  <Ammo_PistolMagnum_FMJ.description>Powerful pistol cartridge designed primarily for revolvers.</Ammo_PistolMagnum_FMJ.description>
+
+  <Ammo_PistolMagnum_AP.label>пістолетний патрон магнум (Б)</Ammo_PistolMagnum_AP.label>
+  <Ammo_PistolMagnum_AP.description>Powerful pistol cartridge designed primarily for revolvers.</Ammo_PistolMagnum_AP.description>
+
+  <Ammo_PistolMagnum_HP.label>пістолетний патрон магнум (Е)</Ammo_PistolMagnum_HP.label>
+  <Ammo_PistolMagnum_HP.description>Powerful pistol cartridge designed primarily for revolvers.</Ammo_PistolMagnum_HP.description>
+
+
+</LanguageData>

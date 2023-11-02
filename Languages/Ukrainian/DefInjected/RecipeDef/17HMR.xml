@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_17HMR_FMJ.label>зробити патрон .17 HMR x500</MakeAmmo_17HMR_FMJ.label>
+  <MakeAmmo_17HMR_FMJ.description>Виготовити п'ятсот патронів .17 HMR</MakeAmmo_17HMR_FMJ.description>
+  <MakeAmmo_17HMR_FMJ.jobString>Робить патрони .17 HMR</MakeAmmo_17HMR_FMJ.jobString>
+
+  <MakeAmmo_17HMR_AP.label>зробити патрон .17 HMR (Б) x500</MakeAmmo_17HMR_AP.label>
+  <MakeAmmo_17HMR_AP.description>Виготовити п'ятсот патронів .17 HMR (Б)</MakeAmmo_17HMR_AP.description>
+  <MakeAmmo_17HMR_AP.jobString>Робить патрони .17 HMR (Б)</MakeAmmo_17HMR_AP.jobString>
+
+  <MakeAmmo_17HMR_HP.label>зробити патрон .17 HMR (Е) x500</MakeAmmo_17HMR_HP.label>
+  <MakeAmmo_17HMR_HP.description>Виготовити п'ятсот патронів .17 HMR (Е)</MakeAmmo_17HMR_HP.description>
+  <MakeAmmo_17HMR_HP.jobString>Робить патрони .17 HMR (Е)</MakeAmmo_17HMR_HP.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_LaserChargePack.label>лазерний зарядник</Ammo_LaserChargePack.label>
+  <Ammo_LaserChargePack.description>A universal charge pack for various laser weapons.</Ammo_LaserChargePack.description>
+
+
+</LanguageData>

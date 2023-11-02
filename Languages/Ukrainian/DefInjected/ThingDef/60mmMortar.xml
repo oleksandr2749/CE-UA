@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Shell_60mmMortar_HE.label>снаряд 60мм (Фугасний)</Shell_60mmMortar_HE.label>
+  <Shell_60mmMortar_HE.description>Low-velocity shell designed to be fired from a mortar.</Shell_60mmMortar_HE.description>
+
+  <Shell_60mmMortar_Incendiary.label>снаряд 60мм (Запальний)</Shell_60mmMortar_Incendiary.label>
+  <Shell_60mmMortar_Incendiary.description>Low-velocity shell designed to be fired from a mortar.</Shell_60mmMortar_Incendiary.description>
+
+  <Shell_60mmMortar_EMP.label>снаряд 60мм (ЕМІ)</Shell_60mmMortar_EMP.label>
+  <Shell_60mmMortar_EMP.description>Low-velocity shell designed to be fired from a mortar.</Shell_60mmMortar_EMP.description>
+
+  <Shell_60mmMortar_Firefoam.label>снаряд 60мм (Foam)</Shell_60mmMortar_Firefoam.label>
+  <Shell_60mmMortar_Firefoam.description>Low-velocity shell designed to be fired from a mortar.</Shell_60mmMortar_Firefoam.description>
+
+  <Shell_60mmMortar_Smoke.label>снаряд 60мм (Димовий)</Shell_60mmMortar_Smoke.label>
+  <Shell_60mmMortar_Smoke.description>Low-velocity shell designed to be fired from a mortar.</Shell_60mmMortar_Smoke.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_60mmMortarShell_HE.label>60mm mortar shell (Фугасний)</Bullet_60mmMortarShell_HE.label>
+  <Bullet_60mmMortarShell_Incendiary.label>60mm mortar shell (Запальний)</Bullet_60mmMortarShell_Incendiary.label>
+  <Bullet_60mmMortarShell_EMP.label>60mm mortar shell (ЕМІ)</Bullet_60mmMortarShell_EMP.label>
+  <Bullet_60mmMortarShell_Firefoam.label>60mm mortar shell (Foam)</Bullet_60mmMortarShell_Firefoam.label>
+  <Bullet_60mmMortarShell_Smoke.label>60mm mortar shell (Димовий)</Bullet_60mmMortarShell_Smoke.label>
+
+
+</LanguageData>

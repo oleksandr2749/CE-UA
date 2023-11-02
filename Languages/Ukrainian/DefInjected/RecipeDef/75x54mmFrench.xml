@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_75x54mmFrench_FMJ.label>зробити патрон 7.5x54mm French x500</MakeAmmo_75x54mmFrench_FMJ.label>
+  <MakeAmmo_75x54mmFrench_FMJ.description>Виготовити п'ятсот патронів 7.5x54mm French</MakeAmmo_75x54mmFrench_FMJ.description>
+  <MakeAmmo_75x54mmFrench_FMJ.jobString>Робить патрони 7.5x54mm French</MakeAmmo_75x54mmFrench_FMJ.jobString>
+
+  <MakeAmmo_75x54mmFrench_AP.label>зробити патрон 7.5x54mm French (Б) x500</MakeAmmo_75x54mmFrench_AP.label>
+  <MakeAmmo_75x54mmFrench_AP.description>Виготовити п'ятсот патронів 7.5x54mm French (Б)</MakeAmmo_75x54mmFrench_AP.description>
+  <MakeAmmo_75x54mmFrench_AP.jobString>Робить патрони 7.5x54mm French (Б)</MakeAmmo_75x54mmFrench_AP.jobString>
+
+  <MakeAmmo_75x54mmFrench_HP.label>зробити патрон 7.5x54mm French (Е) x500</MakeAmmo_75x54mmFrench_HP.label>
+  <MakeAmmo_75x54mmFrench_HP.description>Виготовити п'ятсот патронів 7.5x54mm French (Е)</MakeAmmo_75x54mmFrench_HP.description>
+  <MakeAmmo_75x54mmFrench_HP.jobString>Робить патрони 7.5x54mm French (Е)</MakeAmmo_75x54mmFrench_HP.jobString>
+
+  <MakeAmmo_75x54mmFrench_Incendiary.label>зробити патрон 7.5x54mm French (БЗ) x500</MakeAmmo_75x54mmFrench_Incendiary.label>
+  <MakeAmmo_75x54mmFrench_Incendiary.description>Виготовити п'ятсот патронів 7.5x54mm French (БЗ)</MakeAmmo_75x54mmFrench_Incendiary.description>
+  <MakeAmmo_75x54mmFrench_Incendiary.jobString>Робить патрони 7.5x54mm French (БЗ)</MakeAmmo_75x54mmFrench_Incendiary.jobString>
+
+  <MakeAmmo_75x54mmFrench_HE.label>зробити патрон 7.5x54mm French (БФ) x500</MakeAmmo_75x54mmFrench_HE.label>
+  <MakeAmmo_75x54mmFrench_HE.description>Виготовити п'ятсот патронів 7.5x54mm French (БФ)</MakeAmmo_75x54mmFrench_HE.description>
+  <MakeAmmo_75x54mmFrench_HE.jobString>Робить патрони 7.5x54mm French (БФ)</MakeAmmo_75x54mmFrench_HE.jobString>
+
+  <MakeAmmo_75x54mmFrench_Sabot.label>зробити патрон 7.5x54mm French (Підкаліберний) x500</MakeAmmo_75x54mmFrench_Sabot.label>
+  <MakeAmmo_75x54mmFrench_Sabot.description>Виготовити п'ятсот патронів 7.5x54mm French (Підкаліберний)</MakeAmmo_75x54mmFrench_Sabot.description>
+  <MakeAmmo_75x54mmFrench_Sabot.jobString>Робить патрони 7.5x54mm French (Підкаліберний)</MakeAmmo_75x54mmFrench_Sabot.jobString>
+
+
+</LanguageData>

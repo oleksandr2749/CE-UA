@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_762x38mmR_FMJ.label>патрон 7,82х39мм</Ammo_762x38mmR_FMJ.label>
+  <Ammo_762x38mmR_FMJ.description>Uncommon rimmed pistol cartridge with the bullet seated further down the casing.</Ammo_762x38mmR_FMJ.description>
+
+  <Ammo_762x38mmR_AP.label>патрон 7,82х39мм (Б)</Ammo_762x38mmR_AP.label>
+  <Ammo_762x38mmR_AP.description>Uncommon rimmed pistol cartridge with the bullet seated further down the casing.</Ammo_762x38mmR_AP.description>
+
+  <Ammo_762x38mmR_HP.label>патрон 7,82х39мм (Е)</Ammo_762x38mmR_HP.label>
+  <Ammo_762x38mmR_HP.description>Uncommon rimmed pistol cartridge with the bullet seated further down the casing.</Ammo_762x38mmR_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_762x38mmR_FMJ.label>7.62mmR pistol bullet</Bullet_762x38mmR_FMJ.label>
+  <Bullet_762x38mmR_AP.label>7.62mm pistol bullet (Б)</Bullet_762x38mmR_AP.label>
+  <Bullet_762x38mmR_HP.label>7.62mm pistol bullet (Е)</Bullet_762x38mmR_HP.label>
+
+
+</LanguageData>

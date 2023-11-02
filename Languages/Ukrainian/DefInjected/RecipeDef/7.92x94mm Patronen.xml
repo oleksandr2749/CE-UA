@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_792x94mmPatronen_FMJ.label>зробити патрон 8x94мм x200</MakeAmmo_792x94mmPatronen_FMJ.label>
+  <MakeAmmo_792x94mmPatronen_FMJ.description>Craft 200 8x94мм</MakeAmmo_792x94mmPatronen_FMJ.description>
+  <MakeAmmo_792x94mmPatronen_FMJ.jobString>Робить патрони 8x94мм</MakeAmmo_792x94mmPatronen_FMJ.jobString>
+
+  <MakeAmmo_792x94mmPatronen_AP.label>зробити патрон 8x94мм (Б) x200</MakeAmmo_792x94mmPatronen_AP.label>
+  <MakeAmmo_792x94mmPatronen_AP.description>Craft 200 8x94мм (Б)</MakeAmmo_792x94mmPatronen_AP.description>
+  <MakeAmmo_792x94mmPatronen_AP.jobString>Робить патрони 8x94мм (Б)</MakeAmmo_792x94mmPatronen_AP.jobString>
+
+  <MakeAmmo_792x94mmPatronen_Incendiary.label>зробити патрон 8x94мм (БЗ) x200</MakeAmmo_792x94mmPatronen_Incendiary.label>
+  <MakeAmmo_792x94mmPatronen_Incendiary.description>Craft 200 8x94мм (БЗ)</MakeAmmo_792x94mmPatronen_Incendiary.description>
+  <MakeAmmo_792x94mmPatronen_Incendiary.jobString>Робить патрони 8x94мм (БЗ)</MakeAmmo_792x94mmPatronen_Incendiary.jobString>
+
+  <MakeAmmo_792x94mmPatronen_HE.label>зробити патрон 8x94мм (БФ) x200</MakeAmmo_792x94mmPatronen_HE.label>
+  <MakeAmmo_792x94mmPatronen_HE.description>Craft 200 8x94мм (БФ)</MakeAmmo_792x94mmPatronen_HE.description>
+  <MakeAmmo_792x94mmPatronen_HE.jobString>Робить патрони 8x94мм (БФ)</MakeAmmo_792x94mmPatronen_HE.jobString>
+
+  <MakeAmmo_792x94mmPatronen_Sabot.label>зробити патрон 8x94мм (Підкаліберний) x200</MakeAmmo_792x94mmPatronen_Sabot.label>
+  <MakeAmmo_792x94mmPatronen_Sabot.description>Craft 200 8x94мм (Підкаліберний)</MakeAmmo_792x94mmPatronen_Sabot.description>
+  <MakeAmmo_792x94mmPatronen_Sabot.jobString>Робить патрони 8x94мм (Підкаліберний)</MakeAmmo_792x94mmPatronen_Sabot.jobString>
+
+
+</LanguageData>

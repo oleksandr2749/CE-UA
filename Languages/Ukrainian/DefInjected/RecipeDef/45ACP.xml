@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_45ACP_FMJ.label>зробити патрон .45 ACP x500</MakeAmmo_45ACP_FMJ.label>
+  <MakeAmmo_45ACP_FMJ.description>Виготовити п'ятсот патронів .45 ACP</MakeAmmo_45ACP_FMJ.description>
+  <MakeAmmo_45ACP_FMJ.jobString>Робить патрони .45 ACP</MakeAmmo_45ACP_FMJ.jobString>
+
+  <MakeAmmo_45ACP_AP.label>зробити патрон .45 ACP (Б) x500</MakeAmmo_45ACP_AP.label>
+  <MakeAmmo_45ACP_AP.description>Виготовити п'ятсот патронів .45 ACP (Б)</MakeAmmo_45ACP_AP.description>
+  <MakeAmmo_45ACP_AP.jobString>Робить патрони .45 ACP (Б)</MakeAmmo_45ACP_AP.jobString>
+
+  <MakeAmmo_45ACP_HP.label>зробити патрон .45 ACP (Е) x500</MakeAmmo_45ACP_HP.label>
+  <MakeAmmo_45ACP_HP.description>Виготовити п'ятсот патронів .45 ACP (Е)</MakeAmmo_45ACP_HP.description>
+  <MakeAmmo_45ACP_HP.jobString>Робить патрони .45 ACP (Е)</MakeAmmo_45ACP_HP.jobString>
+
+
+</LanguageData>

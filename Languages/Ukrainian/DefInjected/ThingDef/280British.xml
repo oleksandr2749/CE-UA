@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_280British_FMJ.label>патрон 7,2х43мм</Ammo_280British_FMJ.label>
+  <Ammo_280British_FMJ.description>An experimental rimless bottlenecked intermediate rifle cartridge.</Ammo_280British_FMJ.description>
+
+  <Ammo_280British_AP.label>патрон 7,2х43мм (Б)</Ammo_280British_AP.label>
+  <Ammo_280British_AP.description>An experimental rimless bottlenecked intermediate rifle cartridge.</Ammo_280British_AP.description>
+
+  <Ammo_280British_HP.label>патрон 7,2х43мм (Е)</Ammo_280British_HP.label>
+  <Ammo_280British_HP.description>An experimental rimless bottlenecked intermediate rifle cartridge.</Ammo_280British_HP.description>
+
+  <Ammo_280British_Incendiary.label>патрон 7,2х43мм (БЗ)</Ammo_280British_Incendiary.label>
+  <Ammo_280British_Incendiary.description>An experimental rimless bottlenecked intermediate rifle cartridge.</Ammo_280British_Incendiary.description>
+
+  <Ammo_280British_HE.label>патрон 7,2х43мм (БФ)</Ammo_280British_HE.label>
+  <Ammo_280British_HE.description>An experimental rimless bottlenecked intermediate rifle cartridge.</Ammo_280British_HE.description>
+
+  <Ammo_280British_Sabot.label>патрон 7,2х43мм (Підкаліберний)</Ammo_280British_Sabot.label>
+  <Ammo_280British_Sabot.description>An experimental rimless bottlenecked intermediate rifle cartridge.</Ammo_280British_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_280British_FMJ.label>.280 British cartridge</Bullet_280British_FMJ.label>
+  <Bullet_280British_AP.label>.280 British cartridge (Б)</Bullet_280British_AP.label>
+  <Bullet_280British_HP.label>.280 British cartridge (Е)</Bullet_280British_HP.label>
+  <Bullet_280British_Incendiary.label>.280 British bullet (БЗ)</Bullet_280British_Incendiary.label>
+  <Bullet_280British_HE.label>.280 British bullet (БФ)</Bullet_280British_HE.label>
+  <Bullet_280British_Sabot.label>.280 British bullet (Підкаліберний)</Bullet_280British_Sabot.label>
+
+
+</LanguageData>

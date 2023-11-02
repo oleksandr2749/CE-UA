@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_38Super_FMJ.label>патрон 9х23мм</Ammo_38Super_FMJ.label>
+  <Ammo_38Super_FMJ.description>Dimensionally identical to the .38 ACP cartridge, but with a much higher pressure powder load for more powerful handguns.</Ammo_38Super_FMJ.description>
+
+  <Ammo_38Super_AP.label>патрон 9х23мм (Б)</Ammo_38Super_AP.label>
+  <Ammo_38Super_AP.description>Dimensionally identical to the .38 ACP cartridge, but with a much higher pressure powder load for more powerful handguns.</Ammo_38Super_AP.description>
+
+  <Ammo_38Super_HP.label>патрон 9х23мм (Е)</Ammo_38Super_HP.label>
+  <Ammo_38Super_HP.description>Dimensionally identical to the .38 ACP cartridge, but with a much higher pressure powder load for more powerful handguns.</Ammo_38Super_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_38Super_FMJ.label>.38 Super bullet</Bullet_38Super_FMJ.label>
+  <Bullet_38Super_AP.label>.38 Super bullet (Б)</Bullet_38Super_AP.label>
+  <Bullet_38Super_HP.label>.38 Super bullet (Е)</Bullet_38Super_HP.label>
+
+
+</LanguageData>

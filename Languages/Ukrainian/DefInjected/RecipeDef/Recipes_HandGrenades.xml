@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeConcussionGrenade.label>зробити патрон concussion grenades x10</MakeConcussionGrenade.label>
+  <MakeConcussionGrenade.description>Craft 10 concussion grenade</MakeConcussionGrenade.description>
+  <MakeConcussionGrenade.jobString>Робить патрони concussion grenade</MakeConcussionGrenade.jobString>
+
+  <MakeFragGrenade.label>зробити патрон frag grenades x10</MakeFragGrenade.label>
+  <MakeFragGrenade.description>Craft 10 frag grenade</MakeFragGrenade.description>
+  <MakeFragGrenade.jobString>Робить патрони frag grenade</MakeFragGrenade.jobString>
+
+  <MakeMolotovCocktail.label>зробити патрон molotov cocktails x10</MakeMolotovCocktail.label>
+  <MakeMolotovCocktail.description>Craft 10 molotov cocktail</MakeMolotovCocktail.description>
+  <MakeMolotovCocktail.jobString>Робить патрони molotov cocktail</MakeMolotovCocktail.jobString>
+
+  <MakeEMPGrenade.label>зробити патрон EMP grenades x10</MakeEMPGrenade.label>
+  <MakeEMPGrenade.description>Craft 10 EMP grenade</MakeEMPGrenade.description>
+  <MakeEMPGrenade.jobString>Робить патрони EMP grenade</MakeEMPGrenade.jobString>
+
+  <MakeFlashbangGrenade.label>зробити патрон flashbang grenades x10</MakeFlashbangGrenade.label>
+  <MakeFlashbangGrenade.description>Craft 10 flashbang grenade</MakeFlashbangGrenade.description>
+  <MakeFlashbangGrenade.jobString>Робить патрони flashbang grenade</MakeFlashbangGrenade.jobString>
+
+  <MakeStickBomb.label>зробити патрон stick bombs x10</MakeStickBomb.label>
+  <MakeStickBomb.description>Craft 10 stick bomb</MakeStickBomb.description>
+  <MakeStickBomb.jobString>Робить патрони stick bomb</MakeStickBomb.jobString>
+
+  <MakeSmokeGrenade.label>зробити патрон smoke grenades x10</MakeSmokeGrenade.label>
+  <MakeSmokeGrenade.description>Craft 10 smoke grenade</MakeSmokeGrenade.description>
+  <MakeSmokeGrenade.jobString>Робить патрони smoke grenade</MakeSmokeGrenade.jobString>
+
+  <MakeFirefoamGrenade.label>зробити патрон firefoam grenades x10</MakeFirefoamGrenade.label>
+  <MakeFirefoamGrenade.description>Craft 10 firefoam grenade</MakeFirefoamGrenade.description>
+  <MakeFirefoamGrenade.jobString>Робить патрони firefoam grenade</MakeFirefoamGrenade.jobString>
+
+  <MakeToxGrenade.label>зробити патрон tox grenades x10</MakeToxGrenade.label>
+  <MakeToxGrenade.description>Craft 10 tox grenade</MakeToxGrenade.description>
+  <MakeToxGrenade.jobString>Робить патрони tox grenade</MakeToxGrenade.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_473x33mmCaseless_FMJ.label>зробити патрон 4.73x33mm Caseless x500</MakeAmmo_473x33mmCaseless_FMJ.label>
+  <MakeAmmo_473x33mmCaseless_FMJ.description>Виготовити п'ятсот патронів 4.73x33mm Caseless</MakeAmmo_473x33mmCaseless_FMJ.description>
+  <MakeAmmo_473x33mmCaseless_FMJ.jobString>Робить патрони 4.73x33mm Caseless</MakeAmmo_473x33mmCaseless_FMJ.jobString>
+
+  <MakeAmmo_473x33mmCaseless_AP.label>зробити патрон 4.73x33mm Caseless (Б) x500</MakeAmmo_473x33mmCaseless_AP.label>
+  <MakeAmmo_473x33mmCaseless_AP.description>Виготовити п'ятсот патронів 4.73x33mm Caseless (Б)</MakeAmmo_473x33mmCaseless_AP.description>
+  <MakeAmmo_473x33mmCaseless_AP.jobString>Робить патрони 4.73x33mm Caseless (Б)</MakeAmmo_473x33mmCaseless_AP.jobString>
+
+  <MakeAmmo_473x33mmCaseless_HP.label>зробити патрон 4.73x33mm Caseless (Е) x500</MakeAmmo_473x33mmCaseless_HP.label>
+  <MakeAmmo_473x33mmCaseless_HP.description>Виготовити п'ятсот патронів 4.73x33mm Caseless (Е)</MakeAmmo_473x33mmCaseless_HP.description>
+  <MakeAmmo_473x33mmCaseless_HP.jobString>Робить патрони 4.73x33mm Caseless (Е)</MakeAmmo_473x33mmCaseless_HP.jobString>
+
+  <MakeAmmo_473x33mmCaseless_Incendiary.label>зробити патрон 4.73x33mm Caseless (БЗ) x500</MakeAmmo_473x33mmCaseless_Incendiary.label>
+  <MakeAmmo_473x33mmCaseless_Incendiary.description>Виготовити п'ятсот патронів 4.73x33mm Caseless (БЗ)</MakeAmmo_473x33mmCaseless_Incendiary.description>
+  <MakeAmmo_473x33mmCaseless_Incendiary.jobString>Робить патрони 4.73x33mm Caseless (БЗ)</MakeAmmo_473x33mmCaseless_Incendiary.jobString>
+
+  <MakeAmmo_473x33mmCaseless_HE.label>зробити патрон 4.73x33mm Caseless (БФ) x500</MakeAmmo_473x33mmCaseless_HE.label>
+  <MakeAmmo_473x33mmCaseless_HE.description>Виготовити п'ятсот патронів 4.73x33mm Caseless (БФ)</MakeAmmo_473x33mmCaseless_HE.description>
+  <MakeAmmo_473x33mmCaseless_HE.jobString>Робить патрони 4.73x33mm Caseless (БФ)</MakeAmmo_473x33mmCaseless_HE.jobString>
+
+  <MakeAmmo_473x33mmCaseless_Sabot.label>зробити патрон 4.73x33mm Caseless (Підкаліберний) x500</MakeAmmo_473x33mmCaseless_Sabot.label>
+  <MakeAmmo_473x33mmCaseless_Sabot.description>Виготовити п'ятсот патронів 4.73x33mm Caseless (Підкаліберний)</MakeAmmo_473x33mmCaseless_Sabot.description>
+  <MakeAmmo_473x33mmCaseless_Sabot.jobString>Робить патрони 4.73x33mm Caseless (Підкаліберний)</MakeAmmo_473x33mmCaseless_Sabot.jobString>
+
+
+</LanguageData>

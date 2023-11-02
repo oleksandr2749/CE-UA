@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_8x50mmCharged.label>енергопатрон 8x50мм</Ammo_8x50mmCharged.label>
+  <Ammo_8x50mmCharged.description>High power charged shot ammo used by advanced battle rifles, machineguns and sniper rifles.</Ammo_8x50mmCharged.description>
+
+  <Ammo_8x50mmCharged_AP.label>енергопатрон 8x50мм (Conc.)</Ammo_8x50mmCharged_AP.label>
+  <Ammo_8x50mmCharged_AP.description>High power charged shot ammo used by advanced battle rifles, machineguns and sniper rifles.</Ammo_8x50mmCharged_AP.description>
+
+  <Ammo_8x50mmCharged_Ion.label>енергопатрон 8x50мм (Ion)</Ammo_8x50mmCharged_Ion.label>
+  <Ammo_8x50mmCharged_Ion.description>High power charged shot ammo used by advanced battle rifles, machineguns and sniper rifles.</Ammo_8x50mmCharged_Ion.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_8x50mmCharged.label>8x50mm Charged bullet</Bullet_8x50mmCharged.label>
+  <Bullet_8x50mmCharged_AP.label>8x50mm Charged bullet (Conc.)</Bullet_8x50mmCharged_AP.label>
+  <Bullet_8x50mmCharged_Ion.label>8x50mm Charged bullet (Ion)</Bullet_8x50mmCharged_Ion.label>
+
+
+</LanguageData>

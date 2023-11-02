@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_Flare.label>зробити патрон flare x200</MakeAmmo_Flare.label>
+  <MakeAmmo_Flare.description>Craft 200 flare shell</MakeAmmo_Flare.description>
+  <MakeAmmo_Flare.jobString>Робить патрони flare shell</MakeAmmo_Flare.jobString>
+
+
+</LanguageData>

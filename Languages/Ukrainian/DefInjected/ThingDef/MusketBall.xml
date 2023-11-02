@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_MusketBall.label>мушкетна куля</Ammo_MusketBall.label>
+  <Ammo_MusketBall.description>A paper cartridge sealed with wax containing a round projectile and black powder, fired by early, smoothbore firearms.</Ammo_MusketBall.description>
+
+
+  <!-- Projectiles (High Velocity) -->
+
+  <Bullet_FastMusketBall.label>musket ball</Bullet_FastMusketBall.label>
+
+
+  <!-- Projectiles (Low Velocity) -->
+
+  <Bullet_SlowMusketBall.label>musket ball</Bullet_SlowMusketBall.label>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_37x223mmR_AP.label>зробити патрон 37x223mmR (Б) x25</MakeAmmo_37x223mmR_AP.label>
+  <MakeAmmo_37x223mmR_AP.description>Craft 25 37x223mmR (Б)</MakeAmmo_37x223mmR_AP.description>
+  <MakeAmmo_37x223mmR_AP.jobString>Робить патрони 37x223mmR (Б)</MakeAmmo_37x223mmR_AP.jobString>
+
+  <MakeAmmo_37x223mmR_HE.label>зробити патрон 37x223mmR (HE) x25</MakeAmmo_37x223mmR_HE.label>
+  <MakeAmmo_37x223mmR_HE.description>Craft 25 37x223mmR (HE)</MakeAmmo_37x223mmR_HE.description>
+  <MakeAmmo_37x223mmR_HE.jobString>Робить патрони 37x223mmR (HE)</MakeAmmo_37x223mmR_HE.jobString>
+
+
+</LanguageData>
